@@ -708,6 +708,177 @@ Genomics on the Linux command line
 Five days of hands-on training covering Linux command line tools for genomic data analysis (10 participants).
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2022
+:::
+::: {.cv-title}
+Introduction to single-cell RNAseq data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Five days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2022
+:::
+::: {.cv-title}
+R for data science and genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Ten days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2022
+:::
+::: {.cv-title}
+Version control using Git and GitHub
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+One day lesson of hands-on training covering version control using Git and GitHub as part of the 'Python programming and data science' curriculum (12 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2022
+:::
+::: {.cv-title}
+Genomics on the Linux command line
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Four days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+May 2022
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Nineteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jan 2022-\
+Feb 2022
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Twenty days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2021-\
+Oct 2021
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Twenty days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+May 2021-\
+Jun 2021
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Thirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jan 2021-\
+Feb 2021
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Thirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2020-\
+Oct 2020
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Sixteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2020-\
+Jun 2020
+:::
+::: {.cv-title}
+Oxford Biomedical Data Science (OBDS) Training Programme
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Thirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
 :::
 
 [obds-training]: https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme
