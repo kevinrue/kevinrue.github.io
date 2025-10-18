@@ -780,7 +780,7 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 [Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
 :::
 ::: {.cv-description}
-Nineteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+Fifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
 :::
 :::
 
@@ -796,7 +796,7 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 [Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
 :::
 ::: {.cv-description}
-Twenty days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+Fifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
 :::
 :::
 
@@ -812,7 +812,7 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 [Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
 :::
 ::: {.cv-description}
-Twenty days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+Fifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
 :::
 :::
 
