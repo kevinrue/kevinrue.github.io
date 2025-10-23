@@ -4,7 +4,7 @@ title: "Software"
 
 ## Bioconductor
 
-My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualization.
+My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation.
 
 ::: {.software-section}
 
@@ -13,7 +13,7 @@ My research and development work has resulted in various software packages, prim
 iSEEpathways
 :::
 ::: {.software-description}
-Extension package for iSEE providing panels for pathway analysis visualization.
+Extension package for iSEE providing panels for pathway analysis visualisation.
 :::
 ::: {.software-links}
 [{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEpathways) &nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@ Extension package for iSEE providing panels for pathway analysis visualization.
 iSEEde
 :::
 ::: {.software-description}
-Extension package for iSEE providing panels for differential expression analysis visualization.
+Extension package for iSEE providing panels for differential expression analysis visualisation.
 :::
 ::: {.software-links}
 [{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEde) &nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@ Extension package for iSEE that provides functionality to create interactive mul
 iSEE
 :::
 ::: {.software-description}
-Interactive SummarizedExperiment Explorer - A Bioconductor package for interactive visualization of genomics data.
+Interactive SummarizedExperiment Explorer - A Bioconductor package for interactive visualisation of genomics data.
 :::
 ::: {.software-links}
 [{{< fa globe >}} Website](https://isee.github.io/) &nbsp;&nbsp;&nbsp;
@@ -80,6 +80,23 @@ Interactive SummarizedExperiment Explorer - A Bioconductor package for interacti
 ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
 ![](https://bioconductor.org/shields/years-in-bioc/iSEE.svg)
 ![](https://img.shields.io/badge/published-F1000Research-blue)
+:::
+:::
+
+::: {.software-entry}
+::: {.software-name}
+TVTB
+:::
+::: {.software-description}
+The VCF Tool Box - A Bioconductor package providing S4 classes and methods to filter, summarise and visualise genetic variation data stored in VCF files.
+:::
+::: {.software-links}
+[{{< fa brands github >}} GitHub](https://github.com/kevinrue/TVTB) &nbsp;&nbsp;&nbsp;
+[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/TVTB)
+:::
+::: {.software-badges}
+![](https://img.shields.io/github/stars/kevinrue/TVTB?style=social)
+![](https://bioconductor.org/shields/years-in-bioc/TVTB.svg)
 :::
 :::
 
@@ -111,7 +128,7 @@ A Bioconductor package for visualisation of quantitative and qualitative gene ex
 Panpipes
 :::
 ::: {.software-description}
-A collection of cgat-core/ruffus pipelines to streamline the analysis of multi-modal single cell data. Supports scRNAseq, CITEseq, scV(D)Jseq, scATACseq, and spatial transcriptomics data with comprehensive workflows for quality control, preprocessing, integration, clustering, and visualization.
+A collection of cgat-core/ruffus pipelines to streamline the analysis of multi-modal single cell data. Supports scRNAseq, CITEseq, scV(D)Jseq, scATACseq, and spatial transcriptomics data with comprehensive workflows for quality control, preprocessing, integration, clustering, and visualisation.
 :::
 ::: {.software-links}
 [{{< fa globe >}} Documentation](https://panpipes-pipelines.readthedocs.io/en/latest/) &nbsp;&nbsp;&nbsp;
