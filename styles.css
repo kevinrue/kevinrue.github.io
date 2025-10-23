@@ -234,20 +234,20 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.3rem;
   font-weight: 700;
   color: #325d88;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.075rem;
 }
 
 .software-description {
   color: #495057;
   line-height: 1.5;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.2rem;
 }
 
 .software-links {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.2rem;
 }
 
 .software-links a {
