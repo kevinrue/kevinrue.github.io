@@ -306,6 +306,22 @@ SIB Days Workshop
 Co-organised and delivered a 2h30 online workshop [iSEE: Interactive visualization of SummarizedExperiment objects](https://github.com/iSEE/iSEEWorkshop2020) at the [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (9-10 June 2020).
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2019-\
+2020
+:::
+::: {.cv-title}
+R Code Clinic
+:::
+::: {.cv-location}
+Big Data Institute (University of Oxford)
+:::
+::: {.cv-description}
+Volunteer mentor assisting individuals with any R programming questions as part of the [BDI R Code Clinic](https://www.bdi.ox.ac.uk/upcoming-events/bdi-r-code-clinic-programming-with-the-tidyverse) series.
+:::
+:::
 :::
 
 [obds-training]: https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme
