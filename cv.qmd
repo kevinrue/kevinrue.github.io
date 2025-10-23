@@ -254,8 +254,25 @@ Please note that the following section is a summary; for more details, please vi
 
 ::: {.cv-entry}
 ::: {.cv-dates}
-Apr 2020 -\
-present
+2021 - present
+:::
+::: {.cv-title}
+Bioconductor Education Committee
+:::
+::: {.cv-location}
+[Bioconductor](https://bioconductor.org/)
+:::
+::: {.cv-description}
+Co-lead and contributor to the [Bioconductor Education Committee](https://workinggroups.bioconductor.org/currently-active-working-groups-committees.html#education), developing educational materials and organising training events for the Bioconductor community.
+
+- Delivered lesson [Orchestrating Large-Scale Single-Cell Analysis with Bioconductor](https://carpentries-incubator.github.io/bioc-scrnaseq/) (15-16 September 2025 -- Barcelona, Spain).
+- Developed lesson [The Bioconductor project](https://carpentries-incubator.github.io/bioc-project/).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2020 - present
 :::
 ::: {.cv-title}
 Oxford Biomedical Data Science (OBDS) Training Programme
