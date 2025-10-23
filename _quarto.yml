@@ -11,6 +11,8 @@ website:
         text: Home
       - href: software.qmd
         text: Software
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: CV
 
