@@ -624,6 +624,21 @@ Sixteen (of thirty) days of hands-on training covering Linux, Python, and R prog
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+Jun 2020
+:::
+::: {.cv-title}
+SIB Days Workshop
+:::
+::: {.cv-location}
+[SIB Days](https://sibdays.sib.swiss/)
+:::
+::: {.cv-description}
+Co-organised and delivered a 2h30 online workshop [iSEE: Interactive visualization of SummarizedExperiment objects](https://github.com/iSEE/iSEEWorkshop2020) at the [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (9-10 June 2020).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 Apr 2020-\
 Jun 2020
 :::

@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 **Kevin Rue-Albrecht, Computational Biologist (Dipl. Ing., Ph.D.)**
 
 ::: {.cv-section}
-### Education
+## Education
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -54,7 +54,7 @@ Lycée Jean Rostand, Strasbourg (France)
 :::
 
 ::: {.cv-section}
-### Research Experience
+## Research Experience
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -208,7 +208,7 @@ Project supervisor: [Henri de la Salle](https://orcid.org/0000-0001-5136-0776)
 :::
 
 ::: {.cv-section}
-### Professional Experience
+## Professional Experience
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -248,7 +248,7 @@ Implemented functionality for structurally-constrained multiple alignment of pro
 :::
 
 ::: {.cv-section}
-### Teaching Experience
+## Teaching Experience
 
 Please note that the following section is a summary; for more details, please visit the [Teaching](teaching.qmd) page.
 
@@ -289,6 +289,21 @@ Hands-on training delivered to small groups of researchers for the [Oxford Biome
 - Introduction to single-cell RNAseq data analysis using R
 - Spatial Transcriptomics data analysis using R
 - Containers for Reproducible Research
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jun 2020
+:::
+::: {.cv-title}
+SIB Days Workshop
+:::
+::: {.cv-location}
+[SIB Days](https://sibdays.sib.swiss/)
+:::
+::: {.cv-description}
+Co-organised and delivered a 2h30 online workshop [iSEE: Interactive visualization of SummarizedExperiment objects](https://github.com/iSEE/iSEEWorkshop2020) at the [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (9-10 June 2020).
 :::
 :::
 :::
