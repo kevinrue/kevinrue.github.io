@@ -2,11 +2,65 @@
 title: "Software"
 ---
 
-## R Packages & Software
+## Bioconductor
 
 My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualization.
 
 ::: {.software-section}
+
+::: {.software-entry}
+::: {.software-name}
+iSEEpathways
+:::
+::: {.software-description}
+Extension package for iSEE providing panels for pathway analysis visualization.
+:::
+::: {.software-links}
+[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEpathways) &nbsp;&nbsp;&nbsp;
+[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEpathways)
+:::
+::: {.software-badges}
+![](https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social)
+![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEpathways.svg)
+:::
+:::
+
+::: {.software-entry}
+::: {.software-name}
+iSEEde
+:::
+::: {.software-description}
+Extension package for iSEE providing panels for differential expression analysis visualization.
+:::
+::: {.software-links}
+[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEde) &nbsp;&nbsp;&nbsp;
+[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEde)
+:::
+::: {.software-badges}
+![](https://img.shields.io/github/stars/iSEE/iSEEde?style=social)
+![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEde.svg)
+:::
+:::
+
+::: {.software-entry}
+::: {.software-name}
+iSEEindex
+:::
+::: {.software-description}
+Extension package for iSEE that provides functionality to create interactive multi-dataset explorers.
+:::
+::: {.software-links}
+[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEindex) &nbsp;&nbsp;&nbsp;
+[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEindex)
+:::
+::: {.software-badges}
+![](https://img.shields.io/github/stars/iSEE/iSEEindex?style=social)
+![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+![](https://bioconductor.org/shields/years-in-bioc/iSEEindex.svg)
+:::
+:::
 
 ::: {.software-entry}
 ::: {.software-name}
@@ -31,55 +85,18 @@ Interactive SummarizedExperiment Explorer - A Bioconductor package for interacti
 
 ::: {.software-entry}
 ::: {.software-name}
-iSEEindex
+GOexpress
 :::
 ::: {.software-description}
-Extension package for iSEE that provides functionality to create interactive multi-dataset explorers.
+A Bioconductor package for visualisation of quantitative and qualitative gene expression patterns with associated gene ontology (GO) annotations.
 :::
 ::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEindex) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEindex)
+[{{< fa brands github >}} GitHub](https://github.com/kevinrue/GOexpress) &nbsp;&nbsp;&nbsp;
+[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/GOexpress)
 :::
 ::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEEindex?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEindex.svg)
-:::
-:::
-
-::: {.software-entry}
-::: {.software-name}
-iSEEde
-:::
-::: {.software-description}
-Extension package for iSEE providing panels for differential expression analysis visualization.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEde) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEde)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEEde?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEde.svg)
-:::
-:::
-
-::: {.software-entry}
-::: {.software-name}
-iSEEpathways
-:::
-::: {.software-description}
-Extension package for iSEE providing panels for pathway analysis visualization.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEpathways) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEpathways)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEpathways.svg)
+![](https://img.shields.io/github/stars/kevinrue/GOexpress?style=social)
+![](https://bioconductor.org/shields/years-in-bioc/GOexpress.svg)
 :::
 :::
 
