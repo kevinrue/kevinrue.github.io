@@ -53,21 +53,42 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation.\n\n\n\niSEEpathways\n\n\nExtension package for iSEE providing panels for pathway analysis visualisation.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEEde\n\n\nExtension package for iSEE providing panels for differential expression analysis visualisation.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEEindex\n\n\nExtension package for iSEE that provides functionality to create interactive multi-dataset explorers.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEE\n\n\nInteractive SummarizedExperiment Explorer - A Bioconductor package for interactive visualisation of genomics data.\n\n\n Website      GitHub      Bioconductor      Paper\n\n\n   \n\n\n\n\nTVTB\n\n\nThe VCF Tool Box - A Bioconductor package providing S4 classes and methods to filter, summarise and visualise genetic variation data stored in VCF files.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\nGOexpress\n\n\nA Bioconductor package for visualisation of quantitative and qualitative gene expression patterns with associated gene ontology (GO) annotations.\n\n\n GitHub      Bioconductor"
+    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation."
   },
   {
-    "objectID": "software.html#bioconductor",
-    "href": "software.html#bioconductor",
+    "objectID": "software.html#isee-ecosystem",
+    "href": "software.html#isee-ecosystem",
     "title": "Software",
-    "section": "",
-    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation.\n\n\n\niSEEpathways\n\n\nExtension package for iSEE providing panels for pathway analysis visualisation.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEEde\n\n\nExtension package for iSEE providing panels for differential expression analysis visualisation.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEEindex\n\n\nExtension package for iSEE that provides functionality to create interactive multi-dataset explorers.\n\n\n GitHub      Bioconductor\n\n\n  \n\n\n\n\niSEE\n\n\nInteractive SummarizedExperiment Explorer - A Bioconductor package for interactive visualisation of genomics data.\n\n\n Website      GitHub      Bioconductor      Paper\n\n\n   \n\n\n\n\nTVTB\n\n\nThe VCF Tool Box - A Bioconductor package providing S4 classes and methods to filter, summarise and visualise genetic variation data stored in VCF files.\n\n\n GitHub      Bioconductor\n\n\n \n\n\n\n\nGOexpress\n\n\nA Bioconductor package for visualisation of quantitative and qualitative gene expression patterns with associated gene ontology (GO) annotations.\n\n\n GitHub      Bioconductor"
+    "section": "iSEE Ecosystem",
+    "text": "iSEE Ecosystem\nThe iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.\n\n\niSEE\nCore framework for interactive visualisation of genomics data.\n\n   \n \n\n\n\niSEEindex\nPortal for multiple data sets in a single interface.\n\n \n\n\n\n\niSEEde\nDifferential expression visualisation panels.\n\n \n\n\n\n\niSEEpathways\nPathway analysis visualisation panels.\n\n \n\n\n\n\niSEEhex\nPanels specialised in hexagonal binning.\n\n \n\n\n\n\niSEEhub\nPortal for the Bioconductor ExperimentHub data resources.\n\n \n\n\n\n\niSEEu\nThe “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.\n\n \n\n\n\n\n\n For more information and links to third-party extensions, please visit the iSEE website."
+  },
+  {
+    "objectID": "software.html#other-bioconductor-packages",
+    "href": "software.html#other-bioconductor-packages",
+    "title": "Software",
+    "section": "Other Bioconductor Packages",
+    "text": "Other Bioconductor Packages\nOther software packages I have developed and maintain in the Bioconductor project include:\n\n\nvelociraptor\nA tool for the analysis of RNA velocity in single-cell RNA-seq data.\n\n \n\n\n\n\nTVTB\nThe VCF Tool Box for genetic variation data.\n\n \n\n\n\n\nGOexpress\nGene expression patterns with GO annotations."
+  },
+  {
+    "objectID": "software.html#bioconductor-contributions",
+    "href": "software.html#bioconductor-contributions",
+    "title": "Software",
+    "section": "Bioconductor Contributions",
+    "text": "Bioconductor Contributions\nBioconductor packages to which I have contributed code, documentation, or other improvements.\n\n\nBiocCheck\nA package for checking Bioconductor package compliance."
   },
   {
     "objectID": "software.html#other-contributions",
     "href": "software.html#other-contributions",
     "title": "Software",
     "section": "Other Contributions",
-    "text": "Other Contributions\n\n\n\nPanpipes\n\n\nA collection of cgat-core/ruffus pipelines to streamline the analysis of multi-modal single cell data. Supports scRNAseq, CITEseq, scV(D)Jseq, scATACseq, and spatial transcriptomics data with comprehensive workflows for quality control, preprocessing, integration, clustering, and visualisation.\n\n\n Documentation      GitHub      Paper"
+    "text": "Other Contributions\n\n\nPanpipes\nMulti-modal single cell analysis pipelines.\nComprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics"
+  },
+  {
+    "objectID": "software.html#pet-projects",
+    "href": "software.html#pet-projects",
+    "title": "Software",
+    "section": "Pet Projects",
+    "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
   },
   {
     "objectID": "teaching.html",

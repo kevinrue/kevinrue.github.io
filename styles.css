@@ -210,84 +210,96 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.15rem;
 }
 
-/* Software Section Styling */
-.software-section {
-  margin-bottom: 2rem;
-}
-
-.software-entry {
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  background-color: #f8f9fa;
-  transition: box-shadow 0.2s ease;
-}
-
-.software-entry:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.software-name {
-  font-size: 1.3rem;
-  font-weight: 700;
-  color: #325d88;
-  margin-bottom: 0.075rem;
-}
-
-.software-description {
-  color: #495057;
-  line-height: 1.5;
-  margin-bottom: 0.2rem;
-}
-
-.software-links {
-  display: flex;
-  flex-wrap: wrap;
+/* Software Grid Layout - Compact Card Design */
+.software-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1rem;
-  margin-bottom: 0.2rem;
+  margin-bottom: 2rem;
 }
 
-.software-links a {
+.software-card {
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  background-color: #fafafa;
+  transition: all 0.2s ease;
+  line-height: 1.5;
+}
+
+.software-card:hover {
+  border-color: #325d88;
+  box-shadow: 0 2px 8px rgba(50, 93, 136, 0.1);
+  background-color: #ffffff;
+}
+
+.software-card strong {
+  color: #325d88;
+  font-size: 1.05rem;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.software-card p {
+  margin-bottom: 0;
+}
+
+.software-links-inline {
+  margin-top: 0.8rem;
+}
+
+.software-links-inline a {
+  margin-right: 0.5rem;
+}
+
+.software-card a {
   color: #2c5aa0;
   text-decoration: none;
-  font-weight: 500;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.25rem;
 }
 
-.software-links a:hover {
+.software-card a:hover {
   text-decoration: underline;
 }
 
-.software-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  align-items: center;
+.software-card img {
+  height: 18px;
+  margin-top: 0.4rem;
+  margin-right: 0.3rem;
 }
 
-.software-badges img {
-  height: 20px;
+.software-card-wide {
+  grid-column: 1 / -1;
 }
 
-/* Responsive adjustments for software page */
+/* Info Banner */
+.info-banner {
+  background-color: #f0f4f8;
+  border-left: 3px solid #325d88;
+  padding: 0.75rem 1rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+  color: #495057;
+  font-size: 0.95rem;
+}
+
+.info-banner a {
+  color: #2c5aa0;
+  font-weight: 500;
+}
+
+.info-banner .fa-circle-info {
+  color: #325d88;
+  margin-right: 0.5rem;
+}
+
+/* Responsive adjustments for software grid */
 @media (max-width: 768px) {
-  .software-entry {
-    padding: 1rem;
-    margin-bottom: 1.5rem;
+  .software-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
   }
   
-  .software-links {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  
-  .software-badges {
-    flex-direction: column;
-    align-items: flex-start;
+  .software-card {
+    padding: 0.875rem;
   }
 }
