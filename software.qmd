@@ -8,6 +8,8 @@ My research and development work has resulted in various software packages, prim
 
 The iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.
 
+I have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.
+
 ::: {.software-grid}
 
 ::: {.software-card}
