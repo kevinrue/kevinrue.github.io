@@ -44,6 +44,21 @@ h1, h2, h3, h4, h5, h6 {
   color: #325d88;
 }
 
+/* Section headers (h2) - Enhanced visual separation */
+h2 {
+  color: #325d88;
+  border-bottom: 2px solid #325d88;
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  font-weight: 600;
+}
+
+/* First h2 on page - less top margin */
+h2:first-of-type {
+  margin-top: 1.5rem;
+}
+
 /* Ensure Bootstrap grid works properly in Quarto */
 .container-fluid {
   width: 100%;
