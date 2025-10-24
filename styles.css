@@ -248,10 +248,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0.8rem;
 }
 
+.software-links-inline a {
+  margin-right: 0.5rem;
+}
+
 .software-card a {
   color: #2c5aa0;
   text-decoration: none;
-  margin-right: 0.5rem;
 }
 
 .software-card a:hover {

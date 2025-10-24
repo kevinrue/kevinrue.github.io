@@ -173,3 +173,55 @@ Comprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and sp
 :::
 
 :::
+
+## Pet Projects
+
+Personal software experiments and tools available on GitHub.
+
+::: {.software-grid}
+
+::: {.software-card}
+**deeperTools**
+
+R package to process files produced by [deepTools](https://deeptools.readthedocs.io/en/latest/).
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/deeperTools)  
+![](https://img.shields.io/github/stars/kevinrue/deeperTools?style=social)
+:::
+:::
+
+::: {.software-card}
+**sqlighter**
+
+R package providing wrapper functions around the [RSQLite](https://cran.r-project.org/package=RSQLite) package.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/sqlighter)  
+![](https://img.shields.io/github/stars/kevinrue/sqlighter?style=social)
+:::
+:::
+
+::: {.software-card}
+**hancock**
+
+R package for learning and applying gene signatures associated with cellular phenotypes and identities.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/hancock)  
+![](https://img.shields.io/github/stars/kevinrue/hancock?style=social)
+:::
+:::
+
+::: {.software-card}
+**unisets**
+
+R package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/unisets)  
+![](https://img.shields.io/github/stars/kevinrue/unisets?style=social)
+:::
+:::
+
+:::
