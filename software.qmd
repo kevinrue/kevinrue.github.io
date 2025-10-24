@@ -54,11 +54,57 @@ Pathway analysis visualisation panels.
 :::
 :::
 
+::: {.software-card}
+**iSEEhex**
+
+Panels specialised in hexagonal binning.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEhex) [{{< fa box >}}](https://bioconductor.org/packages/iSEEhex)  
+![](https://img.shields.io/github/stars/iSEE/iSEEhex?style=social)
+:::
+:::
+
+::: {.software-card}
+**iSEEhub**
+
+Portal for the Bioconductor ExperimentHub data resources.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEhub) [{{< fa box >}}](https://bioconductor.org/packages/iSEEhub)  
+![](https://img.shields.io/github/stars/iSEE/iSEEhub?style=social)
+:::
+:::
+
+::: {.software-card}
+**iSEEu**
+
+The "iSEE universe".
+Goal: a wrapper for all iSEE extensions, like the tidyverse.
+For now, a collection of miscellaneous panels and "modes".
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEu) [{{< fa box >}}](https://bioconductor.org/packages/iSEEu)  
+![](https://img.shields.io/github/stars/iSEE/iSEEu?style=social)
+:::
+:::
+
 :::
 
 ## Other Bioconductor Packages
 
 ::: {.software-grid}
+
+::: {.software-card}
+**velociraptor**
+
+A tool for the analysis of RNA velocity in single-cell RNA-seq data.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/velociraptor) [{{< fa box >}}](https://bioconductor.org/packages/velociraptor)  
+![](https://img.shields.io/github/stars/kevinrue/velociraptor?style=social)
+:::
+:::
 
 ::: {.software-card}
 **TVTB**
