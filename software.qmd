@@ -97,6 +97,8 @@ For now, a collection of miscellaneous panels and "modes".
 
 ## Other Bioconductor Packages
 
+Other software packages I have developed and maintain in the Bioconductor project include:
+
 ::: {.software-grid}
 
 ::: {.software-card}
@@ -134,7 +136,26 @@ Gene expression patterns with GO annotations.
 
 :::
 
-## Contributions
+## Bioconductor Contributions
+
+Bioconductor packages to which I have contributed code, documentation, or other improvements.
+
+::: {.software-grid}
+
+::: {.software-card}
+**BiocCheck**
+
+A package for checking Bioconductor package compliance.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/Bioconductor/BiocCheck) [{{< fa box >}}](https://bioconductor.org/packages/BiocCheck)  
+![](https://img.shields.io/github/stars/Bioconductor/BiocCheck?style=social)
+:::
+:::
+
+:::
+
+## Other Contributions
 
 ::: {.software-grid}
 
