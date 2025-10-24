@@ -2,142 +2,102 @@
 title: "Software"
 ---
 
-## Bioconductor
-
 My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation.
 
-::: {.software-section}
+## iSEE Ecosystem
 
-::: {.software-entry}
-::: {.software-name}
-iSEEpathways
-:::
-::: {.software-description}
-Extension package for iSEE providing panels for pathway analysis visualisation.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEpathways) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEpathways)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEpathways.svg)
+The iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.
+
+::: {.software-grid}
+
+::: {.software-card}
+**iSEE**
+
+Core framework for interactive visualisation of genomics data.
+
+::: {.software-links-inline}
+[{{< fa globe >}}](https://isee.github.io/) [{{< fa brands github >}}](https://github.com/iSEE/iSEE) [{{< fa box >}}](https://bioconductor.org/packages/iSEE) [{{< fa file-text >}}](https://f1000research.com/articles/7-741/v1)  
+![](https://img.shields.io/github/stars/iSEE/iSEE?style=social) ![](https://img.shields.io/badge/published-F1000Research-blue)
 :::
 :::
 
-::: {.software-entry}
-::: {.software-name}
-iSEEde
-:::
-::: {.software-description}
-Extension package for iSEE providing panels for differential expression analysis visualisation.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEde) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEde)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEEde?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEde.svg)
-:::
-:::
+::: {.software-card}
+**iSEEindex**
 
-::: {.software-entry}
-::: {.software-name}
-iSEEindex
-:::
-::: {.software-description}
-Extension package for iSEE that provides functionality to create interactive multi-dataset explorers.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEEindex) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEEindex)
-:::
-::: {.software-badges}
+Portal for multiple data sets in a single interface.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEindex) [{{< fa box >}}](https://bioconductor.org/packages/iSEEindex)  
 ![](https://img.shields.io/github/stars/iSEE/iSEEindex?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEEindex.svg)
 :::
 :::
 
-::: {.software-entry}
-::: {.software-name}
-iSEE
-:::
-::: {.software-description}
-Interactive SummarizedExperiment Explorer - A Bioconductor package for interactive visualisation of genomics data.
-:::
-::: {.software-links}
-[{{< fa globe >}} Website](https://isee.github.io/) &nbsp;&nbsp;&nbsp;
-[{{< fa brands github >}} GitHub](https://github.com/iSEE/iSEE) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/iSEE) &nbsp;&nbsp;&nbsp;
-[{{< fa file-text >}} Paper](https://f1000research.com/articles/7-741/v1)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/iSEE/iSEE?style=social)
-![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
-![](https://bioconductor.org/shields/years-in-bioc/iSEE.svg)
-![](https://img.shields.io/badge/published-F1000Research-blue)
+::: {.software-card}
+**iSEEde**
+
+Differential expression visualisation panels.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEde) [{{< fa box >}}](https://bioconductor.org/packages/iSEEde)  
+![](https://img.shields.io/github/stars/iSEE/iSEEde?style=social)
 :::
 :::
 
-::: {.software-entry}
-::: {.software-name}
-TVTB
+::: {.software-card}
+**iSEEpathways**
+
+Pathway analysis visualisation panels.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/iSEE/iSEEpathways) [{{< fa box >}}](https://bioconductor.org/packages/iSEEpathways)  
+![](https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social)
 :::
-::: {.software-description}
-The VCF Tool Box - A Bioconductor package providing S4 classes and methods to filter, summarise and visualise genetic variation data stored in VCF files.
 :::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/kevinrue/TVTB) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/TVTB)
+
 :::
-::: {.software-badges}
+
+## Other Bioconductor Packages
+
+::: {.software-grid}
+
+::: {.software-card}
+**TVTB**
+
+The VCF Tool Box for genetic variation data.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/TVTB) [{{< fa box >}}](https://bioconductor.org/packages/TVTB)  
 ![](https://img.shields.io/github/stars/kevinrue/TVTB?style=social)
-![](https://bioconductor.org/shields/years-in-bioc/TVTB.svg)
 :::
 :::
 
-::: {.software-entry}
-::: {.software-name}
-GOexpress
-:::
-::: {.software-description}
-A Bioconductor package for visualisation of quantitative and qualitative gene expression patterns with associated gene ontology (GO) annotations.
-:::
-::: {.software-links}
-[{{< fa brands github >}} GitHub](https://github.com/kevinrue/GOexpress) &nbsp;&nbsp;&nbsp;
-[{{< fa box >}} Bioconductor](https://bioconductor.org/packages/GOexpress)
-:::
-::: {.software-badges}
+::: {.software-card}
+**GOexpress**
+
+Gene expression patterns with GO annotations.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/GOexpress) [{{< fa box >}}](https://bioconductor.org/packages/GOexpress)  
 ![](https://img.shields.io/github/stars/kevinrue/GOexpress?style=social)
-![](https://bioconductor.org/shields/years-in-bioc/GOexpress.svg)
 :::
 :::
 
 :::
 
-## Other Contributions
+## Contributions
 
-::: {.software-section}
+::: {.software-grid}
 
-::: {.software-entry}
-::: {.software-name}
-Panpipes
-:::
-::: {.software-description}
-A collection of cgat-core/ruffus pipelines to streamline the analysis of multi-modal single cell data. Supports scRNAseq, CITEseq, scV(D)Jseq, scATACseq, and spatial transcriptomics data with comprehensive workflows for quality control, preprocessing, integration, clustering, and visualisation.
-:::
-::: {.software-links}
-[{{< fa globe >}} Documentation](https://panpipes-pipelines.readthedocs.io/en/latest/) &nbsp;&nbsp;&nbsp;
-[{{< fa brands github >}} GitHub](https://github.com/DendrouLab/panpipes) &nbsp;&nbsp;&nbsp;
-[{{< fa file-text >}} Paper](https://doi.org/10.1186/s13059-024-03322-7)
-:::
-::: {.software-badges}
-![](https://img.shields.io/github/stars/DendrouLab/panpipes?style=social)
-![](https://img.shields.io/badge/published-Genome%20Biology-blue)
+::: {.software-card .software-card-wide}
+**Panpipes**
+
+Multi-modal single cell analysis pipelines.
+
+Comprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics
+
+::: {.software-links-inline}
+[{{< fa globe >}}](https://panpipes-pipelines.readthedocs.io/en/latest/) [{{< fa brands github >}}](https://github.com/DendrouLab/panpipes) [{{< fa file-text >}}](https://doi.org/10.1186/s13059-024-03322-7)  
+![](https://img.shields.io/github/stars/DendrouLab/panpipes?style=social) ![](https://img.shields.io/badge/published-Genome%20Biology-blue)
 :::
 :::
 
