@@ -91,6 +91,10 @@ For now, a collection of miscellaneous panels and "modes".
 
 :::
 
+::: {.info-banner}
+{{< fa circle-info >}} For more information and links to third-party extensions, please visit the [iSEE website](https://isee.github.io/).
+:::
+
 ## Other Bioconductor Packages
 
 ::: {.software-grid}
