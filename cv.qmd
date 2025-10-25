@@ -12,13 +12,15 @@ title: "Curriculum Vitae"
 2011 - 2015
 :::
 ::: {.cv-title}
-DPhil, Computational Infection Biology
+PhD - Computational Infection Biology
 :::
 ::: {.cv-location}
 University College Dublin (Ireland)
 :::
 ::: {.cv-description}
-**Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.
+Three rotation projects in molecular biology and a thesis in computational infection biology.
+
+For more information, please see the [Research Experience](#research-experience) section below.
 :::
 :::
 
@@ -113,6 +115,21 @@ Research associate - Bioinformatics & Biostatistics
 :::
 ::: {.cv-description}
 Managed data and computational workflows for high-throughput sequencing projects including targeted DNA resequencing, ChIP-seq, and RNA-seq for renal cancer research.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2012 - 2015
+:::
+::: {.cv-title}
+PhD - Computational Infection Biology
+:::
+::: {.cv-location}
+University College Dublin (Ireland)
+:::
+::: {.cv-description}
+**Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.
 :::
 :::
 
