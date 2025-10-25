@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 **Kevin Rue-Albrecht, Computational Biologist (Dipl. Ing., Ph.D.)**
 
 ::: {.cv-section}
-## Education
+## {{< fa graduation-cap >}} Education
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -56,7 +56,7 @@ Lycée Jean Rostand, Strasbourg (France)
 :::
 
 ::: {.cv-section}
-## Research Experience
+## {{< fa microscope >}} Research Experience
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -225,7 +225,7 @@ Project supervisor: [Henri de la Salle](https://orcid.org/0000-0001-5136-0776)
 :::
 
 ::: {.cv-section}
-## Professional Experience
+## {{< fa briefcase >}} Professional Experience
 
 ::: {.cv-entry}
 ::: {.cv-dates}
@@ -265,7 +265,7 @@ Implemented functionality for structurally-constrained multiple alignment of pro
 :::
 
 ::: {.cv-section}
-## Teaching Experience
+## {{< fa chalkboard-user >}} Teaching Experience
 
 ::: {.info-banner}
 {{< fa circle-info >}} Please note that the following section is a summary; for more details, please visit the [Teaching](teaching.qmd) page.
