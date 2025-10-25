@@ -18,9 +18,11 @@ PhD - Computational Infection Biology
 University College Dublin (Ireland)
 :::
 ::: {.cv-description}
-Three rotation projects in molecular biology and a thesis in computational infection biology.
 
-For more information, please see the [Research Experience](#research-experience) section below.
+- Three rotation projects in computational and molecular biology.
+- A thesis in computational infection biology.
+
+For more details, please see the [Research Experience](#fa-microscope-research-experience) section below.
 :::
 :::
 
@@ -316,13 +318,15 @@ Hands-on training delivered to small groups of researchers for the [Oxford Biome
 Jun 2020
 :::
 ::: {.cv-title}
-SIB Days Workshop
+iSEE: Interactive visualization of SummarizedExperiment objects
 :::
 ::: {.cv-location}
-[SIB Days](https://sibdays.sib.swiss/)
+[SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 2h30 online workshop [iSEE: Interactive visualization of SummarizedExperiment objects](https://github.com/iSEE/iSEEWorkshop2020) at the [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (9-10 June 2020).
+Co-organised and delivered a 2h30 online workshop (9-10 June 2020).
+
+- [Workshop materials](https://github.com/iSEE/iSEEWorkshop2020)
 :::
 :::
 
@@ -347,13 +351,16 @@ Volunteer assisting individuals with any R programming questions as part of the 
 Jun 2019
 :::
 ::: {.cv-title}
-Bioconductor Conference Workshop
+Interactive visualisation of SummarizedExperiment objects using iSEE
 :::
 ::: {.cv-location}
 [Bioconductor conference 2019](http://bioc2019.bioconductor.org/) (New York, USA)
 :::
 ::: {.cv-description}
-Co-instructed a 2-hour workshop [Interactive visualisation of SummarizedExperiment objects using iSEE](https://github.com/iSEE/iSEEWorkshop2019) (26 June 2019).
+Co-instructed a 2-hour workshop (26 June 2019).
+
+- [Workshop materials](https://github.com/iSEE/iSEEWorkshop2019)
+- [Slides](https://kevinrue.github.io/academic-2023/slides/bioc2019-workshop/)
 :::
 :::
 
@@ -384,6 +391,396 @@ University College Dublin (Ireland)
 :::
 ::: {.cv-description}
 Teaching assistant of [MICR20010](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=MICR20010) practicals for undergraduate students.
+:::
+:::
+
+:::
+
+::: {.cv-section}
+## {{< fa microphone-lines >}} Talks
+
+::: {.cv-entry}
+::: {.cv-dates}
+2021
+:::
+::: {.cv-title}
+Bioconductor Conference
+:::
+::: {.cv-location}
+Airmeet (Online)
+:::
+::: {.cv-description}
+Oral presentations:
+
+- [Introduction to workshops - Informal welcome](https://www.youtube.com/watch?v=6skphXuBbd4&list=PLdl4u5ZRDMQRA_Fvfg9Bour_x56irZiA2&index=1&t=4s&ab_channel=Bioconductor): Opening talk for the conference
+- [velociraptor](https://kevinrue.github.io/velociraptor_talk_bioc2021/): A Bioconductor toolkit for single-cell RNA velocity
+- [Bioconductor 20th anniversary](https://kevinrue.github.io/Bioconductor20YearsSlides/): Set up an automated repository converting community contributions into an HTML slide deck
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jun 2019
+:::
+::: {.cv-title}
+Bioconductor Conference
+:::
+::: {.cv-location}
+New York, USA
+:::
+::: {.cv-description}
+Oral presentations:
+
+- [Talk](https://kevinrue.github.io/academic-2023/slides/bioc2019-flashtalk/#/): Interactive and reproducible visualization of `SummarizedExperiment` objects
+- [Workshop](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/iSEEWorkshop2019__iSEE-lab/): Interactive visualization of `SummarizedExperiment` objects with `iSEE`
+- [Special Interest Group](https://github.com/Bioconductor/BioC2019/issues/25): Extending gene set and signature representations
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2018
+:::
+::: {.cv-title}
+Genome Informatics
+:::
+::: {.cv-location}
+Cambridge, UK
+:::
+::: {.cv-description}
+**Poster:** Promiscuous expression of lincRNAs in medullary thymic epithelial cells
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2017
+:::
+::: {.cv-title}
+NGS-SIG - Single-cell RNA-seq
+:::
+::: {.cv-location}
+Oxford, UK
+:::
+::: {.cv-description}
+**Oral presentation:** Variability of human dendritic cells responses to differentially invasive *Salmonella* strains at single-cell level
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2017
+:::
+::: {.cv-title}
+Bioconductor Conference
+:::
+::: {.cv-location}
+Boston, USA
+:::
+::: {.cv-description}
+Oral presentations:
+
+- `GOexpress`: Visualise and summarise gene expression data using Gene Ontology
+- `TVTB`: The VCF Tool Box: an effort to summarise and visualise variants
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2015
+:::
+::: {.cv-title}
+Quantitative Genomics
+:::
+::: {.cv-location}
+London, UK
+:::
+::: {.cv-description}
+**Poster:** `GOexpress`: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2015
+:::
+::: {.cv-title}
+BOSC - ISMB/ECCB Conference
+:::
+::: {.cv-location}
+Dublin, Ireland
+:::
+::: {.cv-description}
+Oral presentation and poster:
+
+- [Talk](https://f1000research.com/slides/4-248): `GOexpress`: A R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data
+- [Poster](https://f1000research.com/posters/4-247): `GOexpress`: Identify and visualise gene expression using supervised learning and Gene Ontology
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+Society for General Microbiology (SGM)
+:::
+::: {.cv-location}
+Dublin, Ireland
+:::
+::: {.cv-description}
+**Poster:** Microarray analysis of the bovine macrophage response to *Mycobacterium bovis*, *M. bovis* Bacille Calmette-Guérin (BCG) and *M. avium* subspecies *paratuberculosis*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+Virtual Institute of Bioinformatics & Evolution (VIBE)
+:::
+::: {.cv-location}
+Carlow, Ireland
+:::
+::: {.cv-description}
+**Oral presentation:** The quest for meaningful visualisation of genome-wide expression data
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+EMBO Conference: Microbiology after the genomics revolution - Genomes 2014
+:::
+::: {.cv-location}
+Paris, France
+:::
+::: {.cv-description}
+**Poster:** Transcriptome analysis reveals differential innate immune response to members of the *Mycobacterium tuberculosis* complex
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+The Acid Fast Club, Summer Meeting
+:::
+::: {.cv-location}
+Berlin, Germany
+:::
+::: {.cv-description}
+**Oral presentation:** Transcriptome analysis reveals differential innate immune response of bovine macrophages to strains of the *Mycobacterium tuberculosis* complex
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+UCD Conway Festival of Research & Innovation
+:::
+::: {.cv-location}
+Dublin, Ireland
+:::
+::: {.cv-description}
+**Poster:** Transcriptome analysis reveals differential innate immune response to members of the *Mycobacterium tuberculosis* complex
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+Wellcome Trust Final Year PhD Students' Meeting
+:::
+::: {.cv-location}
+London, UK
+:::
+::: {.cv-description}
+**Poster:** Transcriptome analysis reveals differential innate immune response to members of the *Mycobacterium tuberculosis* complex
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2013
+:::
+::: {.cv-title}
+Association of Veterinary Teachers and Research Workers (AVTRW)
+:::
+::: {.cv-location}
+Hillsborough, Ireland
+:::
+::: {.cv-description}
+**Oral presentation:** Systems Biology of Host-Pathogen Interactions and Bovine Tuberculosis - Differential transcriptional response of bovine monocyte-derived macrophages following different mycobacterial infections
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2013
+:::
+::: {.cv-title}
+Animal Health Ireland Workshop & Conference
+:::
+::: {.cv-location}
+Rochestown Park Hotel, Cork
+:::
+::: {.cv-description}
+**Poster:** Microarray analysis of the bovine macrophage response to *Mycobacterium bovis*, *M. bovis* Bacille Calmette-Guérin (BCG) and *M. avium* subspecies *paratuberculosis*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2013
+:::
+::: {.cv-title}
+Virtual Institute of Bioinformatics and Evolution (VIBE)
+:::
+::: {.cv-location}
+Galway, Ireland
+:::
+::: {.cv-description}
+**Oral presentation:** Systems Biology of Host-Pathogen Interactions and Bovine Tuberculosis - Differential transcriptional response of bovine monocyte-derived macrophages following different mycobacterial infections
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2013
+:::
+::: {.cv-title}
+Computational Biology & Innovation Symposium
+:::
+::: {.cv-location}
+Dublin, Ireland
+:::
+::: {.cv-description}
+**Poster:** Microarray analysis of the bovine macrophage response to *Mycobacterium bovis*, *M. bovis* Bacille Calmette-Guérin (BCG) and *M. avium* subspecies *paratuberculosis*
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2013
+:::
+::: {.cv-title}
+Dublin Academy of Pathogenomics & Infection Biology (DAPI)
+:::
+::: {.cv-location}
+Dublin, Ireland
+:::
+::: {.cv-description}
+**Poster:** Microarray analysis of the bovine macrophage response to *Mycobacterium bovis*, *M. bovis* Bacille Calmette-Guérin (BCG) and *M. avium* subspecies *paratuberculosis*
+:::
+:::
+
+:::
+
+::: {.cv-section}
+## {{< fa certificate >}} Certifications
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jul 2017 -\
+Sep 2017
+:::
+::: {.cv-title}
+Machine Learning
+:::
+::: {.cv-location}
+Coursera (Online)
+:::
+::: {.cv-description}
+Supervised and unsupervised learning, best practices, and key algorithms.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2015 -\
+Nov 2015
+:::
+::: {.cv-title}
+Python for Genomic Data Science
+:::
+::: {.cv-location}
+Coursera (Johns Hopkins University)
+:::
+::: {.cv-description}
+Introduction to Python programming for genomic data analysis using Jupyter notebooks.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2015 -\
+Nov 2015
+:::
+::: {.cv-title}
+Command Line Tools for Genomic Data Science
+:::
+::: {.cv-location}
+Coursera (Johns Hopkins University)
+:::
+::: {.cv-description}
+Managing and analyzing large-scale genomic datasets using Unix command-line tools and workflows.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2015 -\
+Nov 2015
+:::
+::: {.cv-title}
+Bioconductor for Genomic Data Science
+:::
+::: {.cv-location}
+Coursera (Johns Hopkins University)
+:::
+::: {.cv-description}
+Using the Bioconductor project in R to perform analysis of genomic data.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Oct 2015 -\
+Nov 2015
+:::
+::: {.cv-title}
+Statistics for Genomic Data Science
+:::
+::: {.cv-location}
+Coursera (Johns Hopkins University)
+:::
+::: {.cv-description}
+Statistical methods for genomic data analysis including experimental design and inference.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Aug 2013 -\
+Dec 2013
+:::
+::: {.cv-title}
+Network Analysis in Systems Biology
+:::
+::: {.cv-location}
+Coursera (Online)
+:::
+::: {.cv-description}
+Data integration and statistical methods for systems biology including clustering, enrichment analysis, and network construction.
 :::
 :::
 

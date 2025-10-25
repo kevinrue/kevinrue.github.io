@@ -3,7 +3,7 @@ title: "Teaching"
 ---
 
 This page details my teaching experience.
-For a summary, please see the [Teaching Experience](cv.qmd#teaching-experience) section of my CV.
+For a summary, please see the [Teaching Experience](cv.qmd#fa-chalkboard-user-teaching-experience) section of my CV.
 
 ## Timeline
 
