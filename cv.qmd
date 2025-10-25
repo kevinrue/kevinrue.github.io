@@ -356,6 +356,37 @@ Bioconductor Conference Workshop
 Co-instructed a 2-hour workshop [Interactive visualisation of SummarizedExperiment objects using iSEE](https://github.com/iSEE/iSEEWorkshop2019) (26 June 2019).
 :::
 :::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+Molecular Genetics and Biotech
+:::
+::: {.cv-location}
+University College Dublin (Ireland)
+:::
+::: {.cv-description}
+Teaching assistant of [BMOL20090](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=BMOL20090) practicals for undergraduate students.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2014
+:::
+::: {.cv-title}
+Agricultural Microbiology
+:::
+::: {.cv-location}
+University College Dublin (Ireland)
+:::
+::: {.cv-description}
+Teaching assistant of [MICR20010](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=MICR20010) practicals for undergraduate students.
+:::
+:::
+
 :::
 
 [obds-training]: https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/training/oxford-biomedical-data-science-training-programme
