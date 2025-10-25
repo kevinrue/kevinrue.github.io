@@ -233,7 +233,7 @@ Oct 2022 -\
 Oct 2023
 :::
 ::: {.cv-title}
-Software Developer Consultant
+Software Developer - Consultant
 :::
 ::: {.cv-location}
 Self-employed (Oxford, UK)
@@ -253,7 +253,7 @@ Apr 2011 -\
 Jul 2011
 :::
 ::: {.cv-title}
-Software Developer Intern
+Software Developer - Intern
 :::
 ::: {.cv-location}
 [MEDIT S.A.](https://www.linkedin.com/company/medit-sa/) (Palaiseau, France)
