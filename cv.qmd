@@ -267,7 +267,9 @@ Implemented functionality for structurally-constrained multiple alignment of pro
 ::: {.cv-section}
 ## Teaching Experience
 
-Please note that the following section is a summary; for more details, please visit the [Teaching](teaching.qmd) page.
+::: {.info-banner}
+{{< fa circle-info >}} Please note that the following section is a summary; for more details, please visit the [Teaching](teaching.qmd) page.
+:::
 
 ::: {.cv-entry}
 ::: {.cv-dates}
