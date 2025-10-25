@@ -131,7 +131,7 @@ PhD - Computational Infection Biology
 University College Dublin (Ireland)
 :::
 ::: {.cv-description}
-**Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the Mycobacterium genus.
+**Thesis:** Comparative systems biology analyses of the bovine transcriptional response to species of the *Mycobacterium genus*.
 :::
 :::
 
