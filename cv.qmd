@@ -432,7 +432,7 @@ New York, USA
 Oral presentations:
 
 - [Talk](https://kevinrue.github.io/academic-2023/slides/bioc2019-flashtalk/#/): Interactive and reproducible visualization of `SummarizedExperiment` objects
-- [Workshop](http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/iSEEWorkshop2019__iSEE-lab/): Interactive visualization of `SummarizedExperiment` objects with `iSEE`
+- [Workshop](https://github.com/iSEE/iSEEWorkshop2019): Interactive visualization of `SummarizedExperiment` objects with `iSEE`
 - [Special Interest Group](https://github.com/Bioconductor/BioC2019/issues/25): Extending gene set and signature representations
 :::
 :::
