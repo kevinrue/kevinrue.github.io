@@ -8,13 +8,26 @@ This page lists my research publications, organised by employment.
 
 ::: {.pub-card}
 ::: {.pub-title}
-Eleven quick tips for writing a Bioconductor package
+Learning and teaching biological data science in the Bioconductor community. [2025]{.pub-year}
+:::
+::: {.pub-authors}
+Drnevich J, Tan FJ, Almeida-Silva F, Castelo R, Culhane AC, Davis S, Doyle MA, Geistlinger L, Ghazi AR, Holmes S, Lahti L, Mahmoud A, Nishida K, Ramos M, Rue-Albrecht K, Shih DJH, Gatto L, Soneson C.
+:::
+::: {.pub-links}
+[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012925) · [DOI](https://doi.org/10.1371/journal.pcbi.1012925) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40261894/)
+:::
+:::
+
+
+::: {.pub-card}
+::: {.pub-title}
+Eleven quick tips for writing a Bioconductor package [2024]{.pub-year}
 :::
 ::: {.pub-authors}
 Charlotte Soneson; B.F. Francis Ouellette; Lori Shepherd; Marcel Ramos; **Kevin Rue-Albrecht**; Johannes Rainer; Hervé Pagès; Vincent J. Carey
 :::
 ::: {.pub-links}
-[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1371/journal.pcbi.1012856 ) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
+[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1371/journal.pcbi.1012856) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
 :::
 :::
 
@@ -22,7 +35,7 @@ Charlotte Soneson; B.F. Francis Ouellette; Lori Shepherd; Marcel Ramos; **Kevin 
 
 ::: {.pub-card}
 ::: {.pub-title}
-The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction
+The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction [2024]{.pub-year}
 :::
 ::: {.pub-authors}
 Wei Wu; **Kevin Rue-Albrecht**; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander
@@ -34,7 +47,7 @@ Wei Wu; **Kevin Rue-Albrecht**; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu 
 
 ::: {.pub-card}
 ::: {.pub-title}
-iSEE: Interactive SummarizedExperiment Explorer
+iSEE: Interactive SummarizedExperiment Explorer [2018]{.pub-year}
 :::
 ::: {.pub-authors}
 **Rue-Albrecht K**, Marini F, Soneson C, Lun ATL
@@ -46,7 +59,7 @@ iSEE: Interactive SummarizedExperiment Explorer
 
 ::: {.pub-card}
 ::: {.pub-title}
-IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies
+IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies [2021]{.pub-year}
 :::
 ::: {.pub-authors}
 Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.
@@ -60,7 +73,7 @@ Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, C
 
 ::: {.pub-card}
 ::: {.pub-title}
-High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with Mycobacterium abscessus Smooth and Rough variants
+High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with Mycobacterium abscessus Smooth and Rough variants [2015]{.pub-year}
 :::
 ::: {.pub-authors}
 Aulicino A, Dinan AM, Miranda-CasoLuengo AA, Browne JA, **Rue-Albrecht K**, MacHugh DE, Loftus BJ.
@@ -72,7 +85,7 @@ Aulicino A, Dinan AM, Miranda-CasoLuengo AA, Browne JA, **Rue-Albrecht K**, MacH
 
 ::: {.pub-card}
 ::: {.pub-title}
-Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius, illuminates the phylogeography and evolution of cattle.
+Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius, illuminates the phylogeography and evolution of cattle. [2015]{.pub-year}
 :::
 ::: {.pub-authors}
 Park SD, Magee DA, McGettigan PA, Teasdale MD, Edwards CJ, Lohan AJ, Murphy A, Braud M, Donoghue MT, Liu Y, Chamberlain AT, **Rue-Albrecht K**, Schroeder S, Spillane C, Tai S, Bradley DG, Sonstegard TS, Loftus BJ, MacHugh DE.
@@ -84,7 +97,7 @@ Park SD, Magee DA, McGettigan PA, Teasdale MD, Edwards CJ, Lohan AJ, Murphy A, B
 
 ::: {.pub-card}
 ::: {.pub-title}
-RNA sequencing provides exquisite insight into the manipulation of the alveolar macrophage by tubercle bacilli.
+RNA sequencing provides exquisite insight into the manipulation of the alveolar macrophage by tubercle bacilli. [2015]{.pub-year}
 :::
 ::: {.pub-authors}
 Nalpas NC, Magee DA, Conlon KM, Browne JA, Healy C, McLoughlin KE, **Rue-Albrecht K**, McGettigan PA, Killick KE, Gormley E, Gordon SV, MacHugh DE.
@@ -96,7 +109,7 @@ Nalpas NC, Magee DA, Conlon KM, Browne JA, Healy C, McLoughlin KE, **Rue-Albrech
 
 ::: {.pub-card}
 ::: {.pub-title}
-GOexpress: an R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data
+GOexpress: an R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data [2016]{.pub-year}
 :::
 ::: {.pub-authors}
 **Rue-Albrecht K**, McGettigan PA, Hernández B, Nalpas NC, Magee DA, Parnell AC, Gordon SV, MacHugh DE.
@@ -110,7 +123,7 @@ GOexpress: an R/Bioconductor package for the identification and visualisation of
 
 ::: {.pub-card}
 ::: {.pub-title}
-Correlation of disorder between *S. cerevisiae* interacting proteins
+Correlation of disorder between *S. cerevisiae* interacting proteins [2012]{.pub-year}
 :::
 ::: {.pub-authors}
 **Rue-Albrecht K**, Shields DC, Khaldi N.
