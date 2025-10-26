@@ -25,4 +25,6 @@ format:
     toc: true
     # link-external-icon: true
     link-external-newwindow: true
-    include-in-header: banner.html
+    include-in-header: 
+      - banner.html
+      - floating-toc.html
