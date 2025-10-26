@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/cv.html</loc>
-    <lastmod>2025-10-25T17:36:11.246Z</lastmod>
+    <loc>https://kevinrue.github.io/cv.html</loc>
+    <lastmod>2025-10-26T18:15:07.961Z</lastmod>
   </url>
   <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/index.html</loc>
-    <lastmod>2025-10-25T17:36:09.544Z</lastmod>
+    <loc>https://kevinrue.github.io/index.html</loc>
+    <lastmod>2025-10-26T18:15:08.476Z</lastmod>
   </url>
   <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/teaching.html</loc>
-    <lastmod>2025-10-25T17:36:08.931Z</lastmod>
+    <loc>https://kevinrue.github.io/publications.html</loc>
+    <lastmod>2025-10-26T18:15:08.950Z</lastmod>
   </url>
   <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/software.html</loc>
-    <lastmod>2025-10-25T17:36:10.303Z</lastmod>
+    <loc>https://kevinrue.github.io/software.html</loc>
+    <lastmod>2025-10-26T18:15:09.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kevinrue.github.io/teaching.html</loc>
+    <lastmod>2025-10-26T18:15:10.571Z</lastmod>
   </url>
 </urlset>
