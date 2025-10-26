@@ -69,7 +69,25 @@ Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, C
 :::
 :::
 
-## PhD Research & collaborations (2011–2015)
+## Wilkins Group (2015–2016)
+
+These publications arose from my first postdoctoral research position in the group of Prof. Martin Wilkins at Imperial College London.
+
+::: {.pub-card}
+::: {.pub-title}
+Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension.
+:::
+::: {.pub-authors}
+Rhodes CJ, Ghataorhe P, Wharton J, **Rue-Albrecht KC**, Hadinnapola C, Watson G, Bleda M, Haimel M, Coghlan G, Corris PA, Howard LS, Kiely DG, Peacock AJ, Pepke-Zaba J, Toshner MR, Wort SJ, Gibbs JS, Lawrie A, Gräf S, Morrell NW, Wilkins MR.
+:::
+::: {.pub-links}
+[Paper](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.024602) · [DOI](https://doi.org/10.1161/CIRCULATIONAHA.116.024602) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/27881557/)
+:::
+:::
+
+## PhD Research (2011–2015)
+
+These publications arose from my doctoral research and collaborations, jointly supervised by Prof. David MacHugh and Prof. Stephen Gordon, at University College Dublin.
 
 ::: {.pub-card}
 ::: {.pub-title}
@@ -119,7 +137,9 @@ GOexpress: an R/Bioconductor package for the identification and visualisation of
 :::
 :::
 
-## Early career & internships (2010-2012)
+## Shields Group (2010)
+
+This publication arose from a summer internship in the group of Prof. Denis Shields, under the supervision of Dr. Nora Khaldi.
 
 ::: {.pub-card}
 ::: {.pub-title}
