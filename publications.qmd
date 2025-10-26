@@ -1,0 +1,22 @@
+---
+title: "Publications"
+---
+
+This page lists my research publications, organised by employment.
+
+## Independent work & collaborations
+
+::: {.pub-card}
+::: {.pub-title}
+iSEE: Interactive SummarizedExperiment Explorer
+:::
+::: {.pub-authors}
+Rue-Albrecht K, Marini F, Soneson C, Lun ATL
+:::
+::: {.pub-links}
+[Paper](https://f1000research.com/articles/7-741/v1) · [DOI](https://doi.org/10.12688/f1000research.14966.1) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30002819/)
+:::
+::: {.pub-desc}
+An R/Bioconductor package for the interactive visualisation of high-dimensional genomics data stored in `SummarizedExperiment` objects.
+:::
+:::

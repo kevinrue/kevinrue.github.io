@@ -87,6 +87,12 @@ Postdoctoral Researcher - Computational Biology
 :::
 ::: {.cv-description}
 Contributed to the study of Inflammatory bowel disease pathogenesis and T-cell development through the development of computational pipelines for bespoke data analysis.
+
+::: {.cv-publications}
+<span class="pub-label">Publications:</span>
+<div class="pub-item">[The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction](https://doi.org/10.21203/rs.3.rs-7382433/v1)</div>
+<div class="pub-item">[IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies](https://doi.org/10.1038/s41591-021-01520-5)</div>
+:::
 :::
 :::
 
