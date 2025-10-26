@@ -237,11 +237,6 @@ h2:first-of-type {
   font-weight: 500;
 }
 
-.pub-desc {
-  color: #495057;
-  line-height: 1.5;
-}
-
 @media (max-width: 768px) {
   .pub-card { padding: 0.8rem 0.9rem; }
   .pub-links { gap: 0.5rem 0.75rem; }
