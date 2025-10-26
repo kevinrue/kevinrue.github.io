@@ -3,6 +3,7 @@ title: "Publications"
 ---
 
 This page lists my research publications, organised by employment.
+Expect some overlap in years for publications arising from transitions between positions.
 
 ## Sims Group (2020–present)
 
@@ -11,13 +12,12 @@ This page lists my research publications, organised by employment.
 Learning and teaching biological data science in the Bioconductor community. [2025]{.pub-year}
 :::
 ::: {.pub-authors}
-Drnevich J, Tan FJ, Almeida-Silva F, Castelo R, Culhane AC, Davis S, Doyle MA, Geistlinger L, Ghazi AR, Holmes S, Lahti L, Mahmoud A, Nishida K, Ramos M, Rue-Albrecht K, Shih DJH, Gatto L, Soneson C.
+Drnevich J, Tan FJ, Almeida-Silva F, Castelo R, Culhane AC, Davis S, Doyle MA, Geistlinger L, Ghazi AR, Holmes S, Lahti L, Mahmoud A, Nishida K, Ramos M, **Rue-Albrecht K**, Shih DJH, Gatto L, Soneson C.
 :::
 ::: {.pub-links}
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012925) · [DOI](https://doi.org/10.1371/journal.pcbi.1012925) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40261894/)
 :::
 :::
-
 
 ::: {.pub-card}
 ::: {.pub-title}
@@ -28,6 +28,42 @@ Charlotte Soneson; B.F. Francis Ouellette; Lori Shepherd; Marcel Ramos; **Kevin 
 :::
 ::: {.pub-links}
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1371/journal.pcbi.1012856) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Panpipes: a pipeline for multiomic single-cell and spatial transcriptomic data analysis. [2024]{.pub-year}
+:::
+::: {.pub-authors}
+Curion F, Rich-Griffin C, Agarwal D, Ouologuem S, **Rue-Albrecht K**, May L, Garcia GEL, Heumos L, Thomas T, Lason W, Sims D, Theis FJ, Dendrou CA.
+:::
+::: {.pub-links}
+[Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03322-7) · [DOI](https://doi.org/10.1186/s13059-024-03322-7) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/38978088/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Capture-C: a modular and flexible approach for high-resolution chromosome conformation capture. [2022]{.pub-year}
+:::
+::: {.pub-authors}
+Downes DJ, Smith AL, Karpinska MA, Velychko T, **Rue-Albrecht K**, Sims D, Milne TA, Davies JOJ, Oudelaar AM, Hughes JR.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41596-021-00651-w) · [DOI](https://doi.org/10.1038/s41596-021-00651-w) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/35121852/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+TreeSummarizedExperiment: a S4 class for data with hierarchical structure. [2020]{.pub-year}
+:::
+::: {.pub-authors}
+Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Yu G, Hicks SC, Robinson MD.
+:::
+::: {.pub-links}
+[Paper](https://f1000research.com/articles/9-1246/v2) · [DOI](https://doi.org/10.12688/f1000research.26669.2) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33274053/)
 :::
 :::
 
@@ -42,6 +78,18 @@ Wei Wu; **Kevin Rue-Albrecht**; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu 
 :::
 ::: {.pub-links}
 [Paper](https://www.researchsquare.com/article/rs-7382433/v1) · [DOI](https://doi.org/10.21203/rs.3.rs-7382433/v1)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Orchestrating single-cell analysis with Bioconductor. [2020]{.pub-year}
+:::
+::: {.pub-authors}
+Amezquita RA, Lun ATL, Becht E, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pagès H, Smith ML, Huber W, Morgan M, Gottardo R, Hicks SC.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41592-019-0654-x) · [DOI](https://doi.org/10.1038/s41592-019-0654-x) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/31792435/)
 :::
 :::
 
@@ -75,7 +123,31 @@ These publications arose from my first postdoctoral research position in the gro
 
 ::: {.pub-card}
 ::: {.pub-title}
-Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension.
+Bi-allelic Loss-of-Function CACNA1B Mutations in Progressive Epilepsy-Dyskinesia. [2019]{.pub-year}
+:::
+::: {.pub-authors}
+Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, Bryant E, Reich A, Schneider AL, Pressler RM, Simpson MA, Debelle GD, Wassmer E, Morton J, Sieciechowicz D, Jan-Kamsteeg E, Paciorkowski AR, King MD, Cross JH, Poduri A, Mefford HC, Scheffer IE, Haack TB, McCullagh G; Deciphering Developmental Disorders Study; UK10K Consortium; NIHR BioResource; Millichap JJ, Carvill GL, Clayton-Smith J, Maher ER, Raymond FL, Kurian MA.
+:::
+::: {.pub-links}
+[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30101-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929719301016%3Fshowall%3Dtrue) · [DOI](https://doi.org/10.1016/j.ajhg.2019.03.005) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30982612/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Whole-genome sequencing of a sporadic primary immunodeficiency cohort. [2020]{.pub-year}
+:::
+::: {.pub-authors}
+Thaventhiran JED, Lango Allen H, Burren OS, Rae W, Greene D, Staples E, Zhang Z, Farmery JHR, Simeoni I, Rivers E, Maimaris J, Penkett CJ, Stephens J, Deevi SVV, Sanchis-Juan A, Gleadall NS, Thomas MJ, Sargur RB, Gordins P, Baxendale HE, Brown M, Tuijnenburg P, Worth A, Hanson S, Linger RJ, Buckland MS, Rayner-Matthews PJ, Gilmour KC, Samarghitean C, Seneviratne SL, Sansom DM, Lynch AG, Megy K, Ellinghaus E, Ellinghaus D, Jorgensen SF, Karlsen TH, Stirrups KE, Cutler AJ, Kumararatne DS, Chandra A, Edgar JDM, Herwadkar A, Cooper N, Grigoriadou S, Huissoon AP, Goddard S, Jolles S, Schuetz C, Boschann F; **Primary Immunodeficiency Consortium for the NIHR Bioresource**; Lyons PA, Hurles ME, Savic S, Burns SO, Kuijpers TW, Turro E, Ouwehand WH, Thrasher AJ, Smith KGC.
+:::
+::: {.pub-links}
+[Paper](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.024602) · [DOI](https://doi.org/10.1161/CIRCULATIONAHA.116.024602) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/27881557/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
 Rhodes CJ, Ghataorhe P, Wharton J, **Rue-Albrecht KC**, Hadinnapola C, Watson G, Bleda M, Haimel M, Coghlan G, Corris PA, Howard LS, Kiely DG, Peacock AJ, Pepke-Zaba J, Toshner MR, Wort SJ, Gibbs JS, Lawrie A, Gräf S, Morrell NW, Wilkins MR.
@@ -88,6 +160,18 @@ Rhodes CJ, Ghataorhe P, Wharton J, **Rue-Albrecht KC**, Hadinnapola C, Watson G,
 ## PhD Research (2011–2015)
 
 These publications arose from my doctoral research and collaborations, jointly supervised by Prof. David MacHugh and Prof. Stephen Gordon, at University College Dublin.
+
+::: {.pub-card}
+::: {.pub-title}
+RNA-Seq Transcriptome Analysis of Peripheral Blood From Cattle Infected With Mycobacterium bovis Across an Experimental Time Course. [2021]{.pub-year}
+:::
+::: {.pub-authors}
+McLoughlin KE, Correia CN, Browne JA, Magee DA, Nalpas NC, **Rue-Albrecht K**, Whelan AO, Villarreal-Ramos B, Vordermeier HM, Gormley E, Gordon SV, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2021.662002/full) · [DOI](https://doi.org/10.3389/fvets.2021.662002) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/34124223/)
+:::
+:::
 
 ::: {.pub-card}
 ::: {.pub-title}
