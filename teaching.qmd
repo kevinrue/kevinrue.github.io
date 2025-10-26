@@ -5,7 +5,7 @@ title: "Teaching"
 This page details my teaching experience.
 For a summary, please see the [Teaching Experience](cv.qmd#fa-chalkboard-user-teaching-experience) section of my CV.
 
-## Timeline
+## 2025
 
 ::: {.cv-section}
 ::: {.cv-entry}
@@ -54,21 +54,6 @@ Two days of hands-on training covering the Bioconductor ecosystem for single-cel
 
 - [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html)
 - [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
-:::
-:::
-
-::: {.cv-entry}
-::: {.cv-dates}
-Jul 2024
-:::
-::: {.cv-title}
-Spatial Transcriptomics data analysis using R
-:::
-::: {.cv-location}
-[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
-:::
-::: {.cv-description}
-Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
 :::
 :::
 
@@ -161,7 +146,11 @@ Genomics on the Linux command line
 Five days of hands-on training covering Linux command line tools for genomic data analysis (9 participants).
 :::
 :::
+:::
 
+## 2024
+
+::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Dec 2024
@@ -237,6 +226,21 @@ Spatial Transcriptomics Data Camp
 Five days of hands-on training covering spatial transcriptomics data analysis (25 participants).
 
 - [News article](https://www.imm.ox.ac.uk/news/oxford-omics-data-camp-2024)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jul 2024
+:::
+::: {.cv-title}
+Spatial Transcriptomics data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training]
+:::
+::: {.cv-description}
+Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
 :::
 :::
 
@@ -331,7 +335,11 @@ Genomics on the Linux command line
 Five days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).
 :::
 :::
+:::
 
+## 2023
+
+::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Oct 2023
@@ -468,7 +476,11 @@ Genomics on the Linux command line
 Five days of hands-on training covering Linux command line tools for genomic data analysis (10 participants).
 :::
 :::
+:::
 
+## 2022
+
+::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Oct 2022
@@ -559,7 +571,11 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 Fifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
 :::
 :::
+:::
 
+## 2021
+
+::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Sep 2021-\
@@ -607,7 +623,11 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 Thirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).
 :::
 :::
+:::
 
+## 2020
+
+::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Sep 2020-\
