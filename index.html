@@ -74,6 +74,116 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Only show on small screens (max-width: 768px)
+  function isSmallScreen() {
+    return window.matchMedia('(max-width: 768px)').matches;
+  }
+
+  if (!isSmallScreen()) return;
+
+  // Create floating TOC button
+  const button = document.createElement('button');
+  button.className = 'floating-toc-button';
+  button.setAttribute('aria-label', 'Table of Contents');
+  button.innerHTML = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+      <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+    </svg>
+  `;
+
+  // Create TOC overlay
+  const overlay = document.createElement('div');
+  overlay.className = 'floating-toc-overlay';
+  overlay.innerHTML = `
+    <div class="floating-toc-content">
+      <div class="floating-toc-header">
+        <h3>Contents</h3>
+        <button class="floating-toc-close" aria-label="Close">&times;</button>
+      </div>
+      <nav class="floating-toc-nav"></nav>
+    </div>
+  `;
+
+  document.body.appendChild(button);
+  document.body.appendChild(overlay);
+
+  // Generate TOC from page headings
+  function generateTOC() {
+    const nav = overlay.querySelector('.floating-toc-nav');
+    const headings = document.querySelectorAll('main h1, main h2, main h3, main h4');
+    
+    if (headings.length === 0) {
+      nav.innerHTML = '<p style="padding: 1rem; color: #6c757d;">No headings found on this page.</p>';
+      return;
+    }
+
+    const ul = document.createElement('ul');
+    ul.className = 'floating-toc-list';
+
+    headings.forEach(heading => {
+      const level = parseInt(heading.tagName.substring(1));
+      const li = document.createElement('li');
+      li.className = `toc-level-${level}`;
+      
+      const link = document.createElement('a');
+      link.textContent = heading.textContent;
+      link.href = '#' + (heading.id || '');
+      
+      // If heading doesn't have an ID, create one
+      if (!heading.id) {
+        heading.id = heading.textContent
+          .toLowerCase()
+          .replace(/[^\w\s-]/g, '')
+          .replace(/\s+/g, '-');
+        link.href = '#' + heading.id;
+      }
+
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        overlay.classList.remove('visible');
+      });
+
+      li.appendChild(link);
+      ul.appendChild(li);
+    });
+
+    nav.appendChild(ul);
+  }
+
+  generateTOC();
+
+  // Toggle overlay
+  button.addEventListener('click', () => {
+    overlay.classList.add('visible');
+  });
+
+  overlay.querySelector('.floating-toc-close').addEventListener('click', () => {
+    overlay.classList.remove('visible');
+  });
+
+  // Close when clicking outside content
+  overlay.addEventListener('click', (e) => {
+    if (e.target === overlay) {
+      overlay.classList.remove('visible');
+    }
+  });
+
+  // Hide button on window resize if no longer small screen
+  window.addEventListener('resize', () => {
+    if (!isSmallScreen()) {
+      button.style.display = 'none';
+      overlay.style.display = 'none';
+    } else {
+      button.style.display = 'flex';
+      overlay.style.display = 'block';
+    }
+  });
+});
+</script>
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
