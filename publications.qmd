@@ -242,11 +242,22 @@ O'Doherty AM, **Rue-Albrecht KC**, Magee DA, Ahting S, Irwin RE, Hall TJ, Browne
 RNA Sequencing (RNA-Seq) Reveals Extremely Low Levels of Reticulocyte-Derived Globin Gene Transcripts in Peripheral Blood From Horses (Equus caballus) and Cattle (Bos taurus). [2018]{.pub-year}
 :::
 ::: {.pub-authors}
-
 Correia CN, McLoughlin KE, Nalpas NC, Magee DA, Browne JA, **Rue-Albrecht K**, Gordon SV, MacHugh DE.
 :::
 ::: {.pub-links}
 [Paper](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2018.00278/full) · [DOI](https://doi.org/10.3389/fgene.2018.00278) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30154823/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Comparative 'omics analyses differentiate *Mycobacterium tuberculosis* and *Mycobacterium bovis* and reveal distinct macrophage responses to infection with the human and bovine tubercle bacilli. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Malone KM, **Rue-Albrecht K**, Magee DA, Conlon K, Schubert OT, Nalpas NC, Browne JA, Smyth A, Gormley E, Aebersold R, MacHugh DE, Gordon SV.
+:::
+::: {.pub-links}
+[Paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000163) · [DOI](https://doi.org/10.1099/mgen.0.000163) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29557774/)
 :::
 :::
 
