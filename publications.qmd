@@ -215,7 +215,7 @@ These publications arose from my doctoral research and collaborations, jointly s
 
 ::: {.pub-card}
 ::: {.pub-title}
-RNA-Seq Transcriptome Analysis of Peripheral Blood From Cattle Infected With Mycobacterium bovis Across an Experimental Time Course. [2021]{.pub-year}
+RNA-Seq Transcriptome Analysis of Peripheral Blood From Cattle Infected With *Mycobacterium bovis* Across an Experimental Time Course. [2021]{.pub-year}
 :::
 ::: {.pub-authors}
 McLoughlin KE, Correia CN, Browne JA, Magee DA, Nalpas NC, **Rue-Albrecht K**, Whelan AO, Villarreal-Ramos B, Vordermeier HM, Gormley E, Gordon SV, MacHugh DE.
@@ -227,7 +227,7 @@ McLoughlin KE, Correia CN, Browne JA, Magee DA, Nalpas NC, **Rue-Albrecht K**, W
 
 ::: {.pub-card}
 ::: {.pub-title}
-The bovine alveolar macrophage DNA methylome is resilient to infection with Mycobacterium bovis. [2019]{.pub-year}
+The bovine alveolar macrophage DNA methylome is resilient to infection with *Mycobacterium bovis*. [2019]{.pub-year}
 :::
 ::: {.pub-authors}
 O'Doherty AM, **Rue-Albrecht KC**, Magee DA, Ahting S, Irwin RE, Hall TJ, Browne JA, Nalpas NC, Walsh CP, Gordon SV, Wojewodzic MW, MacHugh DE.
@@ -263,7 +263,7 @@ Malone KM, **Rue-Albrecht K**, Magee DA, Conlon K, Schubert OT, Nalpas NC, Brown
 
 ::: {.pub-card}
 ::: {.pub-title}
-High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with Mycobacterium abscessus Smooth and Rough variants [2015]{.pub-year}
+High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with *Mycobacterium abscessus* Smooth and Rough variants [2015]{.pub-year}
 :::
 ::: {.pub-authors}
 Aulicino A, Dinan AM, Miranda-CasoLuengo AA, Browne JA, **Rue-Albrecht K**, MacHugh DE, Loftus BJ.
