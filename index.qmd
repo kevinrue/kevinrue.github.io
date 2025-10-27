@@ -17,7 +17,7 @@ On small screens, biography is pushed to another row below the photo.
 ::: {.profile-photo}
 ![](static/images/kevinrue.jpg){style="border-radius: 50%" .img-fluid}
 
-<p style="font-size: 1.75rem; font-weight: 700; color: #325d88; margin-top: 1.5rem; margin-bottom: 0.5rem;">Kevin Rue-Albrecht</p>
+<p style="font-size: 1.6rem; font-weight: 700; color: #325d88; margin-top: 1.5rem; margin-bottom: 0.5rem;">Kevin Rue-Albrecht</p>
 
 ::: {style="margin-top: 1rem;"}
 [{{< fa at size=2xl >}}](mailto:kevin.rue-albrecht@imm.ox.ac.uk)

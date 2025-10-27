@@ -21,7 +21,7 @@ Drnevich J, Tan FJ, Almeida-Silva F, Castelo R, Culhane AC, Davis S, Doyle MA, G
 
 ::: {.pub-card}
 ::: {.pub-title}
-Eleven quick tips for writing a Bioconductor package [2024]{.pub-year}
+Eleven quick tips for writing a Bioconductor package [2025]{.pub-year}
 :::
 ::: {.pub-authors}
 Charlotte Soneson; B.F. Francis Ouellette; Lori Shepherd; Marcel Ramos; **Kevin Rue-Albrecht**; Johannes Rainer; Hervé Pagès; Vincent J. Carey
@@ -71,7 +71,7 @@ Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Yu G, Hicks SC, Robinson MD.
 
 ::: {.pub-card}
 ::: {.pub-title}
-The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction [2024]{.pub-year}
+The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction [2025]{.pub-year}
 :::
 ::: {.pub-authors}
 Wei Wu; **Kevin Rue-Albrecht**; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander
@@ -83,7 +83,19 @@ Wei Wu; **Kevin Rue-Albrecht**; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu 
 
 ::: {.pub-card}
 ::: {.pub-title}
-Orchestrating single-cell analysis with Bioconductor. [2020]{.pub-year}
+IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies [2021]{.pub-year}
+:::
+::: {.pub-authors}
+Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.
+:::
+::: {.pub-links}
+[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1038/s41591-021-01520-5) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Orchestrating single-cell analysis with Bioconductor. [2019]{.pub-year}
 :::
 ::: {.pub-authors}
 Amezquita RA, Lun ATL, Becht E, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pagès H, Smith ML, Huber W, Morgan M, Gottardo R, Hicks SC.
@@ -105,33 +117,9 @@ iSEE: Interactive SummarizedExperiment Explorer [2018]{.pub-year}
 :::
 :::
 
-::: {.pub-card}
-::: {.pub-title}
-IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies [2021]{.pub-year}
-:::
-::: {.pub-authors}
-Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.
-:::
-::: {.pub-links}
-[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1038/s41591-021-01520-5) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
-:::
-:::
-
 ## Wilkins Group (2015–2016)
 
 These publications arose from my first postdoctoral research position in the group of Prof. Martin Wilkins at Imperial College London.
-
-::: {.pub-card}
-::: {.pub-title}
-Bi-allelic Loss-of-Function CACNA1B Mutations in Progressive Epilepsy-Dyskinesia. [2019]{.pub-year}
-:::
-::: {.pub-authors}
-Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, Bryant E, Reich A, Schneider AL, Pressler RM, Simpson MA, Debelle GD, Wassmer E, Morton J, Sieciechowicz D, Jan-Kamsteeg E, Paciorkowski AR, King MD, Cross JH, Poduri A, Mefford HC, Scheffer IE, Haack TB, McCullagh G; Deciphering Developmental Disorders Study; UK10K Consortium; NIHR BioResource; Millichap JJ, Carvill GL, Clayton-Smith J, Maher ER, Raymond FL, Kurian MA.
-:::
-::: {.pub-links}
-[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30101-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929719301016%3Fshowall%3Dtrue) · [DOI](https://doi.org/10.1016/j.ajhg.2019.03.005) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30982612/)
-:::
-:::
 
 ::: {.pub-card}
 ::: {.pub-title}
@@ -141,7 +129,19 @@ Whole-genome sequencing of a sporadic primary immunodeficiency cohort. [2020]{.p
 Thaventhiran JED, Lango Allen H, Burren OS, Rae W, Greene D, Staples E, Zhang Z, Farmery JHR, Simeoni I, Rivers E, Maimaris J, Penkett CJ, Stephens J, Deevi SVV, Sanchis-Juan A, Gleadall NS, Thomas MJ, Sargur RB, Gordins P, Baxendale HE, Brown M, Tuijnenburg P, Worth A, Hanson S, Linger RJ, Buckland MS, Rayner-Matthews PJ, Gilmour KC, Samarghitean C, Seneviratne SL, Sansom DM, Lynch AG, Megy K, Ellinghaus E, Ellinghaus D, Jorgensen SF, Karlsen TH, Stirrups KE, Cutler AJ, Kumararatne DS, Chandra A, Edgar JDM, Herwadkar A, Cooper N, Grigoriadou S, Huissoon AP, Goddard S, Jolles S, Schuetz C, Boschann F; **Primary Immunodeficiency Consortium for the NIHR Bioresource**; Lyons PA, Hurles ME, Savic S, Burns SO, Kuijpers TW, Turro E, Ouwehand WH, Thrasher AJ, Smith KGC.
 :::
 ::: {.pub-links}
-[Paper](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.024602) · [DOI](https://doi.org/10.1161/CIRCULATIONAHA.116.024602) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/27881557/)
+[Paper](https://www.nature.com/articles/s41586-020-2265-1) · [DOI](https://doi.org/10.1038/s41586-020-2265-1) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/32499645/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Bi-allelic Loss-of-Function CACNA1B Mutations in Progressive Epilepsy-Dyskinesia. [2019]{.pub-year}
+:::
+::: {.pub-authors}
+Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, Bryant E, Reich A, Schneider AL, Pressler RM, Simpson MA, Debelle GD, Wassmer E, Morton J, Sieciechowicz D, Jan-Kamsteeg E, Paciorkowski AR, King MD, Cross JH, Poduri A, Mefford HC, Scheffer IE, Haack TB, McCullagh G; Deciphering Developmental Disorders Study; UK10K Consortium; **NIHR BioResource**; Millichap JJ, Carvill GL, Clayton-Smith J, Maher ER, Raymond FL, Kurian MA.
+:::
+::: {.pub-links}
+[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30101-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929719301016%3Fshowall%3Dtrue) · [DOI](https://doi.org/10.1016/j.ajhg.2019.03.005) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30982612/)
 :::
 :::
 
