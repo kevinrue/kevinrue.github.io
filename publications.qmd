@@ -199,6 +199,18 @@ Whitworth J, Smith PS, Martin JE, West H, Luchetti A, Rodger F, Clark G, Carss K
 
 ::: {.pub-card}
 ::: {.pub-title}
+Telomerecat: A ploidy-agnostic method for estimating telomere length from whole genome sequencing data. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Farmery JHR, Smith ML; **NIHR BioResource - Rare Diseases**; Lynch AG.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41598-017-14403-y) · [DOI](https://doi.org/10.1038/s41598-017-14403-y) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29358629/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
