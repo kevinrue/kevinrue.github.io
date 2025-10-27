@@ -49,20 +49,6 @@
     "text": "Certifications\n\n\nJul 2017 -\nSep 2017\n\n\nMachine Learning\n\n\nCoursera (Online)\n\n\nSupervised and unsupervised learning, best practices, and key algorithms.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nPython for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nIntroduction to Python programming for genomic data analysis using Jupyter notebooks.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nCommand Line Tools for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nManaging and analyzing large-scale genomic datasets using Unix command-line tools and workflows.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nBioconductor for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nUsing the Bioconductor project in R to perform analysis of genomic data.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nStatistics for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nStatistical methods for genomic data analysis including experimental design and inference.\n\n\n\n\nAug 2013 -\nDec 2013\n\n\nNetwork Analysis in Systems Biology\n\n\nCoursera (Online)\n\n\nData integration and statistical methods for systems biology including clustering, enrichment analysis, and network construction."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -103,48 +89,6 @@
     "title": "Publications",
     "section": "Shields Group (2010)",
     "text": "Shields Group (2010)\nThis publication arose from a summer internship in the group of Prof. Denis Shields, under the supervision of Dr. Nora Khaldi.\n\n\nCorrelation of disorder between S. cerevisiae interacting proteins 2012\n\n\nRue-Albrecht K, Shields DC, Khaldi N.\n\n\nPaper · DOI · PubMed"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation."
-  },
-  {
-    "objectID": "software.html#isee-ecosystem",
-    "href": "software.html#isee-ecosystem",
-    "title": "Software",
-    "section": "iSEE Ecosystem",
-    "text": "iSEE Ecosystem\nThe iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.\nI have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.\n\n\niSEE\nCore framework for interactive visualisation of genomics data.\n\n   \n \n\n\n\niSEEindex\nPortal for multiple data sets in a single interface.\n\n \n\n\n\n\niSEEde\nDifferential expression visualisation panels.\n\n \n\n\n\n\niSEEpathways\nPathway analysis visualisation panels.\n\n \n\n\n\n\niSEEhex\nPanels specialised in hexagonal binning.\n\n \n\n\n\n\niSEEhub\nPortal for the Bioconductor ExperimentHub data resources.\n\n \n\n\n\n\niSEEu\nThe “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.\n\n \n\n\n\n\n\n For more information and links to third-party extensions, please visit the iSEE website."
-  },
-  {
-    "objectID": "software.html#other-bioconductor-packages",
-    "href": "software.html#other-bioconductor-packages",
-    "title": "Software",
-    "section": "Other Bioconductor Packages",
-    "text": "Other Bioconductor Packages\nOther software packages I have developed and maintain in the Bioconductor project include:\n\n\nvelociraptor\nA tool for the analysis of RNA velocity in single-cell RNA-seq data.\n\n \n\n\n\n\nTVTB\nThe VCF Tool Box for genetic variation data.\n\n \n\n\n\n\nGOexpress\nGene expression patterns with GO annotations."
-  },
-  {
-    "objectID": "software.html#bioconductor-contributions",
-    "href": "software.html#bioconductor-contributions",
-    "title": "Software",
-    "section": "Bioconductor Contributions",
-    "text": "Bioconductor Contributions\nBioconductor packages to which I have contributed code, documentation, or other improvements.\n\n\nBiocCheck\nA package for checking Bioconductor package compliance."
-  },
-  {
-    "objectID": "software.html#other-contributions",
-    "href": "software.html#other-contributions",
-    "title": "Software",
-    "section": "Other Contributions",
-    "text": "Other Contributions\n\n\nPanpipes\nMulti-modal single cell analysis pipelines.\nComprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics"
-  },
-  {
-    "objectID": "software.html#pet-projects",
-    "href": "software.html#pet-projects",
-    "title": "Software",
-    "section": "Pet Projects",
-    "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
   },
   {
     "objectID": "teaching.html",
@@ -194,5 +138,61 @@
     "title": "Teaching",
     "section": "2020",
     "text": "2020\n\n\n\nSep 2020-\nOct 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nSixteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJun 2020\n\n\nSIB Days Workshop\n\n\nSIB Days\n\n\nCo-organised and delivered a 2h30 online workshop iSEE: Interactive visualization of SummarizedExperiment objects at the SIB Days 2020 (9-10 June 2020).\n\n\n\n\nApr 2020-\nJun 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nThirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation."
+  },
+  {
+    "objectID": "software.html#isee-ecosystem",
+    "href": "software.html#isee-ecosystem",
+    "title": "Software",
+    "section": "iSEE Ecosystem",
+    "text": "iSEE Ecosystem\nThe iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.\nI have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.\n\n\niSEE\nCore framework for interactive visualisation of genomics data.\n\n   \n \n\n\n\niSEEindex\nPortal for multiple data sets in a single interface.\n\n \n\n\n\n\niSEEde\nDifferential expression visualisation panels.\n\n \n\n\n\n\niSEEpathways\nPathway analysis visualisation panels.\n\n \n\n\n\n\niSEEhex\nPanels specialised in hexagonal binning.\n\n \n\n\n\n\niSEEhub\nPortal for the Bioconductor ExperimentHub data resources.\n\n \n\n\n\n\niSEEu\nThe “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.\n\n \n\n\n\n\n\n For more information and links to third-party extensions, please visit the iSEE website."
+  },
+  {
+    "objectID": "software.html#other-bioconductor-packages",
+    "href": "software.html#other-bioconductor-packages",
+    "title": "Software",
+    "section": "Other Bioconductor Packages",
+    "text": "Other Bioconductor Packages\nOther software packages I have developed and maintain in the Bioconductor project include:\n\n\nvelociraptor\nA tool for the analysis of RNA velocity in single-cell RNA-seq data.\n\n \n\n\n\n\nTVTB\nThe VCF Tool Box for genetic variation data.\n\n \n\n\n\n\nGOexpress\nGene expression patterns with GO annotations."
+  },
+  {
+    "objectID": "software.html#bioconductor-contributions",
+    "href": "software.html#bioconductor-contributions",
+    "title": "Software",
+    "section": "Bioconductor Contributions",
+    "text": "Bioconductor Contributions\nBioconductor packages to which I have contributed code, documentation, or other improvements.\n\n\nBiocCheck\nA package for checking Bioconductor package compliance."
+  },
+  {
+    "objectID": "software.html#other-contributions",
+    "href": "software.html#other-contributions",
+    "title": "Software",
+    "section": "Other Contributions",
+    "text": "Other Contributions\n\n\nPanpipes\nMulti-modal single cell analysis pipelines.\nComprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics"
+  },
+  {
+    "objectID": "software.html#pet-projects",
+    "href": "software.html#pet-projects",
+    "title": "Software",
+    "section": "Pet Projects",
+    "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
   }
 ]
