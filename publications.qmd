@@ -299,6 +299,18 @@ Malone KM, **Rue-Albrecht K**, Magee DA, Conlon K, Schubert OT, Nalpas NC, Brown
 
 ::: {.pub-card}
 ::: {.pub-title}
+Integrated computational prediction and experimental validation identifies promiscuous T cell epitopes in the proteome of *Mycobacterium bovis*. [2016]{.pub-year}
+:::
+::: {.pub-authors}
+Farrell D, Jones G, Pirson C, Malone K, Rue-Albrecht K, Chubb AJ, Vordermeier M, Gordon SV.
+:::
+::: {.pub-links}
+[Paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000071) · [DOI](https://doi.org/10.1099/mgen.0.000071) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/28348866/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with *Mycobacterium abscessus* Smooth and Rough variants [2015]{.pub-year}
 :::
 ::: {.pub-authors}
