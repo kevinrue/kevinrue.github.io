@@ -336,6 +336,18 @@ Farrell D, Jones G, Pirson C, Malone K, Rue-Albrecht K, Chubb AJ, Vordermeier M,
 
 ::: {.pub-card}
 ::: {.pub-title}
+GOexpress: an R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data. [2016]{.pub-year}
+:::
+::: {.pub-authors}
+Rue-Albrecht K, McGettigan PA, Hernández B, Nalpas NC, Magee DA, Parnell AC, Gordon SV, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0971-3) · [DOI](https://doi.org/10.1186/s12859-016-0971-3) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/26968614/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with *Mycobacterium abscessus* Smooth and Rough variants [2015]{.pub-year}
 :::
 ::: {.pub-authors}
