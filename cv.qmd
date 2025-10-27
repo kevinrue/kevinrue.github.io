@@ -396,6 +396,21 @@ Teaching assistant of [MICR20010](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+2025
+:::
+::: {.cv-title}
+European Bioconductor Conference
+:::
+::: {.cv-location}
+Barcelona, Spain
+:::
+::: {.cv-description}
+**Flash talk:** [Making the Bioconductor EuroBioC2025 hexwall](https://doi.org/10.5281/zenodo.17177748)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 2021
 :::
 ::: {.cv-title}
