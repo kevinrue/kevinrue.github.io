@@ -211,6 +211,19 @@ Farmery JHR, Smith ML; **NIHR BioResource - Rare Diseases**; Lynch AG.
 
 ::: {.pub-card}
 ::: {.pub-title}
+Comprehensive Rare Variant Analysis via Whole-Genome Sequencing to Determine the Molecular Pathology of Inherited Retinal Disease. [2017]{.pub-year}
+:::
+::: {.pub-authors}
+
+Carss KJ, Arno G, Erwood M, Stephens J, Sanchis-Juan A, Hull S, Megy K, Grozeva D, Dewhurst E, Malka S, Plagnol V, Penkett C, Stirrups K, Rizzo R, Wright G, Josifova D, Bitner-Glindzicz M, Scott RH, Clement E, Allen L, Armstrong R, Brady AF, Carmichael J, Chitre M, Henderson RHH, Hurst J, MacLaren RE, Murphy E, Paterson J, Rosser E, Thompson DA, Wakeling E, Ouwehand WH, Michaelides M, Moore AT; NIHR-BioResource Rare Diseases Consortium; Webster AR, Raymond FL.
+:::
+::: {.pub-links}
+[Paper](linkinghub.elsevier.com/retrieve/pii/S0002929716305274) · [DOI](https://doi.org/10.1016/j.ajhg.2016.12.003) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/28041643/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 Biallelic Mutation of ARHGEF18, Involved in the Determination of Epithelial Apicobasal Polarity, Causes Adult-Onset Retinal Degeneration. [2017]{.pub-year}
 :::
 ::: {.pub-authors}
