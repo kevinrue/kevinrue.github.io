@@ -1,5 +1,5 @@
 ---
-title: "Kevin Rue-Albrecht"
+pagetitle: "Kevin Rue-Albrecht"
 format: 
   html:
     page-layout: full
