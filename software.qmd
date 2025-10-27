@@ -159,6 +159,8 @@ A package for checking Bioconductor package compliance.
 
 ## Other Contributions
 
+Software to which I have contributed code, documentation, or other improvements.
+
 ::: {.software-grid}
 
 ::: {.software-card .software-card-wide}
