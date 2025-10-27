@@ -173,7 +173,7 @@ Sep 2011 -\
 Jan 2012
 :::
 ::: {.cv-title}
-PhD Rotation Project (1 of 3) - Molecular biology
+PhD Rotation Project (1 of 3) - Computational biology
 :::
 ::: {.cv-location}
 [Shield Group](https://people.ucd.ie/denis.shields/) / [Gordon Group](https://people.ucd.ie/stephen.gordon/) (University College Dublin)
