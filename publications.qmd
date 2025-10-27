@@ -211,6 +211,18 @@ Farmery JHR, Smith ML; **NIHR BioResource - Rare Diseases**; Lynch AG.
 
 ::: {.pub-card}
 ::: {.pub-title}
+Biallelic Mutation of ARHGEF18, Involved in the Determination of Epithelial Apicobasal Polarity, Causes Adult-Onset Retinal Degeneration. [2017]{.pub-year}
+:::
+::: {.pub-authors}
+Arno G, Carss KJ, Hull S, Zihni C, Robson AG, Fiorentino A; UK Inherited Retinal Disease Consortium; Hardcastle AJ, Holder GE, Cheetham ME, Plagnol V; **NIHR Bioresource - Rare Diseases Consortium**; Moore AT, Raymond FL, Matter K, Balda MS, Webster AR.
+:::
+::: {.pub-links}
+[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0002929716305407) · [DOI](https://doi.org/10.1016/j.ajhg.2016.12.014) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/28132693/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 Phenotypic Characterization of EIF2AK4 Mutation Carriers in a Large Cohort of Patients Diagnosed Clinically With Pulmonary Arterial Hypertension. [2017]{.pub-year}
 :::
 ::: {.pub-authors}
