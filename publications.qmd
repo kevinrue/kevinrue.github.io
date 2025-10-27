@@ -175,6 +175,18 @@ McLoughlin KE, Correia CN, Browne JA, Magee DA, Nalpas NC, **Rue-Albrecht K**, W
 
 ::: {.pub-card}
 ::: {.pub-title}
+The bovine alveolar macrophage DNA methylome is resilient to infection with Mycobacterium bovis. [2019]{.pub-year}
+:::
+::: {.pub-authors}
+O'Doherty AM, **Rue-Albrecht KC**, Magee DA, Ahting S, Irwin RE, Hall TJ, Browne JA, Nalpas NC, Walsh CP, Gordon SV, Wojewodzic MW, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41598-018-37618-z) · [DOI](https://doi.org/10.1038/s41598-018-37618-z) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30728374/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 High-throughput transcriptomics reveals common and strain-specific responses of human macrophages to infection with Mycobacterium abscessus Smooth and Rough variants [2015]{.pub-year}
 :::
 ::: {.pub-authors}
