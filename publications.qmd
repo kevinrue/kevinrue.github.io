@@ -60,7 +60,7 @@ Downes DJ, Smith AL, Karpinska MA, Velychko T, **Rue-Albrecht K**, Sims D, Milne
 TreeSummarizedExperiment: a S4 class for data with hierarchical structure. [2020]{.pub-year}
 :::
 ::: {.pub-authors}
-Huang R, Soneson C, Ernst FGM, Rue-Albrecht KC, Yu G, Hicks SC, Robinson MD.
+Huang R, Soneson C, Ernst FGM, **Rue-Albrecht KC**, Yu G, Hicks SC, Robinson MD.
 :::
 ::: {.pub-links}
 [Paper](https://f1000research.com/articles/9-1246/v2) · [DOI](https://doi.org/10.12688/f1000research.26669.2) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/33274053/)
@@ -215,7 +215,7 @@ Comprehensive Rare Variant Analysis via Whole-Genome Sequencing to Determine the
 :::
 ::: {.pub-authors}
 
-Carss KJ, Arno G, Erwood M, Stephens J, Sanchis-Juan A, Hull S, Megy K, Grozeva D, Dewhurst E, Malka S, Plagnol V, Penkett C, Stirrups K, Rizzo R, Wright G, Josifova D, Bitner-Glindzicz M, Scott RH, Clement E, Allen L, Armstrong R, Brady AF, Carmichael J, Chitre M, Henderson RHH, Hurst J, MacLaren RE, Murphy E, Paterson J, Rosser E, Thompson DA, Wakeling E, Ouwehand WH, Michaelides M, Moore AT; NIHR-BioResource Rare Diseases Consortium; Webster AR, Raymond FL.
+Carss KJ, Arno G, Erwood M, Stephens J, Sanchis-Juan A, Hull S, Megy K, Grozeva D, Dewhurst E, Malka S, Plagnol V, Penkett C, Stirrups K, Rizzo R, Wright G, Josifova D, Bitner-Glindzicz M, Scott RH, Clement E, Allen L, Armstrong R, Brady AF, Carmichael J, Chitre M, Henderson RHH, Hurst J, MacLaren RE, Murphy E, Paterson J, Rosser E, Thompson DA, Wakeling E, Ouwehand WH, Michaelides M, Moore AT; **NIHR-BioResource Rare Diseases Consortium**; Webster AR, Raymond FL.
 :::
 ::: {.pub-links}
 [Paper](linkinghub.elsevier.com/retrieve/pii/S0002929716305274) · [DOI](https://doi.org/10.1016/j.ajhg.2016.12.003) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/28041643/)
@@ -300,7 +300,7 @@ Villarreal-Ramos B, Berg S, Whelan A, Holbert S, Carreras F, Salguero FJ, Khatri
 
 ::: {.pub-card}
 ::: {.pub-title}
-RNA Sequencing (RNA-Seq) Reveals Extremely Low Levels of Reticulocyte-Derived Globin Gene Transcripts in Peripheral Blood From Horses (Equus caballus) and Cattle (Bos taurus). [2018]{.pub-year}
+RNA Sequencing (RNA-Seq) Reveals Extremely Low Levels of Reticulocyte-Derived Globin Gene Transcripts in Peripheral Blood From Horses (*Equus caballus*) and Cattle (*Bos taurus*). [2018]{.pub-year}
 :::
 ::: {.pub-authors}
 Correia CN, McLoughlin KE, Nalpas NC, Magee DA, Browne JA, **Rue-Albrecht K**, Gordon SV, MacHugh DE.
@@ -327,7 +327,7 @@ Malone KM, **Rue-Albrecht K**, Magee DA, Conlon K, Schubert OT, Nalpas NC, Brown
 Integrated computational prediction and experimental validation identifies promiscuous T cell epitopes in the proteome of *Mycobacterium bovis*. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
-Farrell D, Jones G, Pirson C, Malone K, Rue-Albrecht K, Chubb AJ, Vordermeier M, Gordon SV.
+Farrell D, Jones G, Pirson C, Malone K, **Rue-Albrecht K**, Chubb AJ, Vordermeier M, Gordon SV.
 :::
 ::: {.pub-links}
 [Paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000071) · [DOI](https://doi.org/10.1099/mgen.0.000071) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/28348866/)
@@ -339,7 +339,7 @@ Farrell D, Jones G, Pirson C, Malone K, Rue-Albrecht K, Chubb AJ, Vordermeier M,
 GOexpress: an R/Bioconductor package for the identification and visualisation of robust gene ontology signatures through supervised learning of gene expression data. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
-Rue-Albrecht K, McGettigan PA, Hernández B, Nalpas NC, Magee DA, Parnell AC, Gordon SV, MacHugh DE.
+**Rue-Albrecht K**, McGettigan PA, Hernández B, Nalpas NC, Magee DA, Parnell AC, Gordon SV, MacHugh DE.
 :::
 ::: {.pub-links}
 [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0971-3) · [DOI](https://doi.org/10.1186/s12859-016-0971-3) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/26968614/)
@@ -391,6 +391,42 @@ GOexpress: an R/Bioconductor package for the identification and visualisation of
 :::
 ::: {.pub-links}
 [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0971-3) · [DOI](https://doi.org/10.1186/s12859-016-0971-3) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/26968614/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Comparative functional genomics and the bovine macrophage response to strains of the mycobacterium genus. [2014]{.pub-year}
+:::
+::: {.pub-authors}
+**Rue-Albrecht K**, Magee DA, Killick KE, Nalpas NC, Gordon SV, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2014.00536/full) · [DOI](https://doi.org/10.3389/fimmu.2014.00536) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25414700/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+RNA-seq Transcriptional Profiling of Peripheral Blood Leukocytes from Cattle Infected with *Mycobacterium bovis*. [2014]{.pub-year}
+:::
+::: {.pub-authors}
+McLoughlin KE, Nalpas NC, **Rue-Albrecht K**, Browne JA, Magee DA, Killick KE, Park SD, Hokamp K, Meade KG, O'Farrelly C, Gormley E, Gordon SV, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2014.00396/full) · [DOI](https://doi.org/10.3389/fimmu.2014.00396) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/25206354/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+Whole-transcriptome, high-throughput RNA sequence analysis of the bovine macrophage response to *Mycobacterium bovis* infection *in vitro*. [2013]{.pub-year}
+:::
+::: {.pub-authors}
+Nalpas NC, Park SD, Magee DA, Taraktsoglou M, Browne JA, Conlon KM, **Rue-Albrecht K**, Killick KE, Hokamp K, Lohan AJ, Loftus BJ, Gormley E, Gordon SV, MacHugh DE.
+:::
+::: {.pub-links}
+[Paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-230) · [DOI](https://doi.org/10.1186/1471-2164-14-230) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/23565803/)
 :::
 :::
 
