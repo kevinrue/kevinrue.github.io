@@ -129,6 +129,22 @@ iSEE: Interactive SummarizedExperiment Explorer [2018]{.pub-year}
 :::
 :::
 
+## Ratcliffe Group (2016–2017)
+
+This publication arose from a collaboration started during a short-term research position in the group of Prof. David Mole and Prof. Sir Peter Ratcliffe at the University of Oxford.
+
+::: {.pub-card}
+::: {.pub-title}
+Invasive Salmonella exploits divergent immune evasion strategies in infected and bystander dendritic cell subsets. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Aulicino A, **Rue-Albrecht KC**, Preciado-Llanes L, Napolitani G, Ashley N, Cribbs A, Koth J, Lagerholm BC, Ambrose T, Gordon MA, Sims D, Simmons A.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41467-018-07329-0) · [DOI](https://doi.org/10.1038/s41467-018-07329-0) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30451854/)
+:::
+:::
+
 ## Wilkins Group (2015–2016)
 
 These publications arose from my first postdoctoral research position in the group of Prof. Martin Wilkins at Imperial College London.
