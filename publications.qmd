@@ -187,6 +187,18 @@ Ito Y, Carss KJ, Duarte ST, Hartley T, Keren B, Kurian MA, Marey I, Charles P, M
 
 ::: {.pub-card}
 ::: {.pub-title}
+Comprehensive Cancer-Predisposition Gene Testing in an Adult Multiple Primary Tumor Series Shows a Broad Range of Deleterious Variants and Atypical Tumor Phenotypes. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Whitworth J, Smith PS, Martin JE, West H, Luchetti A, Rodger F, Clark G, Carss K, Stephens J, Stirrups K, Penkett C, Mapeta R, Ashford S, Megy K, Shakeel H, Ahmed M, Adlard J, Barwell J, Brewer C, Casey RT, Armstrong R, Cole T, Evans DG, Fostira F, Greenhalgh L, Hanson H, Henderson A, Hoffman J, Izatt L, Kumar A, Kwong A, Lalloo F, Ong KR, Paterson J, Park SM, Chen-Shtoyerman R, Searle C, Side L, Skytte AB, Snape K, Woodward ER; NIHR BioResource Rare Diseases Consortium; Tischkowitz MD, Maher ER.
+:::
+::: {.pub-links}
+[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(18)30160-5) · [DOI](https://doi.org/10.1016/j.ajhg.2018.04.013) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29909963/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
