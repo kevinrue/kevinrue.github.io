@@ -175,6 +175,18 @@ Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, 
 
 ::: {.pub-card}
 ::: {.pub-title}
+De Novo Truncating Mutations in WASF1 Cause Intellectual Disability with Seizures. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Ito Y, Carss KJ, Duarte ST, Hartley T, Keren B, Kurian MA, Marey I, Charles P, Mendonça C, Nava C, Pfundt R, Sanchis-Juan A, van Bokhoven H, van Essen A, van Ravenswaaij-Arts C; **NIHR BioResource**; Care4Rare Canada Consortium; Boycott KM, Kernohan KD, Dyack S, Raymond FL.
+:::
+::: {.pub-links}
+[Paper](https://www.cell.com/ajhg/fulltext/S0002-9297(18)30194-0) · [DOI](https://doi.org/10.1016/j.ajhg.2018.06.001) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29961568/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 Plasma Metabolomics Implicates Modified Transfer RNAs and Altered Bioenergetics in the Outcomes of Pulmonary Arterial Hypertension. [2016]{.pub-year}
 :::
 ::: {.pub-authors}
