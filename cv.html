@@ -82,8 +82,6 @@ document.addEventListener('DOMContentLoaded', function() {
     return window.matchMedia('(max-width: 768px)').matches;
   }
 
-  if (!isSmallScreen()) return;
-
   // Create floating TOC button
   const button = document.createElement('button');
   button.className = 'floating-toc-button';
@@ -109,6 +107,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
   document.body.appendChild(button);
   document.body.appendChild(overlay);
+
+  // Function to update button visibility based on screen size
+  function updateButtonVisibility() {
+    if (isSmallScreen()) {
+      button.style.display = 'flex';
+      overlay.style.display = 'block';
+    } else {
+      button.style.display = 'none';
+      overlay.style.display = 'none';
+      overlay.classList.remove('visible');
+    }
+  }
+
+  // Initial visibility check
+  updateButtonVisibility();
 
   // Generate TOC from page headings
   function generateTOC() {
@@ -172,16 +185,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // Hide button on window resize if no longer small screen
-  window.addEventListener('resize', () => {
-    if (!isSmallScreen()) {
-      button.style.display = 'none';
-      overlay.style.display = 'none';
-    } else {
-      button.style.display = 'flex';
-      overlay.style.display = 'block';
-    }
-  });
+  // Update button visibility on window resize
+  window.addEventListener('resize', updateButtonVisibility);
 });
 </script>
 

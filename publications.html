@@ -80,8 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
     return window.matchMedia('(max-width: 768px)').matches;
   }
 
-  if (!isSmallScreen()) return;
-
   // Create floating TOC button
   const button = document.createElement('button');
   button.className = 'floating-toc-button';
@@ -107,6 +105,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
   document.body.appendChild(button);
   document.body.appendChild(overlay);
+
+  // Function to update button visibility based on screen size
+  function updateButtonVisibility() {
+    if (isSmallScreen()) {
+      button.style.display = 'flex';
+      overlay.style.display = 'block';
+    } else {
+      button.style.display = 'none';
+      overlay.style.display = 'none';
+      overlay.classList.remove('visible');
+    }
+  }
+
+  // Initial visibility check
+  updateButtonVisibility();
 
   // Generate TOC from page headings
   function generateTOC() {
@@ -170,16 +183,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
-  // Hide button on window resize if no longer small screen
-  window.addEventListener('resize', () => {
-    if (!isSmallScreen()) {
-      button.style.display = 'none';
-      overlay.style.display = 'none';
-    } else {
-      button.style.display = 'flex';
-      overlay.style.display = 'block';
-    }
-  });
+  // Update button visibility on window resize
+  window.addEventListener('resize', updateButtonVisibility);
 });
 </script>
 
@@ -284,7 +289,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p>Eleven quick tips for writing a Bioconductor package <span class="pub-year">2024</span></p>
+<p>Eleven quick tips for writing a Bioconductor package <span class="pub-year">2025</span></p>
 </div>
 <div class="pub-authors">
 <p>Charlotte Soneson; B.F. Francis Ouellette; Lori Shepherd; Marcel Ramos; <strong>Kevin Rue-Albrecht</strong>; Johannes Rainer; Hervé Pagès; Vincent J. Carey</p>
@@ -331,7 +336,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <h2 class="anchored" data-anchor-id="sansom-group-20172020">Sansom Group (2017–2020)</h2>
 <div class="pub-card">
 <div class="pub-title">
-<p>The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction <span class="pub-year">2024</span></p>
+<p>The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction <span class="pub-year">2025</span></p>
 </div>
 <div class="pub-authors">
 <p>Wei Wu; <strong>Kevin Rue-Albrecht</strong>; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander</p>
@@ -342,7 +347,18 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="pub-card">
 <div class="pub-title">
-<p>Orchestrating single-cell analysis with Bioconductor. <span class="pub-year">2020</span></p>
+<p>IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies <span class="pub-year">2021</span></p>
+</div>
+<div class="pub-authors">
+<p>Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, <strong>Rue-Albrecht K</strong>, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.</p>
+</div>
+<div class="pub-links">
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856">Paper</a> · <a href="https://doi.org/10.1038/s41591-021-01520-5">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/40106482/">PubMed</a></p>
+</div>
+</div>
+<div class="pub-card">
+<div class="pub-title">
+<p>Orchestrating single-cell analysis with Bioconductor. <span class="pub-year">2019</span></p>
 </div>
 <div class="pub-authors">
 <p>Amezquita RA, Lun ATL, Becht E, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pagès H, Smith ML, Huber W, Morgan M, Gottardo R, Hicks SC.</p>
@@ -362,32 +378,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p><a href="https://f1000research.com/articles/7-741/v1">Paper</a> · <a href="https://doi.org/10.12688/f1000research.14966.1">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/30002819/">PubMed</a></p>
 </div>
 </div>
-<div class="pub-card">
-<div class="pub-title">
-<p>IL-1-driven stromal-neutrophil interactions define a subset of patients with inflammatory bowel disease that does not respond to therapies <span class="pub-year">2021</span></p>
-</div>
-<div class="pub-authors">
-<p>Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, <strong>Rue-Albrecht K</strong>, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.</p>
-</div>
-<div class="pub-links">
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856">Paper</a> · <a href="https://doi.org/10.1038/s41591-021-01520-5">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/40106482/">PubMed</a></p>
-</div>
-</div>
 </section>
 <section id="wilkins-group-20152016" class="level2">
 <h2 class="anchored" data-anchor-id="wilkins-group-20152016">Wilkins Group (2015–2016)</h2>
 <p>These publications arose from my first postdoctoral research position in the group of Prof.&nbsp;Martin Wilkins at Imperial College London.</p>
-<div class="pub-card">
-<div class="pub-title">
-<p>Bi-allelic Loss-of-Function CACNA1B Mutations in Progressive Epilepsy-Dyskinesia. <span class="pub-year">2019</span></p>
-</div>
-<div class="pub-authors">
-<p>Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, Bryant E, Reich A, Schneider AL, Pressler RM, Simpson MA, Debelle GD, Wassmer E, Morton J, Sieciechowicz D, Jan-Kamsteeg E, Paciorkowski AR, King MD, Cross JH, Poduri A, Mefford HC, Scheffer IE, Haack TB, McCullagh G; Deciphering Developmental Disorders Study; UK10K Consortium; NIHR BioResource; Millichap JJ, Carvill GL, Clayton-Smith J, Maher ER, Raymond FL, Kurian MA.</p>
-</div>
-<div class="pub-links">
-<p><a href="https://www.cell.com/ajhg/fulltext/S0002-9297(19)30101-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929719301016%3Fshowall%3Dtrue">Paper</a> · <a href="https://doi.org/10.1016/j.ajhg.2019.03.005">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/30982612/">PubMed</a></p>
-</div>
-</div>
 <div class="pub-card">
 <div class="pub-title">
 <p>Whole-genome sequencing of a sporadic primary immunodeficiency cohort. <span class="pub-year">2020</span></p>
@@ -396,7 +390,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>Thaventhiran JED, Lango Allen H, Burren OS, Rae W, Greene D, Staples E, Zhang Z, Farmery JHR, Simeoni I, Rivers E, Maimaris J, Penkett CJ, Stephens J, Deevi SVV, Sanchis-Juan A, Gleadall NS, Thomas MJ, Sargur RB, Gordins P, Baxendale HE, Brown M, Tuijnenburg P, Worth A, Hanson S, Linger RJ, Buckland MS, Rayner-Matthews PJ, Gilmour KC, Samarghitean C, Seneviratne SL, Sansom DM, Lynch AG, Megy K, Ellinghaus E, Ellinghaus D, Jorgensen SF, Karlsen TH, Stirrups KE, Cutler AJ, Kumararatne DS, Chandra A, Edgar JDM, Herwadkar A, Cooper N, Grigoriadou S, Huissoon AP, Goddard S, Jolles S, Schuetz C, Boschann F; <strong>Primary Immunodeficiency Consortium for the NIHR Bioresource</strong>; Lyons PA, Hurles ME, Savic S, Burns SO, Kuijpers TW, Turro E, Ouwehand WH, Thrasher AJ, Smith KGC.</p>
 </div>
 <div class="pub-links">
-<p><a href="https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.116.024602">Paper</a> · <a href="https://doi.org/10.1161/CIRCULATIONAHA.116.024602">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/27881557/">PubMed</a></p>
+<p><a href="https://www.nature.com/articles/s41586-020-2265-1">Paper</a> · <a href="https://doi.org/10.1038/s41586-020-2265-1">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/32499645/">PubMed</a></p>
+</div>
+</div>
+<div class="pub-card">
+<div class="pub-title">
+<p>Bi-allelic Loss-of-Function CACNA1B Mutations in Progressive Epilepsy-Dyskinesia. <span class="pub-year">2019</span></p>
+</div>
+<div class="pub-authors">
+<p>Gorman KM, Meyer E, Grozeva D, Spinelli E, McTague A, Sanchis-Juan A, Carss KJ, Bryant E, Reich A, Schneider AL, Pressler RM, Simpson MA, Debelle GD, Wassmer E, Morton J, Sieciechowicz D, Jan-Kamsteeg E, Paciorkowski AR, King MD, Cross JH, Poduri A, Mefford HC, Scheffer IE, Haack TB, McCullagh G; Deciphering Developmental Disorders Study; UK10K Consortium; <strong>NIHR BioResource</strong>; Millichap JJ, Carvill GL, Clayton-Smith J, Maher ER, Raymond FL, Kurian MA.</p>
+</div>
+<div class="pub-links">
+<p><a href="https://www.cell.com/ajhg/fulltext/S0002-9297(19)30101-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0002929719301016%3Fshowall%3Dtrue">Paper</a> · <a href="https://doi.org/10.1016/j.ajhg.2019.03.005">DOI</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/30982612/">PubMed</a></p>
 </div>
 </div>
 <div class="pub-card">
