@@ -98,10 +98,22 @@ Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, C
 Orchestrating single-cell analysis with Bioconductor. [2019]{.pub-year}
 :::
 ::: {.pub-authors}
-Amezquita RA, Lun ATL, Becht E, Carey VJ, Carpp LN, Geistlinger L, Marini F, Rue-Albrecht K, Risso D, Soneson C, Waldron L, Pagès H, Smith ML, Huber W, Morgan M, Gottardo R, Hicks SC.
+Amezquita RA, Lun ATL, Becht E, Carey VJ, Carpp LN, Geistlinger L, Marini F, **Rue-Albrecht K**, Risso D, Soneson C, Waldron L, Pagès H, Smith ML, Huber W, Morgan M, Gottardo R, Hicks SC.
 :::
 ::: {.pub-links}
 [Paper](https://www.nature.com/articles/s41592-019-0654-x) · [DOI](https://doi.org/10.1038/s41592-019-0654-x) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/31792435/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
+The Short Chain Fatty Acid Butyrate Imprints an Antimicrobial Program in Macrophages. [2019]{.pub-year}
+:::
+::: {.pub-authors}
+Schulthess J, Pandey S, Capitani M, **Rue-Albrecht KC**, Arnold I, Franchini F, Chomka A, Ilott NE, Johnston DGW, Pires E, McCullagh J, Sansom SN, Arancibia-Cárcamo CV, Uhlig HH, Powrie F.
+:::
+::: {.pub-links}
+[Paper](https://www.sciencedirect.com/science/article/pii/S1074761318305661?via%3Dihub) · [DOI](https://doi.org/10.1016/j.immuni.2018.12.018) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/30683619/)
 :::
 :::
 
