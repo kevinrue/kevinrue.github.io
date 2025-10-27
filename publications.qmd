@@ -251,6 +251,18 @@ O'Doherty AM, **Rue-Albrecht KC**, Magee DA, Ahting S, Irwin RE, Hall TJ, Browne
 
 ::: {.pub-card}
 ::: {.pub-title}
+Experimental infection of cattle with *Mycobacterium tuberculosis* isolates shows the attenuation of the human tubercle bacillus for cattle. [2018]{.pub-year}
+:::
+::: {.pub-authors}
+Villarreal-Ramos B, Berg S, Whelan A, Holbert S, Carreras F, Salguero FJ, Khatri BL, Malone K, **Rue-Albrecht K**, Shaughnessy R, Smyth A, Ameni G, Aseffa A, Sarradin P, Winter N, Vordermeier M, Gordon SV.
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41598-017-18575-5) · [DOI](https://doi.org/10.1038/s41598-017-18575-5) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/29343690/)
+:::
+:::
+
+::: {.pub-card}
+::: {.pub-title}
 RNA Sequencing (RNA-Seq) Reveals Extremely Low Levels of Reticulocyte-Derived Globin Gene Transcripts in Peripheral Blood From Horses (Equus caballus) and Cattle (Bos taurus). [2018]{.pub-year}
 :::
 ::: {.pub-authors}
