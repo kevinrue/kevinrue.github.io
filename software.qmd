@@ -185,6 +185,39 @@ Personal software experiments and tools available on GitHub.
 ::: {.software-grid}
 
 ::: {.software-card}
+**BiocPkgBrowser**
+
+Interactive app showcasing [BiocPkgToolsPlus](https://github.com/kevinrue/BiocPkgToolsPlus) functionality.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/BiocPkgBrowser)  
+![](https://img.shields.io/github/stars/kevinrue/BiocPkgBrowser?style=social)
+:::
+:::
+
+::: {.software-card}
+**BiocPkgToolsPlus**
+
+Extends [BiocPkgTools](https://bioconductor.org/packages/BiocPkgTools/) functionality to study the Bioconductor ecosystem.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/BiocPkgToolsPlus)  
+![](https://img.shields.io/github/stars/kevinrue/BiocPkgToolsPlus?style=social)
+:::
+:::
+
+::: {.software-card}
+**biocwallpaper**
+
+R package to automate the production of Bioconductor-themed sticker walls.
+
+::: {.software-links-inline}
+[{{< fa brands github >}}](https://github.com/kevinrue/biocwallpaper)  
+![](https://img.shields.io/github/stars/kevinrue/biocwallpaper?style=social)
+:::
+:::
+
+::: {.software-card}
 **deeperTools**
 
 R package to process files produced by [deepTools](https://deeptools.readthedocs.io/en/latest/).
