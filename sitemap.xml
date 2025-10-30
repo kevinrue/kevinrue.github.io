@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/cv.html</loc>
-    <lastmod>2025-10-30T11:54:15.641Z</lastmod>
+    <lastmod>2025-10-30T12:03:13.721Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/publications.html</loc>
-    <lastmod>2025-10-30T11:54:13.364Z</lastmod>
+    <lastmod>2025-10-30T12:03:11.224Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/news.html</loc>
+    <lastmod>2025-10-30T12:03:09.304Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/teaching.html</loc>
-    <lastmod>2025-10-30T11:54:11.406Z</lastmod>
+    <lastmod>2025-10-30T12:03:08.738Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/index.html</loc>
-    <lastmod>2025-10-30T11:54:12.165Z</lastmod>
+    <lastmod>2025-10-30T12:03:10.094Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/software.html</loc>
-    <lastmod>2025-10-30T11:54:14.460Z</lastmod>
+    <lastmod>2025-10-30T12:03:12.466Z</lastmod>
   </url>
 </urlset>
