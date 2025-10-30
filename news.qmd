@@ -1,8 +1,6 @@
 ---
-title: "News"
+title: "Latest news"
 ---
-
-## Latest news
 
 ### 17 October 2025
 
