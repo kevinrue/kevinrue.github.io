@@ -1,0 +1,31 @@
+---
+title: "News"
+---
+
+## Latest news
+
+### 17 October 2025
+
+New [preprint](https://www.biorxiv.org/content/10.1101/2025.10.17.683019v1) published on bioRxiv!
+
+**Title:** Fibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon
+
+**Authors:** Carla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling
+
+### 8 September 2025
+
+New [preprint](https://www.researchsquare.com/article/rs-7382433/v1) published on Research Square!
+
+**Title:** The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction
+
+**Authors:** Wei Wu; Kevin Rue-Albrecht; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander
+
+<!--
+## Upcoming Events
+
+### 04 December 2025
+
+I will be hosting Wolfgang Huber as part of the WIMM Seminar Series on 4th December 2025. 
+
+More details will be made available soon on the [WIMM Seminars page](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-molecular-haematology-unit/seminars).
+-->
