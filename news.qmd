@@ -2,6 +2,10 @@
 title: "Latest news"
 ---
 
+On this page, I list [recent updates](#recent-updates) regarding my research activities, publications, software releases, and [upcoming events](#save-the-date).
+
+## Recent Updates
+
 ### 17 October 2025
 
 New [preprint](https://www.biorxiv.org/content/10.1101/2025.10.17.683019v1) published on bioRxiv!
@@ -17,6 +21,20 @@ New [preprint](https://www.researchsquare.com/article/rs-7382433/v1) published o
 **Title:** The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction
 
 **Authors:** Wei Wu; Kevin Rue-Albrecht; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander
+
+## Save the Date
+
+### 3-5 June 2026
+
+**Event:** [European Bioconductor Conference 2026](https://eurobioc2026.bioconductor.org/)
+
+**Location:** [Turku, Finland](https://maps.app.goo.gl/VAhXdCYVnxyt5ZP18)
+
+### 10-12 August 2026
+
+**Event:** [North American Bioconductor Conference 2026](https://bioc2026.bioconductor.org/)
+
+**Location:** [Fred Hutch Cancer Center, Seattle, WA](https://maps.app.goo.gl/fJ9qiQBucd5PEKaD6)
 
 <!--
 ## Upcoming Events
