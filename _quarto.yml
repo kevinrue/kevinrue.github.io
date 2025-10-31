@@ -30,3 +30,5 @@ format:
     include-in-header: 
       - banner.html
       - floating-toc.html
+    grid:
+        body-width: 900px
