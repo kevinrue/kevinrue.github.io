@@ -8,6 +8,32 @@ On this page, I list [recent updates](#recent-updates) regarding my research act
 
 ::: {.news-card}
 ::: {.news-date}
+31 October 2025
+:::
+
+::: {.news-content}
+**Funding opportunity outcome**
+
+::: {.news-title}
+Research Software Maintenance Fund: full application funding panels completed
+:::
+
+::: {.news-authors}
+[Software Sustainability Institute](https://www.software.ac.uk/)
+:::
+
+::: {.news-role}
+{{< fa user-circle >}} **My role:** Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.
+:::
+
+::: {.news-links}
+[{{< fa file-text >}} Read blog post](https://www.software.ac.uk/blog/research-software-maintenance-fund-full-application-funding-panels-completed)
+:::
+:::
+:::
+
+::: {.news-card}
+::: {.news-date}
 17 October 2025
 :::
 
