@@ -517,3 +517,155 @@ h2:first-of-type {
   padding-left: 3rem;
   font-size: 0.85rem;
 }
+
+/* News Page - Card Layout */
+.news-card {
+  padding: 1rem 0.75rem;
+  border: 1px solid #e6e9ee;
+  border-left: 4px solid #325d88;
+  border-radius: 6px;
+  background-color: #fafbfc;
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+}
+
+.news-date {
+  font-weight: 700;
+  color: #325d88;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.news-content {
+  min-width: 0; /* Prevent grid overflow */
+}
+
+.news-content > strong {
+  display: block;
+  color: #325d88;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-title {
+  font-weight: 600;
+  color: #495057;
+  font-size: 1.05rem;
+  line-height: 1.4;
+  margin: 0.5rem 0;
+}
+
+.news-authors {
+  color: #6c757d;
+  font-size: 0.9rem;
+  font-style: italic;
+  line-height: 1.5;
+  margin: 0.5rem 0;
+}
+
+.news-role {
+  color: #495057;
+  font-size: 0.95rem;
+  margin: 0.75rem 0;
+  padding: 0.5rem 0.75rem;
+  background-color: #f0f4f8;
+  border-radius: 4px;
+}
+
+.news-role .fa-user-circle {
+  color: #325d88;
+  margin-right: 0.3rem;
+}
+
+.news-links {
+  margin-top: 0.75rem;
+}
+
+.news-links a {
+  color: #2c5aa0;
+  font-weight: 500;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.news-links a:hover {
+  text-decoration: underline;
+}
+
+/* Event Cards */
+.event-card {
+  padding: 1rem 0.75rem;
+  border: 1px solid #e6e9ee;
+  border-left: 4px solid #98a6ad;
+  border-radius: 6px;
+  background-color: #fafbfc;
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+}
+
+.event-date {
+  font-weight: 700;
+  color: #98a6ad;
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.event-content {
+  min-width: 0;
+}
+
+.event-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+}
+
+.event-title a {
+  color: #325d88;
+  text-decoration: none;
+}
+
+.event-title a:hover {
+  text-decoration: underline;
+}
+
+.event-details {
+  color: #495057;
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.event-details .fa-map-marker-alt,
+.event-details .fa-users,
+.event-details .fa-user-circle {
+  color: #98a6ad;
+  margin-right: 0.3rem;
+  width: 1rem;
+}
+
+.event-details a {
+  color: #2c5aa0;
+  font-weight: 500;
+}
+
+/* Responsive layout for news and event cards */
+@media (max-width: 768px) {
+  .news-card,
+  .event-card {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    padding: 0.875rem 0.625rem;
+  }
+  
+  .news-date,
+  .event-date {
+    font-size: 0.95rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #e6e9ee;
+  }
+}

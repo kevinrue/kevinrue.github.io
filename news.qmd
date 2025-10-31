@@ -6,35 +6,113 @@ On this page, I list [recent updates](#recent-updates) regarding my research act
 
 ## Recent Updates
 
-### 17 October 2025
+::: {.news-card}
+::: {.news-date}
+17 October 2025
+:::
 
-New [preprint](https://www.biorxiv.org/content/10.1101/2025.10.17.683019v1) published on bioRxiv!
+::: {.news-content}
+**New preprint published on bioRxiv**
 
-**Title:** Fibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon
+::: {.news-title}
+Fibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon
+:::
 
-**Authors:** Carla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling
+::: {.news-authors}
+Carla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, **Kevin Rue-Albrecht**, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling
+:::
 
-### 8 September 2025
+::: {.news-role}
+{{< fa user-circle >}} **My role:** Contributed to the analysis of single-nuclei and spatial RNA-seq data.
+:::
 
-New [preprint](https://www.researchsquare.com/article/rs-7382433/v1) published on Research Square!
+::: {.news-links}
+[{{< fa file-text >}} Read preprint](https://www.biorxiv.org/content/10.1101/2025.10.17.683019v1)
+:::
+:::
+:::
 
-**Title:** The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction
+::: {.news-card}
+::: {.news-date}
+8 September 2025
+:::
 
-**Authors:** Wei Wu; Kevin Rue-Albrecht; Qian Cheng; Fatima Dhalla; Mary Deadman; Rongyu Zang; Stephen Sansom; Yiyan Zheng; Georg Hollander
+::: {.news-content}
+**New preprint published on Research Square**
+
+::: {.news-title}
+The transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction
+:::
+
+::: {.news-authors}
+Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander
+:::
+
+::: {.news-role}
+{{< fa user-circle >}} **My role:** Contributed to the analysis of bulk and single-cell RNA-seq data.
+:::
+
+::: {.news-links}
+[{{< fa file-text >}} Read preprint](https://www.researchsquare.com/article/rs-7382433/v1)
+:::
+:::
+:::
 
 ## Save the Date
 
-### 3-5 June 2026
+::: {.event-card}
+::: {.event-date}
+28-30 April 2026
+:::
 
-**Event:** [European Bioconductor Conference 2026](https://eurobioc2026.bioconductor.org/)
+::: {.event-content}
+::: {.event-title}
+[Collaborations Workshop 2026 (CW26)](https://www.singlecellgenomics2026.com/)
+:::
 
-**Location:** [Turku, Finland](https://maps.app.goo.gl/VAhXdCYVnxyt5ZP18)
+::: {.event-details}
+{{< fa map-marker-alt >}} [ICC Belfast, UK](https://maps.app.goo.gl/j1r3oYTqBvLQUep78)  
+{{< fa users >}} Organiser: [Software Sustainability Institute](https://www.software.ac.uk/)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
 
-### 10-12 August 2026
+::: {.event-card}
+::: {.event-date}
+3-5 June 2026
+:::
 
-**Event:** [North American Bioconductor Conference 2026](https://bioc2026.bioconductor.org/)
+::: {.event-content}
+::: {.event-title}
+[European Bioconductor Conference 2026](https://eurobioc2026.bioconductor.org/)
+:::
 
-**Location:** [Fred Hutch Cancer Center, Seattle, WA](https://maps.app.goo.gl/fJ9qiQBucd5PEKaD6)
+::: {.event-details}
+{{< fa map-marker-alt >}} [Turku, Finland](https://maps.app.goo.gl/VAhXdCYVnxyt5ZP18)  
+{{< fa users >}} [Meet the volunteers](https://eurobioc2026.bioconductor.org/pages/organizers.html)  
+{{< fa user-circle >}} **My role:** On the organising committee
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
+10-12 August 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[North American Bioconductor Conference 2026](https://bioc2026.bioconductor.org/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Fred Hutch Cancer Center, Seattle, WA](https://maps.app.goo.gl/fJ9qiQBucd5PEKaD6)  
+{{< fa users >}} [Meet the volunteers](https://bioc2026.bioconductor.org/organizers/)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
 
 <!--
 ## Upcoming Events
