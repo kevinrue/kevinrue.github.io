@@ -520,15 +520,15 @@ h2:first-of-type {
 
 /* News Page - Card Layout */
 .news-card {
-  padding: 1rem 0.75rem;
+  padding: 1.2rem;
   border: 1px solid #e6e9ee;
   border-left: 4px solid #325d88;
   border-radius: 6px;
   background-color: #fafbfc;
   margin: 1.5rem 0;
   display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 1rem;
+  grid-template-columns: 160px 1fr;
+  gap: 1.5rem;
 }
 
 .news-date {
@@ -596,15 +596,15 @@ h2:first-of-type {
 
 /* Event Cards */
 .event-card {
-  padding: 1rem 0.75rem;
+  padding: 1.2rem;
   border: 1px solid #e6e9ee;
   border-left: 4px solid #98a6ad;
   border-radius: 6px;
   background-color: #fafbfc;
   margin: 1.5rem 0;
   display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 1rem;
+  grid-template-columns: 160px 1fr;
+  gap: 1.5rem;
 }
 
 .event-date {
@@ -659,7 +659,7 @@ h2:first-of-type {
   .event-card {
     grid-template-columns: 1fr;
     gap: 0.75rem;
-    padding: 0.875rem 0.625rem;
+    padding: 1rem;
   }
   
   .news-date,
