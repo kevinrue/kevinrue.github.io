@@ -49,6 +49,41 @@
     "text": "Certifications\n\n\nJul 2017 -\nSep 2017\n\n\nMachine Learning\n\n\nCoursera (Online)\n\n\nSupervised and unsupervised learning, best practices, and key algorithms.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nPython for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nIntroduction to Python programming for genomic data analysis using Jupyter notebooks.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nCommand Line Tools for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nManaging and analyzing large-scale genomic datasets using Unix command-line tools and workflows.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nBioconductor for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nUsing the Bioconductor project in R to perform analysis of genomic data.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nStatistics for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nStatistical methods for genomic data analysis including experimental design and inference.\n\n\n\n\nAug 2013 -\nDec 2013\n\n\nNetwork Analysis in Systems Biology\n\n\nCoursera (Online)\n\n\nData integration and statistical methods for systems biology including clustering, enrichment analysis, and network construction."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Latest news",
+    "section": "",
+    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
+  },
+  {
+    "objectID": "news.html#recent-updates",
+    "href": "news.html#recent-updates",
+    "title": "Latest news",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
+  },
+  {
+    "objectID": "news.html#save-the-date",
+    "href": "news.html#save-the-date",
+    "title": "Latest news",
+    "section": "Save the Date",
+    "text": "Save the Date\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -98,90 +133,6 @@
     "text": "Shields Group (2010)\nThis publication arose from a summer internship in the group of Prof. Denis Shields, under the supervision of Dr. Nora Khaldi.\n\n\nCorrelation of disorder between S. cerevisiae interacting proteins 2012\n\n\nRue-Albrecht K, Shields DC, Khaldi N.\n\n\nPaper · DOI · PubMed"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Latest news",
-    "section": "",
-    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
-  },
-  {
-    "objectID": "news.html#recent-updates",
-    "href": "news.html#recent-updates",
-    "title": "Latest news",
-    "section": "Recent Updates",
-    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
-  },
-  {
-    "objectID": "news.html#save-the-date",
-    "href": "news.html#save-the-date",
-    "title": "Latest news",
-    "section": "Save the Date",
-    "text": "Save the Date\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "This page details my teaching experience. For a summary, please see the Teaching Experience section of my CV."
-  },
-  {
-    "objectID": "teaching.html#section",
-    "href": "teaching.html#section",
-    "title": "Teaching",
-    "section": "2025",
-    "text": "2025\n\n\n\nOct 2025\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (11 participants).\n\n\n\n\nSep 2025 -\nOct 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).\n\n\n\n\nSep 2025\n\n\nOrchestrating Large-Scale Single-Cell Analysis with Bioconductor\n\n\nEuropean Bioconductor Conference (Barcelona, Spain)\n\n\nTwo days of hands-on training covering the Bioconductor ecosystem for single-cell RNA-seq analysis (21 participants).\n\nEvent page\nLesson materials\n\n\n\n\n\nJun 2025\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nMay 2025\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nMay 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nFeb 2025\n\n\nIntroduction to single-cell RNAseq data analysis using Python\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell RNAseq data analysis using Python (12 participants).\n\n\n\n\nJan 2025\n\n\nPython programming and data science\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering Python programming and data science principles (7 participants).\n\n\n\n\nJan 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (9 participants)."
-  },
-  {
-    "objectID": "teaching.html#section-1",
-    "href": "teaching.html#section-1",
-    "title": "Teaching",
-    "section": "2024",
-    "text": "2024\n\n\n\nDec 2024\n\n\nContainers for Reproducible Research\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nOne day of hands-on training covering containerization technologies (e.g., Apptainer) for reproducible research (8 participants).\n\n\n\n\nNov 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (11 participants).\n\n\n\n\nOct 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (14 participants).\n\n\n\n\nSep 2024 -\nOct 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).\n\n\n\n\nSep 2024\n\n\nSpatial Transcriptomics Data Camp\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering spatial transcriptomics data analysis (25 participants).\n\nNews article\n\n\n\n\n\nSep 2024\n\n\niSEE Package Demo\n\n\nEuropean Bioconductor Conference, Oxford (Oxford, UK)\n\n\nCo-organised and delivered a 40min workshop Navigating and expanding the iSEE universe at the European Bioconductor Conference (5 September 2024).\n\n\n\n\nJul 2024\n\n\nSpatial Transcriptomics data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFour days of hands-on training covering spatial transcriptomics data analysis (12 participants).\n\n\n\n\nJun 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (13 participants).\n\n\n\n\nMay 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (10 participants).\n\n\n\n\nApr 2024-\nMay 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).\n\n\n\n\nMar 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (10 participants).\n\n\n\n\nFeb 2024-\nMar 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).\n\n\n\n\nFeb 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants)."
-  },
-  {
-    "objectID": "teaching.html#section-2",
-    "href": "teaching.html#section-2",
-    "title": "Teaching",
-    "section": "2023",
-    "text": "2023\n\n\n\nOct 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nSep 2023-\nOct 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).\n\n\n\n\nSep 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).\n\n\n\n\nJun 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nJun 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nApr 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nFeb 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nJan 2023-\nFeb 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nJan 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (10 participants)."
-  },
-  {
-    "objectID": "teaching.html#section-3",
-    "href": "teaching.html#section-3",
-    "title": "Teaching",
-    "section": "2022",
-    "text": "2022\n\n\n\nOct 2022\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nOct 2022\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nSep 2022\n\n\nVersion control using Git and GitHub\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nOne day lesson of hands-on training covering version control using Git and GitHub as part of the ‘Python programming and data science’ curriculum (12 participants).\n\n\n\n\nSep 2022\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFour days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nMay 2022\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJan 2022-\nFeb 2022\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants)."
-  },
-  {
-    "objectID": "teaching.html#section-4",
-    "href": "teaching.html#section-4",
-    "title": "Teaching",
-    "section": "2021",
-    "text": "2021\n\n\n\nSep 2021-\nOct 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nMay 2021-\nJun 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJan 2021-\nFeb 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
-  },
-  {
-    "objectID": "teaching.html#section-5",
-    "href": "teaching.html#section-5",
-    "title": "Teaching",
-    "section": "2020",
-    "text": "2020\n\n\n\nSep 2020-\nOct 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSixteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJun 2020\n\n\nSIB Days Workshop\n\n\nSIB Days (Online)\n\n\nCo-organised and delivered a 2h30 online workshop iSEE: Interactive visualization of SummarizedExperiment objects at the SIB Days 2020 (9-10 June 2020).\n\n\n\n\nApr 2020-\nJun 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software",
@@ -222,5 +173,54 @@
     "title": "Software",
     "section": "Pet Projects",
     "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\nBiocPkgBrowser\nInteractive app showcasing BiocPkgToolsPlus functionality.\n\n\n\n\n\n\nBiocPkgToolsPlus\nExtends BiocPkgTools functionality to study the Bioconductor ecosystem.\n\n\n\n\n\n\nbiocwallpaper\nR package to automate the production of Bioconductor-themed sticker walls.\n\n\n\n\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page details my teaching experience. For a summary, please see the Teaching Experience section of my CV."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Teaching",
+    "section": "2025",
+    "text": "2025\n\n\n\nOct 2025\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (11 participants).\n\n\n\n\nSep 2025 -\nOct 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).\n\n\n\n\nSep 2025\n\n\nOrchestrating Large-Scale Single-Cell Analysis with Bioconductor\n\n\nEuropean Bioconductor Conference 2025 (Barcelona, Spain)\n\n\nTwo days of hands-on training covering the Bioconductor ecosystem for single-cell RNA-seq analysis (21 participants).\n Event page    Lesson materials\n\n\n\n\nJun 2025\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nMay 2025\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nMay 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nFeb 2025\n\n\nIntroduction to single-cell RNAseq data analysis using Python\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell RNAseq data analysis using Python (12 participants).\n\n\n\n\nJan 2025\n\n\nPython programming and data science\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering Python programming and data science principles (7 participants).\n\n\n\n\nJan 2025\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (9 participants)."
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Teaching",
+    "section": "2024",
+    "text": "2024\n\n\n\nDec 2024\n\n\nContainers for Reproducible Research\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nOne day of hands-on training covering containerization technologies (e.g., Apptainer) for reproducible research (8 participants).\n\n\n\n\nNov 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (11 participants).\n\n\n\n\nOct 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (14 participants).\n\n\n\n\nSep 2024 -\nOct 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).\n\n\n\n\nSep 2024\n\n\nSpatial Transcriptomics Data Camp\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering spatial transcriptomics data analysis (25 participants).\n News article\n\n\n\n\nSep 2024\n\n\nNavigating and expanding the iSEE universe\n\n\nEuropean Bioconductor Conference, Oxford (Oxford, UK)\n\n\nCo-organised and delivered a 40min workshop.\n Workshop materials\n\n\n\n\nJul 2024\n\n\nSpatial Transcriptomics data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFour days of hands-on training covering spatial transcriptomics data analysis (12 participants).\n\n\n\n\nJun 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (13 participants).\n\n\n\n\nMay 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (10 participants).\n\n\n\n\nApr 2024-\nMay 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants).\n\n\n\n\nMar 2024\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (10 participants).\n\n\n\n\nFeb 2024-\nMar 2024\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).\n\n\n\n\nFeb 2024\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (11 participants)."
+  },
+  {
+    "objectID": "teaching.html#section-2",
+    "href": "teaching.html#section-2",
+    "title": "Teaching",
+    "section": "2023",
+    "text": "2023\n\n\n\nOct 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSix days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nSep 2023-\nOct 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nNine days of hands-on training covering R programming, data science principles, and genomic data analysis (13 participants).\n\n\n\n\nSep 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).\n\n\n\n\nJun 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nJun 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nApr 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nFeb 2023\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nJan 2023-\nFeb 2023\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nJan 2023\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering Linux command line tools for genomic data analysis (10 participants)."
+  },
+  {
+    "objectID": "teaching.html#section-3",
+    "href": "teaching.html#section-3",
+    "title": "Teaching",
+    "section": "2022",
+    "text": "2022\n\n\n\nOct 2022\n\n\nIntroduction to single-cell RNAseq data analysis using R\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFive days of hands-on training covering single-cell analysis using Seurat and Bioconductor (12 participants).\n\n\n\n\nOct 2022\n\n\nR for data science and genomics\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nTen days of hands-on training covering R programming, data science principles, and genomic data analysis (12 participants).\n\n\n\n\nSep 2022\n\n\nVersion control using Git and GitHub\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nOne day lesson of hands-on training covering version control using Git and GitHub as part of the ‘Python programming and data science’ curriculum (12 participants).\n\n\n\n\nSep 2022\n\n\nGenomics on the Linux command line\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFour days of hands-on training covering Linux command line tools for genomic data analysis (12 participants).\n\n\n\n\nMay 2022\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJan 2022-\nFeb 2022\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants)."
+  },
+  {
+    "objectID": "teaching.html#section-4",
+    "href": "teaching.html#section-4",
+    "title": "Teaching",
+    "section": "2021",
+    "text": "2021\n\n\n\nSep 2021-\nOct 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nFifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nMay 2021-\nJun 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJan 2021-\nFeb 2021\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
+  },
+  {
+    "objectID": "teaching.html#section-5",
+    "href": "teaching.html#section-5",
+    "title": "Teaching",
+    "section": "2020",
+    "text": "2020\n\n\n\nSep 2020-\nOct 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSixteen days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJul 2020\n\n\nInteractive visualization of SummarizedExperiment objects with iSEE\n\n\nBioconductor Conference 2020 (Online)\n\n\nCo-organised and delivered a 55min online workshop.\n Workshop materials    YouTube recording\n\n\n\n\nJun 2020\n\n\niSEE: Interactive visualization of SummarizedExperiment objects\n\n\nSIB Days (Online)\n\n\nCo-organised and delivered a 2h30 online workshop.\n Workshop materials\n\n\n\n\nApr 2020-\nJun 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
   }
 ]
