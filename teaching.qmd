@@ -670,7 +670,7 @@ Interactive visualization of SummarizedExperiment objects with iSEE
 [Bioconductor Conference 2020](https://bioc2020.bioconductor.org/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 55min online workshop at the [Bioconductor Conference 2020](https://bioc2020.bioconductor.org/) (27-31 July 2020).
+Co-organised and delivered a 55min online workshop.
 
 - [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
 - [YouTube recording](https://youtu.be/qmoJtL8b438)
@@ -688,7 +688,9 @@ iSEE: Interactive visualization of SummarizedExperiment objects
 [SIB Days](https://sibdays.sib.swiss/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 2h30 online [workshop](https://github.com/iSEE/iSEEWorkshop2020) at the [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (9-10 June 2020).
+Co-organised and delivered a 2h30 online workshop.
+
+- [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
 :::
 :::
 
