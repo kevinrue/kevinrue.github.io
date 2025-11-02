@@ -52,8 +52,7 @@ Orchestrating Large-Scale Single-Cell Analysis with Bioconductor
 ::: {.cv-description}
 Two days of hands-on training covering the Bioconductor ecosystem for single-cell RNA-seq analysis (21 participants).
 
-- [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html)
-- [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
+{{< fa calendar >}} [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html) &nbsp; {{< fa book-open >}} [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
 :::
 :::
 
@@ -225,7 +224,7 @@ Spatial Transcriptomics Data Camp
 ::: {.cv-description}
 Five days of hands-on training covering spatial transcriptomics data analysis (25 participants).
 
-- [News article](https://www.imm.ox.ac.uk/news/oxford-omics-data-camp-2024)
+{{< fa newspaper >}} [News article](https://www.imm.ox.ac.uk/news/oxford-omics-data-camp-2024)
 :::
 :::
 
@@ -234,13 +233,15 @@ Five days of hands-on training covering spatial transcriptomics data analysis (2
 Sep 2024
 :::
 ::: {.cv-title}
-iSEE Package Demo
+Navigating and expanding the iSEE universe
 :::
 ::: {.cv-location}
 [European Bioconductor Conference, Oxford](https://eurobioc2024.bioconductor.org/) (Oxford, UK)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 40min workshop [Navigating and expanding the iSEE universe](https://github.com/iSEE/iSEEWorkshop2020) at the [European Bioconductor Conference](https://eurobioc2024.bioconductor.org/) (5 September 2024).
+Co-organised and delivered a 40min workshop.
+
+{{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEDemoEuroBioC2024/articles/workshop_isee_extension.html)
 :::
 :::
 
@@ -672,8 +673,7 @@ Interactive visualization of SummarizedExperiment objects with iSEE
 ::: {.cv-description}
 Co-organised and delivered a 55min online workshop.
 
-- [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
-- [YouTube recording](https://youtu.be/qmoJtL8b438)
+{{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshop2020/) &nbsp; {{< fa brands youtube >}} [YouTube recording](https://youtu.be/qmoJtL8b438)
 :::
 :::
 
@@ -690,7 +690,7 @@ iSEE: Interactive visualization of SummarizedExperiment objects
 ::: {.cv-description}
 Co-organised and delivered a 2h30 online workshop.
 
-- [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
+{{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
 :::
 :::
 
