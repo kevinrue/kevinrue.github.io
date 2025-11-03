@@ -120,6 +120,21 @@ Five days of hands-on training covering Linux command line tools for genomic dat
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+Apr 2025
+:::
+::: {.cv-title}
+MSc in Precision Cancer Medicine
+:::
+::: {.cv-location}
+[Department of Oncology](https://www.oncology.ox.ac.uk/) (University of Oxford)
+:::
+::: {.cv-description}
+Two online tutorials (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 Feb 2025
 :::
 ::: {.cv-title}
@@ -325,6 +340,21 @@ Five days of hands-on training covering Linux command line tools for genomic dat
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+Apr 2024
+:::
+::: {.cv-title}
+MSc in Precision Cancer Medicine
+:::
+::: {.cv-location}
+[Department of Oncology](https://www.oncology.ox.ac.uk/) (University of Oxford)
+:::
+::: {.cv-description}
+Two online tutorials (14 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 Mar 2024
 :::
 ::: {.cv-title}
@@ -471,6 +501,21 @@ Ten days of hands-on training covering R programming, data science principles, a
 Apr 2023
 :::
 ::: {.cv-title}
+MSc in Precision Cancer Medicine
+:::
+::: {.cv-location}
+[Department of Oncology](https://www.oncology.ox.ac.uk/) (University of Oxford)
+:::
+::: {.cv-description}
+Two online tutorials (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2023
+:::
+::: {.cv-title}
 Genomics on the Linux command line
 :::
 ::: {.cv-location}
@@ -603,6 +648,21 @@ Oxford Biomedical Data Science (OBDS) Training Programme
 :::
 ::: {.cv-description}
 Fifteen days of hands-on training covering Linux and R programming for genomic and single-cell data analysis (8 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Apr 2022
+:::
+::: {.cv-title}
+MSc in Precision Cancer Medicine
+:::
+::: {.cv-location}
+[Department of Oncology](https://www.oncology.ox.ac.uk/) (University of Oxford)
+:::
+::: {.cv-description}
+Three online tutorials (8 participants).
 :::
 :::
 
