@@ -44,6 +44,23 @@ Five days of hands-on training covering Linux command line tools for genomic dat
 Sep 2025
 :::
 ::: {.cv-title}
+iSEE therefore I explore (better)
+:::
+::: {.cv-location}
+[European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) (Barcelona, Spain)
+:::
+::: {.cv-description}
+Contributed to the organisation and delivery of a 1h45min workshop.
+
+{{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshopEuroBioc2025/)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2025
+:::
+::: {.cv-title}
 Orchestrating Large-Scale Single-Cell Analysis with Bioconductor
 :::
 ::: {.cv-location}
@@ -399,6 +416,23 @@ Genomics on the Linux command line
 :::
 ::: {.cv-description}
 Five days of hands-on training covering Linux command line tools for genomic data analysis (13 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Sep 2023
+:::
+::: {.cv-title}
+iSEEing is believing: the iSEE package for efficient, interactive, and reproducible exploration of data
+:::
+::: {.cv-location}
+[European Bioconductor Conference 2023](https://eurobioc2023.bioconductor.org/) (Ghent, Belgium)
+:::
+::: {.cv-description}
+Contributed to the organisation of a 40min workshop.
+
+{{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEDemoEuroBioC2023/articles/iSEEdemo.html)
 :::
 :::
 
