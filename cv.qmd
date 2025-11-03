@@ -291,6 +291,23 @@ Co-lead and contributor to the [Bioconductor Education Committee](https://workin
 2020 - present
 :::
 ::: {.cv-title}
+MSc in Precision Cancer Medicine
+:::
+::: {.cv-location}
+[Department of Oncology](https://www.oncology.ox.ac.uk/) (University of Oxford)
+:::
+::: {.cv-description}
+Lecturer & Internal Assessor for the [MSc in Precision Cancer Medicine](https://www.ox.ac.uk/admissions/graduate/courses/msc-precision-cancer-medicine) program.
+
+Part-time distance-learning course, including lectures and live online tutorials.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+2020 - present
+:::
+::: {.cv-title}
 Oxford Biomedical Data Science (OBDS) Training Programme
 :::
 ::: {.cv-location}
