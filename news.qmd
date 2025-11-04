@@ -88,6 +88,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+31 January & 1 February 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[Free and Open Source Developers' European Meeting (FOSDEM) 2026](https://fosdem.org/2026/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [ULB Solbosch Campus, Brussels, Belgium](https://maps.app.goo.gl/3L8ec4eEjwmrWcg86)
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 28-30 April 2026
 :::
 
@@ -139,6 +156,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 :::
 :::
 :::
+
 
 <!--
 ## Upcoming Events
