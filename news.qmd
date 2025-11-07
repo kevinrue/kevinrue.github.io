@@ -97,7 +97,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 :::
 
 ::: {.event-details}
-{{< fa map-marker-alt >}} [ULB Solbosch Campus, Brussels, Belgium](https://maps.app.goo.gl/3L8ec4eEjwmrWcg86)
+{{< fa map-marker-alt >}} [ULB Solbosch Campus, Brussels, Belgium](https://maps.app.goo.gl/3L8ec4eEjwmrWcg86)  
 {{< fa user-circle >}} **My role:** Interested in attending
 :::
 :::
@@ -152,6 +152,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Fred Hutch Cancer Center, Seattle, WA](https://maps.app.goo.gl/fJ9qiQBucd5PEKaD6)  
 {{< fa users >}} [Meet the volunteers](https://bioc2026.bioconductor.org/organizers/)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
+Expected October 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+ELIXIR-UK All Hands 2026
+:::
+
+::: {.event-details}
+{{< fa clock >}} [Edition 2025](https://elixiruknode.org/event/elixir-uk-all-hands-2025/)  
 {{< fa user-circle >}} **My role:** Interested in attending
 :::
 :::
