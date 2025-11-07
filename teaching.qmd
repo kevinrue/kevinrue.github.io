@@ -23,7 +23,6 @@ Five (of six) days of hands-on training covering single-cell analysis using Seur
 :::
 :::
 
-::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
 Oct 2025
