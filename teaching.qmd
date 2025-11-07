@@ -65,7 +65,7 @@ iSEE therefore I explore (better)
 [European Bioconductor Conference 2025](https://eurobioc2025.bioconductor.org/) (Barcelona, Spain)
 :::
 ::: {.cv-description}
-Contributed to the organisation and delivery of a 1h45min workshop.
+Contributed to the organisation and delivery of a 1h45min workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package.
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshopEuroBioc2025/)
 :::
@@ -85,6 +85,21 @@ Orchestrating Large-Scale Single-Cell Analysis with Bioconductor
 Two days of hands-on training covering the Bioconductor ecosystem for single-cell RNA-seq analysis (21 participants).
 
 {{< fa calendar >}} [Event page](https://eurobioc2025.bioconductor.org/pages/carpentryworkshops.html) &nbsp; {{< fa book-open >}} [Lesson materials](https://carpentries-incubator.github.io/bioc-scrnaseq/)
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jul 2025
+:::
+::: {.cv-title}
+Spatial Transcriptomics data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
 :::
 :::
 
@@ -286,24 +301,9 @@ Navigating and expanding the iSEE universe
 [European Bioconductor Conference, Oxford](https://eurobioc2024.bioconductor.org/) (Oxford, UK)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 40min workshop.
+Co-organised and delivered a 40min workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package.
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEDemoEuroBioC2024/articles/workshop_isee_extension.html)
-:::
-:::
-
-::: {.cv-entry}
-::: {.cv-dates}
-Jul 2024
-:::
-::: {.cv-title}
-Spatial Transcriptomics data analysis using R
-:::
-::: {.cv-location}
-[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
-:::
-::: {.cv-description}
-Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
 :::
 :::
 
@@ -475,7 +475,7 @@ iSEEing is believing: the iSEE package for efficient, interactive, and reproduci
 [European Bioconductor Conference 2023](https://eurobioc2023.bioconductor.org/) (Ghent, Belgium)
 :::
 ::: {.cv-description}
-Contributed to the organisation of a 40min workshop.
+Contributed to the organisation of a 40min workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package.
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEDemoEuroBioC2023/articles/iSEEdemo.html)
 :::
@@ -780,7 +780,7 @@ Interactive visualization of SummarizedExperiment objects with iSEE
 [Bioconductor Conference 2020](https://bioc2020.bioconductor.org/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 55min online workshop.
+Co-organised and delivered a 55min online workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package.
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshop2020/) &nbsp; {{< fa brands youtube >}} [YouTube recording](https://youtu.be/qmoJtL8b438)
 :::
@@ -797,7 +797,7 @@ iSEE: Interactive visualization of SummarizedExperiment objects
 [SIB Days](https://sibdays.sib.swiss/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 2h30 online workshop.
+Co-organised and delivered a 2h30 online workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package..
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
 :::
