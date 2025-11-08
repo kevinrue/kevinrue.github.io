@@ -141,6 +141,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+22-24 June 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[Galaxy Community Conference (GCC2026)](https://galaxyproject.org/events/gcc2026/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Université Clermont Auvergne (UCA), France](https://maps.app.goo.gl/3t3s3fvDJUWxN8fC6)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 10-12 August 2026
 :::
 
