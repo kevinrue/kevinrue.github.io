@@ -98,7 +98,8 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [ULB Solbosch Campus, Brussels, Belgium](https://maps.app.goo.gl/3L8ec4eEjwmrWcg86)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Interested in networking with [Bioinformatics & Computational Biology
+](https://fosdem.org/2026/schedule/track/bioinformatics/) developers.
 :::
 :::
 :::
@@ -186,6 +187,24 @@ ELIXIR-UK All Hands 2026
 
 ::: {.event-details}
 {{< fa clock >}} [Edition 2025](https://elixiruknode.org/event/elixir-uk-all-hands-2025/)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
+Expected November 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+BiocHackathon Europe 2026
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Barcelona, Spain](https://maps.app.goo.gl/vyGxh7xCbmGizSzKA)  
+{{< fa clock >}} [Edition 2025](https://biohackathon-europe.org/)  
 {{< fa user-circle >}} **My role:** Interested in attending
 :::
 :::
