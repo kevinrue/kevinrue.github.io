@@ -101,7 +101,7 @@ IL-1-driven stromal-neutrophil interactions define a subset of patients with inf
 Friedrich M, Pohin M, Jackson MA, Korsunsky I, Bullers SJ, **Rue-Albrecht K**, Christoforidou Z, Sathananthan D, Thomas T, Ravindran R, Tandon R, Peres RS, Sharpe H, Wei K, Watts GFM, Mann EH, Geremia A, Attar M; Oxford IBD Cohort Investigators; Roche Fibroblast Network Consortium; McCuaig S, Thomas L, Collantes E, Uhlig HH, Sansom SN, Easton A, Raychaudhuri S, Travis SP, Powrie FM.
 :::
 ::: {.pub-links}
-[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012856) · [DOI](https://doi.org/10.1038/s41591-021-01520-5) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
+[Paper](https://www.nature.com/articles/s41591-021-01520-5) · [DOI](https://doi.org/10.1038/s41591-021-01520-5) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/40106482/)
 :::
 :::
 
