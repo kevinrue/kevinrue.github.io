@@ -1,0 +1,83 @@
+---
+title: "First steps with the Snakemake Cell Ranger Multi workflow"
+author: "Kevin Rue-Albrecht"
+date: "2025-11-17"
+categories: [snakemake, workflow, single-cell, cellranger]
+description: "Exploring the Snakemake workflow catalog for running Cell Ranger multi on single-cell RNA-seq data."
+---
+
+## Introduction
+
+[Add your introduction here - why you chose this workflow, what problem you were trying to solve]
+
+## The Snakemake Cell Ranger Multi Workflow
+
+The [Snakemake Cell Ranger Multi workflow](https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/snakemake-workflows/cellranger-multi) provides a convenient way to process single-cell multimodal data using Cell Ranger's multi pipeline.
+
+### What is Cell Ranger Multi?
+
+[Describe what Cell Ranger Multi does and why it's useful for multimodal single-cell analysis]
+
+## Getting Started
+
+### Installation
+
+[Add installation steps and requirements]
+
+```bash
+# Example installation commands
+```
+
+### Configuration
+
+[Describe how to configure the workflow]
+
+```yaml
+# Example config.yaml
+```
+
+## Running the Workflow
+
+[Add steps for running the workflow]
+
+```bash
+# Example commands
+```
+
+## Results
+
+[Describe the output and results]
+
+### Key Outputs
+
+- **Output 1**: Description
+- **Output 2**: Description
+- **Output 3**: Description
+
+## Lessons Learned
+
+[Share what you learned from using this workflow]
+
+### Tips and Tricks
+
+- **Tip 1**: [Your tip]
+- **Tip 2**: [Your tip]
+- **Tip 3**: [Your tip]
+
+### Challenges and Solutions
+
+[Describe any challenges you faced and how you solved them]
+
+## Conclusion
+
+[Wrap up your thoughts on the workflow]
+
+## Resources
+
+- [Snakemake Cell Ranger Multi Workflow](https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/snakemake-workflows/cellranger-multi)
+- [Cell Ranger Documentation](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
+- [Snakemake Documentation](https://snakemake.readthedocs.io/)
+
+---
+
+*Have questions or suggestions? Feel free to reach out!*

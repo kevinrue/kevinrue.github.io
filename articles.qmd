@@ -1,0 +1,51 @@
+---
+title: "Articles"
+---
+
+Welcome to my articles page! Here I share insights, tutorials, and thoughts on bioinformatics workflows, computational biology, and software development.
+
+## Recent Articles
+
+::: {.article-card}
+::: {.article-date}
+17 November 2025
+:::
+
+::: {.article-content}
+::: {.article-title}
+[First steps with the Snakemake Cell Ranger Multi workflow](articles/snakemake-cellranger-multi.qmd)
+:::
+
+::: {.article-excerpt}
+Exploring the Snakemake workflow catalog for running Cell Ranger multi on single-cell RNA-seq data. A walkthrough of my first experience using this workflow for processing multimodal single-cell data.
+:::
+
+::: {.article-tags}
+{{< fa tag >}} snakemake · workflow · single-cell · cellranger
+:::
+:::
+:::
+
+::: {.article-card}
+::: {.article-date}
+17 November 2025
+:::
+
+::: {.article-content}
+::: {.article-title}
+[Shoutout: Diversity & Inclusion in Scientific Computing](articles/diversity-inclusion-sci-computing.qmd)
+:::
+
+::: {.article-excerpt}
+Highlighting an important community resource on diversity and inclusion in scientific computing. Essential reading for anyone working in computational research.
+:::
+
+::: {.article-tags}
+{{< fa tag >}} community · diversity · inclusion · best-practices
+:::
+:::
+:::
+
+---
+
+*More articles coming soon! Check back regularly for new content.*

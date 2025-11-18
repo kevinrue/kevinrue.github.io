@@ -1,0 +1,73 @@
+---
+title: "Shoutout: Diversity & Inclusion in Scientific Computing"
+author: "Kevin Rue-Albrecht"
+date: "2025-11-17"
+categories: [community, diversity, inclusion, best-practices]
+description: "Highlighting an important community resource on diversity and inclusion in scientific computing."
+---
+
+## An Essential Resource
+
+I wanted to take a moment to highlight an incredibly important community resource: the [Diversity & Inclusion in Scientific Computing](https://docs.google.com/document/d/1JH1tM6foQFHvbyg4JES5YXlK0IwuBCtntlWVSIal7UM/edit?tab=t.0) document.
+
+## Why This Matters
+
+[Add your thoughts on why diversity and inclusion are important in scientific computing]
+
+### The Document
+
+This comprehensive resource covers:
+
+- [List key topics covered in the document]
+- [Add more points]
+- [Add more points]
+
+## Key Takeaways
+
+[Share your main takeaways from the resource]
+
+### 1. [First Key Point]
+
+[Expand on this point]
+
+### 2. [Second Key Point]
+
+[Expand on this point]
+
+### 3. [Third Key Point]
+
+[Expand on this point]
+
+## Putting It Into Practice
+
+[Discuss how you plan to apply these principles in your own work]
+
+### In Our Community
+
+[Talk about how this applies to the Bioconductor/R/scientific computing communities you're part of]
+
+### In Our Workflows
+
+[Discuss how D&I considerations can be incorporated into research workflows and practices]
+
+## Call to Action
+
+[Encourage readers to engage with this topic]
+
+- Read the full document
+- Share with colleagues
+- Implement changes in your own practices
+- Contribute to making our field more inclusive
+
+## Resources
+
+- [Diversity & Inclusion in Scientific Computing (Google Doc)](https://docs.google.com/document/d/1JH1tM6foQFHvbyg4JES5YXlK0IwuBCtntlWVSIal7UM/edit?tab=t.0)
+- [Add other relevant resources]
+
+## Further Reading
+
+[Add links to related articles, initiatives, or communities focused on D&I in tech/science]
+
+---
+
+*Let's work together to build a more diverse, equitable, and inclusive scientific computing community.*
