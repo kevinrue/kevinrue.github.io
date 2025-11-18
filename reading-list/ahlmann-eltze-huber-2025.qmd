@@ -1,0 +1,98 @@
+---
+title: "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression."
+author: "Kevin Rue-Albrecht"
+date: "2025-11-13"
+categories: [literature, review, example]
+description: "My thoughts on Analysis of multi-condition single-cell data with latent embedding multivariate regression"
+---
+
+## Paper Details
+
+**Title:** Analysis of multi-condition single-cell data with latent embedding multivariate regression
+
+**Authors:** Ahlmann-Eltze, C., Huber, W.
+
+**Journal:** Nature Genetics, 2025
+
+**DOI:** [10.1038/s41588-024-01996-0](https://doi.org/10.1038/s41588-024-01996-0)
+
+**Link:** [Code on GitHub](https://github.com/const-ae/lemur)
+
+---
+
+## Why I Read This Paper
+
+This paper caught my attention because I regularly process single-cell transcriptomics data for various projects.
+I was particularly curious about the method's capacity to model multiple conditions and time course experiments, and how it might apply to one of my current datasets.
+
+We read this paper as part of our group's journal club, focusing this time on single-cell analysis methods.
+
+## Summary
+
+### Main Question/Hypothesis
+
+The authors investigate whether [main research question].
+
+### Key Methods
+
+- **Single-cell RNA-seq:** Description of how it was used
+- **Computational analysis:** Tools and approaches employed
+- **Experimental validation:** How findings were validated
+
+### Main Findings
+
+- **Finding 1:** The study demonstrated that [key result]
+- **Finding 2:** They discovered [another important result]
+- **Finding 3:** Interestingly, they found [additional insight]
+
+## My Thoughts
+
+### What I Found Interesting
+
+The most compelling aspect of this work was [discuss interesting element]. I hadn't considered [insight] before reading this, and it opens up new possibilities for [application].
+
+### Strengths
+
+- **Robust methodology:** The authors used [method] which is particularly well-suited for [reason]
+- **Clear presentation:** The figures were well-designed and the writing was accessible
+- **Reproducibility:** Code and data are publicly available, making it easy to build on this work
+
+### Questions/Critiques
+
+- **Sample size:** I wonder if the findings would hold with [different conditions]
+- **Computational approach:** Could [alternative method] have provided additional insights?
+- **Generalizability:** How well do these results apply to [other contexts]?
+
+### Relevance to My Work
+
+This paper is directly relevant to my work on [your research area] because [explanation]. The [specific method/finding] could be particularly useful for [application in your work].
+
+## Key Takeaways
+
+1. **Methodological insight:** [Specific method/approach] is effective for [purpose]
+2. **Biological insight:** [Finding] suggests that [interpretation]
+3. **Tool discovery:** [Software/resource] looks promising for [use case]
+
+## Follow-Up
+
+### Papers to Read Next
+
+- Smith et al. (2023) - Original method paper that this builds on
+- Jones & Brown (2024) - Alternative approach to the same problem
+- Recent review on [topic] - For broader context
+
+### Tools/Resources to Explore
+
+- [ExampleTool](https://example.com) - R package for [purpose]
+- [Database](https://database.example.org) - Resource used in the study
+- [Workflow](https://github.com/example/workflow) - Snakemake pipeline from supplementary materials
+
+## Notes for Future Me
+
+Remember to check their GitHub repository for updates - they mentioned ongoing development of the analysis pipeline. The supplementary methods have detailed parameter settings that would be useful for [your project].
+
+Consider reaching out to the authors about [specific question] when you have preliminary data.
+
+---
+
+*Read on November 13, 2025. Last updated: November 18, 2025*

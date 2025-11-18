@@ -1,0 +1,100 @@
+---
+title: "Paper Review: [Paper Title]"
+author: "Kevin Rue-Albrecht"
+date: "[Date you read it]"
+categories: [literature, review, [add relevant topics]]
+description: "My thoughts on [Paper Title]"
+---
+
+## Paper Details
+
+**Title:** [Full paper title]
+
+**Authors:** [Author list]
+
+**Journal:** [Journal name, Year]
+
+**DOI:** [10.xxxx/xxxxxx](https://doi.org/10.xxxx/xxxxxx)
+
+**Link:** [Additional links if available - preprint, code repository, etc.]
+
+---
+
+## Why I Read This Paper
+
+[Explain what drew you to this paper and what questions you hoped it would answer]
+
+## Summary
+
+### Main Question/Hypothesis
+
+[What question is the paper trying to answer?]
+
+### Key Methods
+
+- **Method 1:** Brief description
+- **Method 2:** Brief description
+- **Method 3:** Brief description
+
+### Main Findings
+
+[Summarize the key findings in 2-4 bullet points]
+
+- **Finding 1:** Description
+- **Finding 2:** Description
+- **Finding 3:** Description
+
+## My Thoughts
+
+### What I Found Interesting
+
+[Discuss aspects of the paper you found particularly interesting or innovative]
+
+### Strengths
+
+- **Strength 1:** What the paper does well
+- **Strength 2:** Another positive aspect
+- **Strength 3:** More strengths
+
+### Questions/Critiques
+
+[Things you'd like to understand better or areas where you have questions or concerns]
+
+- **Question/Critique 1:** Your thoughts
+- **Question/Critique 2:** Your thoughts
+
+### Relevance to My Work
+
+[How does this paper relate to your own research or interests?]
+
+## Key Takeaways
+
+[List the main lessons or insights you're taking away from this paper]
+
+1. **Takeaway 1:** Description
+2. **Takeaway 2:** Description
+3. **Takeaway 3:** Description
+
+## Follow-Up
+
+### Papers to Read Next
+
+[List related papers this one references or that you discovered while reading]
+
+- [Paper 1] - Why you want to read it
+- [Paper 2] - Why you want to read it
+
+### Tools/Resources to Explore
+
+[Any software, databases, or methods mentioned that you want to explore]
+
+- [Tool/Resource 1] - Link and brief note
+- [Tool/Resource 2] - Link and brief note
+
+## Notes for Future Me
+
+[Any additional notes, code snippets, or reminders for when you revisit this paper]
+
+---
+
+*Read on [Date]. Last updated: [Date]*

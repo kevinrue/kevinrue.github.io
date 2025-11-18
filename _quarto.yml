@@ -11,6 +11,10 @@ website:
         text: Home
       - href: news.qmd
         text: News
+      - href: articles.qmd
+        text: Articles
+      - href: reading-list.qmd
+        text: Reading List
       - href: software.qmd
         text: Software
       - href: teaching.qmd

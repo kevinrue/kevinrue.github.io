@@ -1,0 +1,49 @@
+---
+title: "Literature Watchlist"
+---
+
+A curated list of papers I'm interested in reading, along with my thoughts on papers I've already explored.
+
+## Papers to Read
+
+::: {.paper-card .to-read}
+::: {.paper-header}
+::: {.paper-title}
+Twelve Tips for Reproducible Analysis of Single-Cell Transcriptomics Data
+:::
+::: {.paper-meta}
+**DOI:** [10.1145/3736731](https://doi.org/10.1145/3736731) · **Added:** 18 Nov 2025
+:::
+:::
+
+::: {.paper-interest}
+**Why I'm interested:** Single-cell transcriptomics is a rapidly evolving field, and ensuring reproducibility is crucial for advancing research. This paper promises practical tips that could enhance my workflows.
+:::
+:::
+
+---
+
+## Papers I've Read
+
+::: {.paper-card .read}
+::: {.paper-header}
+::: {.paper-title}
+Analysis of multi-condition single-cell data with latent embedding multivariate regression
+:::
+::: {.paper-meta}
+**DOI:** [10.1038/s41588-024-01996-0](https://doi.org/10.1038/s41588-024-01996-0) · **Read:** 13 Nov 2025
+:::
+:::
+
+::: {.paper-interest}
+**Original interest:** Looking for advanced methods to analyze multi-condition single-cell datasets, particularly those that can handle complex experimental designs.
+:::
+
+::: {.paper-review-link}
+[{{< fa book-open >}} Read my full review](reading-list/ahlmann-eltze-huber-2025.qmd)
+:::
+:::
+
+---
+
+*This list is regularly updated as I discover new interesting papers and complete my readings.*
