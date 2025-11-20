@@ -199,7 +199,7 @@ Expected November 2026
 
 ::: {.event-content}
 ::: {.event-title}
-BiocHackathon Europe 2026
+BioHackathon Europe 2026
 :::
 
 ::: {.event-details}
