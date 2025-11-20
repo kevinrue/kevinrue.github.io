@@ -98,25 +98,74 @@
     "text": "Shields Group (2010)\nThis publication arose from a summer internship in the group of Prof. Denis Shields, under the supervision of Dr. Nora Khaldi.\n\n\nCorrelation of disorder between S. cerevisiae interacting proteins 2012\n\n\nRue-Albrecht K, Shields DC, Khaldi N.\n\n\nPaper · DOI · PubMed"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Latest news",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Rue-Albrecht",
     "section": "",
-    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
+    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
   },
   {
-    "objectID": "news.html#recent-updates",
-    "href": "news.html#recent-updates",
-    "title": "Latest news",
-    "section": "Recent Updates",
-    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
   },
   {
-    "objectID": "news.html#save-the-date",
-    "href": "news.html#save-the-date",
-    "title": "Latest news",
-    "section": "Save the Date",
-    "text": "Save the Date\n\n\n31 January & 1 February 2026\n\n\n\nFree and Open Source Developers’ European Meeting (FOSDEM) 2026\n\n\n ULB Solbosch Campus, Brussels, Belgium\n My role: Interested in networking with Bioinformatics & Computational Biology developers.\n\n\n\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n22-24 June 2026\n\n\n\nGalaxy Community Conference (GCC2026)\n\n\n Université Clermont Auvergne (UCA), France\n My role: Interested in attending\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending\n\n\n\n\n\nExpected October 2026\n\n\n\nELIXIR-UK All Hands 2026\n\n\n Edition 2025\n My role: Interested in attending\n\n\n\n\n\nExpected November 2026\n\n\n\nBiocHackathon Europe 2026\n\n\n Barcelona, Spain\n Edition 2025\n My role: Interested in attending"
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "",
+    "text": "Title: Analysis of multi-condition single-cell data with latent embedding multivariate regression\nAuthors: Ahlmann-Eltze, C., Huber, W.\nJournal: Nature Genetics, 2025\nDOI: 10.1038/s41588-024-01996-0\nLink: Code on GitHub"
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#paper-details",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#paper-details",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "",
+    "text": "Title: Analysis of multi-condition single-cell data with latent embedding multivariate regression\nAuthors: Ahlmann-Eltze, C., Huber, W.\nJournal: Nature Genetics, 2025\nDOI: 10.1038/s41588-024-01996-0\nLink: Code on GitHub"
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#why-i-read-this-paper",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#why-i-read-this-paper",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "Why I Read This Paper",
+    "text": "Why I Read This Paper\nThis paper caught my attention because I regularly process single-cell transcriptomics data for various projects. I was particularly curious about the method’s capacity to model multiple conditions and time course experiments, and how it might apply to one of my current datasets.\nWe read this paper as part of our group’s journal club, focusing this time on single-cell analysis methods."
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#summary",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#summary",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "Summary",
+    "text": "Summary\n\nMain Question/Hypothesis\nThe authors investigate whether [main research question].\n\n\nKey Methods\n\nSingle-cell RNA-seq: Description of how it was used\nComputational analysis: Tools and approaches employed\nExperimental validation: How findings were validated\n\n\n\nMain Findings\n\nFinding 1: The study demonstrated that [key result]\nFinding 2: They discovered [another important result]\nFinding 3: Interestingly, they found [additional insight]"
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#my-thoughts",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#my-thoughts",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "My Thoughts",
+    "text": "My Thoughts\n\nWhat I Found Interesting\nThe most compelling aspect of this work was [discuss interesting element]. I hadn’t considered [insight] before reading this, and it opens up new possibilities for [application].\n\n\nStrengths\n\nRobust methodology: The authors used [method] which is particularly well-suited for [reason]\nClear presentation: The figures were well-designed and the writing was accessible\nReproducibility: Code and data are publicly available, making it easy to build on this work\n\n\n\nQuestions/Critiques\n\nSample size: I wonder if the findings would hold with [different conditions]\nComputational approach: Could [alternative method] have provided additional insights?\nGeneralizability: How well do these results apply to [other contexts]?\n\n\n\nRelevance to My Work\nThis paper is directly relevant to my work on [your research area] because [explanation]. The [specific method/finding] could be particularly useful for [application in your work]."
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#key-takeaways",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#key-takeaways",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nMethodological insight: [Specific method/approach] is effective for [purpose]\nBiological insight: [Finding] suggests that [interpretation]\nTool discovery: [Software/resource] looks promising for [use case]"
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#follow-up",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#follow-up",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "Follow-Up",
+    "text": "Follow-Up\n\nPapers to Read Next\n\nSmith et al. (2023) - Original method paper that this builds on\nJones & Brown (2024) - Alternative approach to the same problem\nRecent review on [topic] - For broader context\n\n\n\nTools/Resources to Explore\n\nExampleTool - R package for [purpose]\nDatabase - Resource used in the study\nWorkflow - Snakemake pipeline from supplementary materials"
+  },
+  {
+    "objectID": "reading-list/ahlmann-eltze-huber-2025.html#notes-for-future-me",
+    "href": "reading-list/ahlmann-eltze-huber-2025.html#notes-for-future-me",
+    "title": "Paper Review: Analysis of multi-condition single-cell data with latent embedding multivariate regression.",
+    "section": "Notes for Future Me",
+    "text": "Notes for Future Me\nRemember to check their GitHub repository for updates - they mentioned ongoing development of the analysis pipeline. The supplementary methods have detailed parameter settings that would be useful for [your project].\nConsider reaching out to the authors about [specific question] when you have preliminary data.\n\nRead on November 13, 2025. Last updated: November 18, 2025"
   },
   {
     "objectID": "teaching.html",
@@ -168,18 +217,102 @@
     "text": "2020\n\n\n\nSep 2020-\nOct 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSixteen (of thirty) days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJul 2020\n\n\nInteractive visualization of SummarizedExperiment objects with iSEE\n\n\nBioconductor Conference 2020 (Online)\n\n\nCo-organised and delivered a 55min online workshop covering interactive visualisation of omics data using the iSEE package.\n Workshop materials    YouTube recording\n\n\n\n\nJun 2020\n\n\niSEE: Interactive visualization of SummarizedExperiment objects\n\n\nSIB Days (Online)\n\n\nCo-organised and delivered a 2h30 online workshop covering interactive visualisation of omics data using the iSEE package..\n Workshop materials\n\n\n\n\nApr 2020-\nJun 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kevin Rue-Albrecht",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Latest news",
     "section": "",
-    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
   },
   {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Kevin Rue-Albrecht",
+    "objectID": "news.html#recent-updates",
+    "href": "news.html#recent-updates",
+    "title": "Latest news",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
+  },
+  {
+    "objectID": "news.html#save-the-date",
+    "href": "news.html#save-the-date",
+    "title": "Latest news",
+    "section": "Save the Date",
+    "text": "Save the Date\n\n\n31 January & 1 February 2026\n\n\n\nFree and Open Source Developers’ European Meeting (FOSDEM) 2026\n\n\n ULB Solbosch Campus, Brussels, Belgium\n My role: Interested in networking with Bioinformatics & Computational Biology developers.\n\n\n\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n22-24 June 2026\n\n\n\nGalaxy Community Conference (GCC2026)\n\n\n Université Clermont Auvergne (UCA), France\n My role: Interested in attending\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending\n\n\n\n\n\nExpected October 2026\n\n\n\nELIXIR-UK All Hands 2026\n\n\n Edition 2025\n My role: Interested in attending\n\n\n\n\n\nExpected November 2026\n\n\n\nBioHackathon Europe 2026\n\n\n Barcelona, Spain\n Edition 2025\n My role: Interested in attending"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html",
+    "href": "reading-list/paper-review-template.html",
+    "title": "Paper Review: [Paper Title]",
     "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+    "text": "Title: [Full paper title]\nAuthors: [Author list]\nJournal: [Journal name, Year]\nDOI: 10.xxxx/xxxxxx\nLink: [Additional links if available - preprint, code repository, etc.]"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#paper-details",
+    "href": "reading-list/paper-review-template.html#paper-details",
+    "title": "Paper Review: [Paper Title]",
+    "section": "",
+    "text": "Title: [Full paper title]\nAuthors: [Author list]\nJournal: [Journal name, Year]\nDOI: 10.xxxx/xxxxxx\nLink: [Additional links if available - preprint, code repository, etc.]"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#why-i-read-this-paper",
+    "href": "reading-list/paper-review-template.html#why-i-read-this-paper",
+    "title": "Paper Review: [Paper Title]",
+    "section": "Why I Read This Paper",
+    "text": "Why I Read This Paper\n[Explain what drew you to this paper and what questions you hoped it would answer]"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#summary",
+    "href": "reading-list/paper-review-template.html#summary",
+    "title": "Paper Review: [Paper Title]",
+    "section": "Summary",
+    "text": "Summary\n\nMain Question/Hypothesis\n[What question is the paper trying to answer?]\n\n\nKey Methods\n\nMethod 1: Brief description\nMethod 2: Brief description\nMethod 3: Brief description\n\n\n\nMain Findings\n[Summarize the key findings in 2-4 bullet points]\n\nFinding 1: Description\nFinding 2: Description\nFinding 3: Description"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#my-thoughts",
+    "href": "reading-list/paper-review-template.html#my-thoughts",
+    "title": "Paper Review: [Paper Title]",
+    "section": "My Thoughts",
+    "text": "My Thoughts\n\nWhat I Found Interesting\n[Discuss aspects of the paper you found particularly interesting or innovative]\n\n\nStrengths\n\nStrength 1: What the paper does well\nStrength 2: Another positive aspect\nStrength 3: More strengths\n\n\n\nQuestions/Critiques\n[Things you’d like to understand better or areas where you have questions or concerns]\n\nQuestion/Critique 1: Your thoughts\nQuestion/Critique 2: Your thoughts\n\n\n\nRelevance to My Work\n[How does this paper relate to your own research or interests?]"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#key-takeaways",
+    "href": "reading-list/paper-review-template.html#key-takeaways",
+    "title": "Paper Review: [Paper Title]",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n[List the main lessons or insights you’re taking away from this paper]\n\nTakeaway 1: Description\nTakeaway 2: Description\nTakeaway 3: Description"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#follow-up",
+    "href": "reading-list/paper-review-template.html#follow-up",
+    "title": "Paper Review: [Paper Title]",
+    "section": "Follow-Up",
+    "text": "Follow-Up\n\nPapers to Read Next\n[List related papers this one references or that you discovered while reading]\n\n[Paper 1] - Why you want to read it\n[Paper 2] - Why you want to read it\n\n\n\nTools/Resources to Explore\n[Any software, databases, or methods mentioned that you want to explore]\n\n[Tool/Resource 1] - Link and brief note\n[Tool/Resource 2] - Link and brief note"
+  },
+  {
+    "objectID": "reading-list/paper-review-template.html#notes-for-future-me",
+    "href": "reading-list/paper-review-template.html#notes-for-future-me",
+    "title": "Paper Review: [Paper Title]",
+    "section": "Notes for Future Me",
+    "text": "Notes for Future Me\n[Any additional notes, code snippets, or reminders for when you revisit this paper]\n\nRead on [Date]. Last updated: [Date]"
+  },
+  {
+    "objectID": "reading-list.html",
+    "href": "reading-list.html",
+    "title": "Literature Watchlist",
+    "section": "",
+    "text": "A curated list of papers I’m interested in reading, along with my thoughts on papers I’ve already explored."
+  },
+  {
+    "objectID": "reading-list.html#papers-to-read",
+    "href": "reading-list.html#papers-to-read",
+    "title": "Literature Watchlist",
+    "section": "Papers to Read",
+    "text": "Papers to Read\n\n\n\nTwelve Tips for Reproducible Analysis of Single-Cell Transcriptomics Data\n\n\nDOI: 10.1145/3736731 · Added: 18 Nov 2025\n\n\n\nWhy I’m interested: Single-cell transcriptomics is a rapidly evolving field, and ensuring reproducibility is crucial for advancing research. This paper promises practical tips that could enhance my workflows."
+  },
+  {
+    "objectID": "reading-list.html#papers-ive-read",
+    "href": "reading-list.html#papers-ive-read",
+    "title": "Literature Watchlist",
+    "section": "Papers I’ve Read",
+    "text": "Papers I’ve Read\n\n\n\nAnalysis of multi-condition single-cell data with latent embedding multivariate regression\n\n\nDOI: 10.1038/s41588-024-01996-0 · Read: 13 Nov 2025\n\n\n\nOriginal interest: Looking for advanced methods to analyze multi-condition single-cell datasets, particularly those that can handle complex experimental designs.\n\n\n Read my full review\n\n\n\nThis list is regularly updated as I discover new interesting papers and complete my readings."
   },
   {
     "objectID": "software.html",

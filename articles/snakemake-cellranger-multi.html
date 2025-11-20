@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Kevin Rue-Albrecht">
+<meta name="dcterms.date" content="2025-11-17">
+<meta name="description" content="Exploring the Snakemake workflow catalog for running Cell Ranger multi on single-cell RNA-seq data.">
 
-<title>Kevin Rue-Albrecht</title>
+<title>Kevin Rue-Albrecht - First steps with the Snakemake Cell Ranger Multi workflow</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,28 +23,60 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./static/images/kevinrue.jpg" rel="icon" type="image/jpeg">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../static/images/kevinrue.jpg" rel="icon" type="image/jpeg">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -191,7 +226,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -201,7 +236,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Kevin Rue-Albrecht</span>
     </a>
   </div>
@@ -212,35 +247,31 @@ document.addEventListener('DOMContentLoaded', function() {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html" rel="" target="">
+    <a class="nav-link" href="../news.html" rel="" target="">
  <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./articles.qmd" rel="" target="">
+    <a class="nav-link" href="../articles.html" rel="" target="">
  <span class="menu-text">Articles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./reading-list.html" rel="" target="">
- <span class="menu-text">Reading List</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./software.html" rel="" target="">
+    <a class="nav-link" href="../software.html" rel="" target="">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html" rel="" target="">
+    <a class="nav-link" href="../teaching.html" rel="" target="">
  <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html" rel="" target="">
+    <a class="nav-link" href="../publications.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html" rel="" target="">
+    <a class="nav-link" href="../cv.html" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -251,41 +282,156 @@ document.addEventListener('DOMContentLoaded', function() {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#the-snakemake-cell-ranger-multi-workflow" id="toc-the-snakemake-cell-ranger-multi-workflow" class="nav-link" data-scroll-target="#the-snakemake-cell-ranger-multi-workflow">The Snakemake Cell Ranger Multi Workflow</a>
+  <ul class="collapse">
+  <li><a href="#what-is-cell-ranger-multi" id="toc-what-is-cell-ranger-multi" class="nav-link" data-scroll-target="#what-is-cell-ranger-multi">What is Cell Ranger Multi?</a></li>
+  </ul></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a>
+  <ul class="collapse">
+  <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
+  <li><a href="#configuration" id="toc-configuration" class="nav-link" data-scroll-target="#configuration">Configuration</a></li>
+  </ul></li>
+  <li><a href="#running-the-workflow" id="toc-running-the-workflow" class="nav-link" data-scroll-target="#running-the-workflow">Running the Workflow</a></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a>
+  <ul class="collapse">
+  <li><a href="#key-outputs" id="toc-key-outputs" class="nav-link" data-scroll-target="#key-outputs">Key Outputs</a></li>
+  </ul></li>
+  <li><a href="#lessons-learned" id="toc-lessons-learned" class="nav-link" data-scroll-target="#lessons-learned">Lessons Learned</a>
+  <ul class="collapse">
+  <li><a href="#tips-and-tricks" id="toc-tips-and-tricks" class="nav-link" data-scroll-target="#tips-and-tricks">Tips and Tricks</a></li>
+  <li><a href="#challenges-and-solutions" id="toc-challenges-and-solutions" class="nav-link" data-scroll-target="#challenges-and-solutions">Challenges and Solutions</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">First steps with the Snakemake Cell Ranger Multi workflow</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">snakemake</div>
+    <div class="quarto-category">workflow</div>
+    <div class="quarto-category">single-cell</div>
+    <div class="quarto-category">cellranger</div>
+  </div>
+  </div>
 
-
-<!--
-Fluid two-column layout with photo and biography.
-On small screens, biography is pushed to another row below the photo.
--->
-<div class="container-fluid">
-<div class="row">
-<div class="profile-photo">
-<p><img src="static/images/kevinrue.jpg" class="img-fluid img-fluid" style="border-radius: 50%"></p>
-<p style="font-size: 1.6rem; font-weight: 700; color: #325d88; margin-top: 1.5rem; margin-bottom: 0.5rem;">
-Kevin Rue-Albrecht
-</p>
-<div style="margin-top: 1rem;">
-<p><a href="mailto:kevin.rue-albrecht@imm.ox.ac.uk"><i class="fa-solid fa-at fa-2xl" aria-label="at"></i></a> &nbsp; <a href="https://scholar.google.co.uk/citations?user=JV0DWBQAAAAJ"><i class="fa-brands fa-google-scholar fa-2xl" aria-label="google-scholar"></i></a> &nbsp; <a href="https://github.com/kevinrue"><i class="fa-brands fa-github fa-2xl" aria-label="github"></i></a> &nbsp; <a href="https://dev.to/kevinrue"><i class="fa-brands fa-dev fa-2xl" aria-label="dev"></i></a></p>
+<div>
+  <div class="description">
+    Exploring the Snakemake workflow catalog for running Cell Ranger multi on single-cell RNA-seq data.
+  </div>
 </div>
-</div>
-<section id="biography" class="level2 profile-bio">
-<h2 class="anchored" data-anchor-id="biography">Biography</h2>
-<p>I am a <strong>computational biologist</strong> and <strong>biomedical data science trainer</strong> at the <a href="https://ox.ac.uk">University of Oxford</a>, with a focus on functional genomics and single-cell sequencing.</p>
-<p>I actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.</p>
-<p>Inspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.</p>
-<p>I am also an active contributor to the <a href="https://www.bioconductor.org/">Bioconductor</a> project, where I develop and maintain R packages together with the community.</p>
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Kevin Rue-Albrecht </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 17, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>[Add your introduction here - why you chose this workflow, what problem you were trying to solve]</p>
 </section>
-</div>
-</div>
+<section id="the-snakemake-cell-ranger-multi-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="the-snakemake-cell-ranger-multi-workflow">The Snakemake Cell Ranger Multi Workflow</h2>
+<p>The <a href="https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/snakemake-workflows/cellranger-multi">Snakemake Cell Ranger Multi workflow</a> provides a convenient way to process single-cell multimodal data using Cell Ranger’s multi pipeline.</p>
+<section id="what-is-cell-ranger-multi" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-cell-ranger-multi">What is Cell Ranger Multi?</h3>
+<p>[Describe what Cell Ranger Multi does and why it’s useful for multimodal single-cell analysis]</p>
+</section>
+</section>
+<section id="getting-started" class="level2">
+<h2 class="anchored" data-anchor-id="getting-started">Getting Started</h2>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p>[Add installation steps and requirements]</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Example installation commands</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="configuration" class="level3">
+<h3 class="anchored" data-anchor-id="configuration">Configuration</h3>
+<p>[Describe how to configure the workflow]</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Example config.yaml</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+</section>
+<section id="running-the-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="running-the-workflow">Running the Workflow</h2>
+<p>[Add steps for running the workflow]</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Example commands</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="results" class="level2">
+<h2 class="anchored" data-anchor-id="results">Results</h2>
+<p>[Describe the output and results]</p>
+<section id="key-outputs" class="level3">
+<h3 class="anchored" data-anchor-id="key-outputs">Key Outputs</h3>
+<ul>
+<li><strong>Output 1</strong>: Description</li>
+<li><strong>Output 2</strong>: Description</li>
+<li><strong>Output 3</strong>: Description</li>
+</ul>
+</section>
+</section>
+<section id="lessons-learned" class="level2">
+<h2 class="anchored" data-anchor-id="lessons-learned">Lessons Learned</h2>
+<p>[Share what you learned from using this workflow]</p>
+<section id="tips-and-tricks" class="level3">
+<h3 class="anchored" data-anchor-id="tips-and-tricks">Tips and Tricks</h3>
+<ul>
+<li><strong>Tip 1</strong>: [Your tip]</li>
+<li><strong>Tip 2</strong>: [Your tip]</li>
+<li><strong>Tip 3</strong>: [Your tip]</li>
+</ul>
+</section>
+<section id="challenges-and-solutions" class="level3">
+<h3 class="anchored" data-anchor-id="challenges-and-solutions">Challenges and Solutions</h3>
+<p>[Describe any challenges you faced and how you solved them]</p>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>[Wrap up your thoughts on the workflow]</p>
+</section>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<ul>
+<li><a href="https://snakemake.github.io/snakemake-workflow-catalog/docs/workflows/snakemake-workflows/cellranger-multi">Snakemake Cell Ranger Multi Workflow</a></li>
+<li><a href="https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger">Cell Ranger Documentation</a></li>
+<li><a href="https://snakemake.readthedocs.io/">Snakemake Documentation</a></li>
+</ul>
+<hr>
+<p><em>Have questions or suggestions? Feel free to reach out!</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -520,7 +666,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("git@github\.com:kevinrue\/kevinrue\.github\.io");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

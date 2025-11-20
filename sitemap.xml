@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/cv.html</loc>
-    <lastmod>2025-11-13T14:09:45.677Z</lastmod>
+    <lastmod>2025-11-20T15:08:28.394Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/publications.html</loc>
-    <lastmod>2025-11-13T14:09:43.384Z</lastmod>
-  </url>
-  <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/news.html</loc>
-    <lastmod>2025-11-13T14:09:41.624Z</lastmod>
-  </url>
-  <url>
-    <loc>git@github.com:kevinrue/kevinrue.github.io/teaching.html</loc>
-    <lastmod>2025-11-13T14:09:40.653Z</lastmod>
+    <lastmod>2025-11-20T15:08:26.367Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/index.html</loc>
-    <lastmod>2025-11-13T14:09:42.279Z</lastmod>
+    <lastmod>2025-11-20T15:08:24.959Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/reading-list/ahlmann-eltze-huber-2025.html</loc>
+    <lastmod>2025-11-20T15:08:23.629Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/teaching.html</loc>
+    <lastmod>2025-11-20T15:08:22.357Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/news.html</loc>
+    <lastmod>2025-11-20T15:08:23.043Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/reading-list/paper-review-template.html</loc>
+    <lastmod>2025-11-20T15:08:24.442Z</lastmod>
+  </url>
+  <url>
+    <loc>git@github.com:kevinrue/kevinrue.github.io/reading-list.html</loc>
+    <lastmod>2025-11-20T15:08:25.439Z</lastmod>
   </url>
   <url>
     <loc>git@github.com:kevinrue/kevinrue.github.io/software.html</loc>
-    <lastmod>2025-11-13T14:09:44.500Z</lastmod>
+    <lastmod>2025-11-20T15:08:27.203Z</lastmod>
   </url>
 </urlset>
