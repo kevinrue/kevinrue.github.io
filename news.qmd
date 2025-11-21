@@ -98,8 +98,24 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [ULB Solbosch Campus, Brussels, Belgium](https://maps.app.goo.gl/3L8ec4eEjwmrWcg86)  
-{{< fa user-circle >}} **My role:** Interested in networking with [Bioinformatics & Computational Biology
-](https://fosdem.org/2026/schedule/track/bioinformatics/) developers.
+{{< fa user-circle >}} **My role:** Interested in outcome of [Bioinformatics & Computational Biology](https://fosdem.org/2026/schedule/track/bioinformatics/) developers.
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
+23-26 March 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[ELIXIR Spring F2F Platform Meetings](https://elixir-europe.org/events/elixir-co-located-event-march-2026)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Helsinki, Finland](https://maps.app.goo.gl/o5kbj2Py3K82tQxq8)  
+{{< fa user-circle >}} **My role:** Interested in outcomes from the Data Platform, Tools Platform, and Compute Platform.
 :::
 :::
 :::
