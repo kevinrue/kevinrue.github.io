@@ -44,6 +44,36 @@ Analysis of multi-condition single-cell data with latent embedding multivariate 
 :::
 :::
 
+::: {.paper-card .read}
+::: {.paper-header}
+::: {.paper-title}
+Walking with coffee: Why does it spill?
+:::
+::: {.paper-meta}
+**DOI:** [10.1103/PhysRevE.85.046117](https://doi.org/10.1103/PhysRevE.85.046117) · **Read:** 2012
+:::
+:::
+
+::: {.paper-interest}
+**Original interest:** Fun read on fluid dynamics and everyday physics phenomena.
+:::
+:::
+
+::: {.paper-card .read}
+::: {.paper-header}
+::: {.paper-title}
+Does Guinness Travel Well?
+:::
+::: {.paper-meta}
+**DOI:** [10.1111/j.1750-3841.2010.01986.x](https://doi.org/10.1111/j.1750-3841.2010.01986.x) · **Read:** 2012
+:::
+:::
+
+::: {.paper-interest}
+**Original interest:** Fun read. The abstract alone is worth it!
+:::
+:::
+
 ---
 
 *This list is regularly updated as I discover new interesting papers and complete my readings.*
