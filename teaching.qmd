@@ -794,7 +794,7 @@ iSEE: Interactive visualization of SummarizedExperiment objects
 [SIB Days](https://sibdays.sib.swiss/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 2h30 online workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package..
+Co-organised and delivered a 2h30 online workshop covering interactive visualisation of omics data using the [iSEE](https://bioconductor.org/packages/iSEE/) package.
 
 {{< fa book-open >}} [Workshop materials](https://isee.github.io/iSEEWorkshop2020/)
 :::

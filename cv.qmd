@@ -336,7 +336,7 @@ iSEE: Interactive visualization of SummarizedExperiment objects
 [SIB Days 2020](https://sibdays.sib.swiss/archives/2020/) (Online)
 :::
 ::: {.cv-description}
-Co-organised and delivered a 2h30 online workshop (9-10 June 2020).
+Co-organised and delivered a 2h30 online workshop (8 June 2020).
 
 - [Workshop materials](https://github.com/iSEE/iSEEWorkshop2020)
 :::
