@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.340">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -58,7 +58,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -415,6 +416,20 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div class="event-card">
 <div class="event-date">
+<p>8-9 July 2026</p>
+</div>
+<div class="event-content">
+<div class="event-title">
+<p><a href="https://www.ukrn.org/conference/">UKRN Conference</a></p>
+</div>
+<div class="event-details">
+<p><i class="fa-solid fa-map-marker-alt" aria-label="map-marker-alt"></i> <a href="https://maps.app.goo.gl/5fkZsixDzka23yjdA">Manchester, UK</a><br>
+<i class="fa-solid fa-user-circle" aria-label="user-circle"></i> <strong>My role:</strong> Interested in attending</p>
+</div>
+</div>
+</div>
+<div class="event-card">
+<div class="event-date">
 <p>10-12 August 2026</p>
 </div>
 <div class="event-content">
@@ -703,7 +718,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/kevinrue\.github\.io\/");
+      var filterRegex = new RegExp("git@github\.com:kevinrue\/kevinrue\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

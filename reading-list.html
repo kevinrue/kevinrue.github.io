@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Kevin Rue-Albrecht - Software</title>
+<title>Kevin Rue-Albrecht - Literature Watchlist</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -220,7 +220,15 @@ document.addEventListener('DOMContentLoaded', function() {
  <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./software.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./articles.qmd" rel="" target="">
+ <span class="menu-text">Articles</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./reading-list.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Reading List</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./software.html" rel="" target="">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
@@ -251,11 +259,8 @@ document.addEventListener('DOMContentLoaded', function() {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#isee-ecosystem" id="toc-isee-ecosystem" class="nav-link active" data-scroll-target="#isee-ecosystem">iSEE Ecosystem</a></li>
-  <li><a href="#other-bioconductor-packages" id="toc-other-bioconductor-packages" class="nav-link" data-scroll-target="#other-bioconductor-packages">Other Bioconductor Packages</a></li>
-  <li><a href="#bioconductor-contributions" id="toc-bioconductor-contributions" class="nav-link" data-scroll-target="#bioconductor-contributions">Bioconductor Contributions</a></li>
-  <li><a href="#other-contributions" id="toc-other-contributions" class="nav-link" data-scroll-target="#other-contributions">Other Contributions</a></li>
-  <li><a href="#pet-projects" id="toc-pet-projects" class="nav-link" data-scroll-target="#pet-projects">Pet Projects</a></li>
+  <li><a href="#papers-to-read" id="toc-papers-to-read" class="nav-link active" data-scroll-target="#papers-to-read">Papers to Read</a></li>
+  <li><a href="#papers-ive-read" id="toc-papers-ive-read" class="nav-link" data-scroll-target="#papers-ive-read">Papers I’ve Read</a></li>
   </ul>
 </nav>
     </div>
@@ -264,7 +269,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Software</h1>
+<h1 class="title">Literature Watchlist</h1>
 </div>
 
 
@@ -279,193 +284,70 @@ document.addEventListener('DOMContentLoaded', function() {
 
 </header>
 
-<p>My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation.</p>
-<section id="isee-ecosystem" class="level2">
-<h2 class="anchored" data-anchor-id="isee-ecosystem">iSEE Ecosystem</h2>
-<p>The iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.</p>
-<p>I have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.</p>
-<div class="software-grid">
-<div class="software-card">
-<p><strong>iSEE</strong></p>
-<p>Core framework for interactive visualisation of genomics data.</p>
-<div class="software-links-inline">
-<p><a href="https://isee.github.io/"><i class="fa-solid fa-globe" aria-label="globe"></i></a> <a href="https://github.com/iSEE/iSEE"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEE"><i class="fa-solid fa-box" aria-label="box"></i></a> <a href="https://f1000research.com/articles/7-741/v1"><i class="fa-solid fa-file-text" aria-label="file-text"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEE?style=social.png" class="img-fluid"> <img src="https://img.shields.io/badge/published-F1000Research-blue.png" class="img-fluid"></p>
+<p>A curated list of papers I’m interested in reading, along with my thoughts on papers I’ve already explored.</p>
+<section id="papers-to-read" class="level2">
+<h2 class="anchored" data-anchor-id="papers-to-read">Papers to Read</h2>
+<div class="paper-card to-read">
+<div class="paper-header">
+<div class="paper-title">
+<p>Twelve Tips for Reproducible Analysis of Single-Cell Transcriptomics Data</p>
+</div>
+<div class="paper-meta">
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1145/3736731">10.1145/3736731</a> · <strong>Added:</strong> 18 Nov 2025</p>
 </div>
 </div>
-<div class="software-card">
-<p><strong>iSEEindex</strong></p>
-<p>Portal for multiple data sets in a single interface.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEindex"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEindex"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEindex?style=social.png" class="img-fluid"></p>
+<div class="paper-interest">
+<p><strong>Why I’m interested:</strong> Single-cell transcriptomics is a rapidly evolving field, and ensuring reproducibility is crucial for advancing research. This paper promises practical tips that could enhance my workflows.</p>
 </div>
 </div>
-<div class="software-card">
-<p><strong>iSEEde</strong></p>
-<p>Differential expression visualisation panels.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEde"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEde"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEde?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>iSEEpathways</strong></p>
-<p>Pathway analysis visualisation panels.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEpathways"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEpathways"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEpathways?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>iSEEhex</strong></p>
-<p>Panels specialised in hexagonal binning.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEhex"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEhex"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEhex?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>iSEEhub</strong></p>
-<p>Portal for the Bioconductor ExperimentHub data resources.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEhub"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEhub"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEhub?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>iSEEu</strong></p>
-<p>The “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/iSEE/iSEEu"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/iSEEu"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/iSEE/iSEEu?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="info-banner">
-<p><i class="fa-solid fa-circle-info" aria-label="circle-info"></i> For more information and links to third-party extensions, please visit the <a href="https://isee.github.io/">iSEE website</a>.</p>
-</div>
+<hr>
 </section>
-<section id="other-bioconductor-packages" class="level2">
-<h2 class="anchored" data-anchor-id="other-bioconductor-packages">Other Bioconductor Packages</h2>
-<p>Other software packages I have developed and maintain in the Bioconductor project include:</p>
-<div class="software-grid">
-<div class="software-card">
-<p><strong>velociraptor</strong></p>
-<p>A tool for the analysis of RNA velocity in single-cell RNA-seq data.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/velociraptor"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/velociraptor"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/velociraptor?style=social.png" class="img-fluid"></p>
+<section id="papers-ive-read" class="level2">
+<h2 class="anchored" data-anchor-id="papers-ive-read">Papers I’ve Read</h2>
+<div class="paper-card read">
+<div class="paper-header">
+<div class="paper-title">
+<p>Analysis of multi-condition single-cell data with latent embedding multivariate regression</p>
+</div>
+<div class="paper-meta">
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1038/s41588-024-01996-0">10.1038/s41588-024-01996-0</a> · <strong>Read:</strong> 13 Nov 2025</p>
 </div>
 </div>
-<div class="software-card">
-<p><strong>TVTB</strong></p>
-<p>The VCF Tool Box for genetic variation data.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/TVTB"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/TVTB"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/TVTB?style=social.png" class="img-fluid"></p>
+<div class="paper-interest">
+<p><strong>Original interest:</strong> Looking for advanced methods to analyze multi-condition single-cell datasets, particularly those that can handle complex experimental designs.</p>
+</div>
+<div class="paper-review-link">
+<p><a href="./reading-list/ahlmann-eltze-huber-2025.html"><i class="fa-solid fa-book-open" aria-label="book-open"></i> Read my full review</a></p>
 </div>
 </div>
-<div class="software-card">
-<p><strong>GOexpress</strong></p>
-<p>Gene expression patterns with GO annotations.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/GOexpress"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/GOexpress"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/GOexpress?style=social.png" class="img-fluid"></p>
+<div class="paper-card read">
+<div class="paper-header">
+<div class="paper-title">
+<p>Walking with coffee: Why does it spill?</p>
+</div>
+<div class="paper-meta">
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1103/PhysRevE.85.046117">10.1103/PhysRevE.85.046117</a> · <strong>Read:</strong> 2012</p>
 </div>
 </div>
-</div>
-</section>
-<section id="bioconductor-contributions" class="level2">
-<h2 class="anchored" data-anchor-id="bioconductor-contributions">Bioconductor Contributions</h2>
-<p>Bioconductor packages to which I have contributed code, documentation, or other improvements.</p>
-<div class="software-grid">
-<div class="software-card">
-<p><strong>BiocCheck</strong></p>
-<p>A package for checking Bioconductor package compliance.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/Bioconductor/BiocCheck"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://bioconductor.org/packages/BiocCheck"><i class="fa-solid fa-box" aria-label="box"></i></a><br>
-<img src="https://img.shields.io/github/stars/Bioconductor/BiocCheck?style=social.png" class="img-fluid"></p>
+<div class="paper-interest">
+<p><strong>Original interest:</strong> Fun read on fluid dynamics and everyday physics phenomena.</p>
 </div>
 </div>
+<div class="paper-card read">
+<div class="paper-header">
+<div class="paper-title">
+<p>Does Guinness Travel Well?</p>
 </div>
-</section>
-<section id="other-contributions" class="level2">
-<h2 class="anchored" data-anchor-id="other-contributions">Other Contributions</h2>
-<p>Software to which I have contributed code, documentation, or other improvements.</p>
-<div class="software-grid">
-<div class="software-card software-card-wide">
-<p><strong>Panpipes</strong></p>
-<p>Multi-modal single cell analysis pipelines.</p>
-<p>Comprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics</p>
-<div class="software-links-inline">
-<p><a href="https://panpipes-pipelines.readthedocs.io/en/latest/"><i class="fa-solid fa-globe" aria-label="globe"></i></a> <a href="https://github.com/DendrouLab/panpipes"><i class="fa-brands fa-github" aria-label="github"></i></a> <a href="https://doi.org/10.1186/s13059-024-03322-7"><i class="fa-solid fa-file-text" aria-label="file-text"></i></a><br>
-<img src="https://img.shields.io/github/stars/DendrouLab/panpipes?style=social.png" class="img-fluid"> <img src="https://img.shields.io/badge/published-Genome%20Biology-blue.png" class="img-fluid"></p>
+<div class="paper-meta">
+<p><strong>DOI:</strong> <a href="https://doi.org/10.1111/j.1750-3841.2010.01986.x">10.1111/j.1750-3841.2010.01986.x</a> · <strong>Read:</strong> 2012</p>
 </div>
 </div>
-</div>
-</section>
-<section id="pet-projects" class="level2">
-<h2 class="anchored" data-anchor-id="pet-projects">Pet Projects</h2>
-<p>Personal software experiments and tools available on GitHub.</p>
-<div class="software-grid">
-<div class="software-card">
-<p><strong>BiocPkgBrowser</strong></p>
-<p>Interactive app showcasing <a href="https://github.com/kevinrue/BiocPkgToolsPlus">BiocPkgToolsPlus</a> functionality.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/BiocPkgBrowser"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/BiocPkgBrowser?style=social.png" class="img-fluid"></p>
+<div class="paper-interest">
+<p><strong>Original interest:</strong> Fun read. The abstract alone is worth it!</p>
 </div>
 </div>
-<div class="software-card">
-<p><strong>BiocPkgToolsPlus</strong></p>
-<p>Extends <a href="https://bioconductor.org/packages/BiocPkgTools/">BiocPkgTools</a> functionality to study the Bioconductor ecosystem.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/BiocPkgToolsPlus"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/BiocPkgToolsPlus?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>biocwallpaper</strong></p>
-<p>R package to automate the production of Bioconductor-themed sticker walls.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/biocwallpaper"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/biocwallpaper?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>deeperTools</strong></p>
-<p>R package to process files produced by <a href="https://deeptools.readthedocs.io/en/latest/">deepTools</a>.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/deeperTools"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/deeperTools?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>sqlighter</strong></p>
-<p>R package providing wrapper functions around the <a href="https://cran.r-project.org/package=RSQLite">RSQLite</a> package.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/sqlighter"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/sqlighter?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>hancock</strong></p>
-<p>R package for learning and applying gene signatures associated with cellular phenotypes and identities.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/hancock"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/hancock?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-<div class="software-card">
-<p><strong>unisets</strong></p>
-<p>R package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets.</p>
-<div class="software-links-inline">
-<p><a href="https://github.com/kevinrue/unisets"><i class="fa-brands fa-github" aria-label="github"></i></a><br>
-<img src="https://img.shields.io/github/stars/kevinrue/unisets?style=social.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
+<hr>
+<p><em>This list is regularly updated as I discover new interesting papers and complete my readings.</em></p>
 
 
 </section>
@@ -703,7 +585,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("git@github\.com:kevinrue\/kevinrue\.github\.io");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }

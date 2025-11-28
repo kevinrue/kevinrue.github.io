@@ -1,1 +1,1 @@
-Sitemap: https://kevinrue.github.io/sitemap.xml
+Sitemap: git@github.com:kevinrue/kevinrue.github.io/sitemap.xml
