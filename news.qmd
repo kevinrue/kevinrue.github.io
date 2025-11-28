@@ -175,6 +175,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+8-9 July 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[UKRN Conference](https://www.ukrn.org/conference/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Manchester, UK](https://maps.app.goo.gl/5fkZsixDzka23yjdA)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 10-12 August 2026
 :::
 
