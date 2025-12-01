@@ -127,7 +127,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-content}
 ::: {.event-title}
-[Collaborations Workshop 2026 (CW26)](https://www.singlecellgenomics2026.com/)
+[Collaborations Workshop 2026 (CW26)](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26)
 :::
 
 ::: {.event-details}
