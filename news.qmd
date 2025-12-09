@@ -105,6 +105,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+5 February 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[EVERSE Community Engagement Event](https://everse.software/news/2025-10-31-community-engagement/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [CERN, Geneva, Switzerland](https://maps.app.goo.gl/rj75WPt7GCgcGu4k6) + Online (Zoom)  
+{{< fa user-circle >}} **My role:** Interested in engaging with the community.
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 23-26 March 2026
 :::
 
