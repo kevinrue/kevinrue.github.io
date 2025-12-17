@@ -49,6 +49,41 @@
     "text": "Certifications\n\n\nJul 2017 -\nSep 2017\n\n\nMachine Learning\n\n\nCoursera (Online)\n\n\nSupervised and unsupervised learning, best practices, and key algorithms.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nPython for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nIntroduction to Python programming for genomic data analysis using Jupyter notebooks.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nCommand Line Tools for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nManaging and analyzing large-scale genomic datasets using Unix command-line tools and workflows.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nBioconductor for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nUsing the Bioconductor project in R to perform analysis of genomic data.\n\n\n\n\nOct 2015 -\nNov 2015\n\n\nStatistics for Genomic Data Science\n\n\nCoursera (Johns Hopkins University)\n\n\nStatistical methods for genomic data analysis including experimental design and inference.\n\n\n\n\nAug 2013 -\nDec 2013\n\n\nNetwork Analysis in Systems Biology\n\n\nCoursera (Online)\n\n\nData integration and statistical methods for systems biology including clustering, enrichment analysis, and network construction."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Kevin Rue-Albrecht",
+    "section": "",
+    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Latest news",
+    "section": "",
+    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
+  },
+  {
+    "objectID": "news.html#recent-updates",
+    "href": "news.html#recent-updates",
+    "title": "Latest news",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
+  },
+  {
+    "objectID": "news.html#save-the-date",
+    "href": "news.html#save-the-date",
+    "title": "Latest news",
+    "section": "Save the Date",
+    "text": "Save the Date\n\n\n31 January & 1 February 2026\n\n\n\nFree and Open Source Developers’ European Meeting (FOSDEM) 2026\n\n\n ULB Solbosch Campus, Brussels, Belgium\n My role: Interested in outcome of Bioinformatics & Computational Biology developers.\n\n\n\n\n\n5 February 2026\n\n\n\nEVERSE Community Engagement Event\n\n\n CERN, Geneva, Switzerland + Online (Zoom)\n My role: Interested in engaging with the community.\n\n\n\n\n\n23-26 March 2026\n\n\n\nELIXIR Spring F2F Platform Meetings\n\n\n Helsinki, Finland\n My role: Interested in outcomes from the Data Platform, Tools Platform, and Compute Platform.\n\n\n\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n8-10 June 2026\n\n\n\nELIXIR All Hands 2026\n\n\n Lyon, France\n My role: Interested in attending\n\n\n\n\n\n22-24 June 2026\n\n\n\nGalaxy Community Conference (GCC2026)\n\n\n Université Clermont Auvergne (UCA), France\n My role: Interested in attending\n\n\n\n\n\n8-9 July 2026\n\n\n\nUKRN Conference\n\n\n Manchester, UK\n My role: Interested in attending\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending\n\n\n\n\n\n31 August 2026 -\n4 September 2026\n\n\n\nEuropean Conference on Computational Biology (ECCB) 2026\n\n\n Geneva, witzerland\n My role: Interested in attending\n\n\n\n\n\nExpected October 2026\n\n\n\nELIXIR-UK All Hands 2026\n\n\n Edition 2025\n My role: Interested in attending\n\n\n\n\n\nExpected November 2026\n\n\n\nBiocHackathon Europe 2026\n\n\n Barcelona, Spain\n Edition 2025\n My role: Interested in attending"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -98,25 +133,46 @@
     "text": "Shields Group (2010)\nThis publication arose from a summer internship in the group of Prof. Denis Shields, under the supervision of Dr. Nora Khaldi.\n\n\nCorrelation of disorder between S. cerevisiae interacting proteins 2012\n\n\nRue-Albrecht K, Shields DC, Khaldi N.\n\n\nPaper · DOI · PubMed"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Latest news",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
     "section": "",
-    "text": "On this page, I list recent updates regarding my research activities, publications, software releases, and upcoming events."
+    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation."
   },
   {
-    "objectID": "news.html#recent-updates",
-    "href": "news.html#recent-updates",
-    "title": "Latest news",
-    "section": "Recent Updates",
-    "text": "Recent Updates\n\n\n31 October 2025\n\n\nFunding opportunity outcome\n\nResearch Software Maintenance Fund: full application funding panels completed\n\n\nSoftware Sustainability Institute\n\n\n My role: Unsuccessful applicant at the Expression of Interest stage & Observer on a funding panel assessing applications.\n\n\n Read blog post\n\n\n\n\n\n17 October 2025\n\n\nNew preprint published on bioRxiv\n\nFibroblast specialisation across microanatomy in a single-cell atlas of healthy human Achilles tendon\n\n\nCarla J. Cohen, Jolet Y. Mimpen, Alina Kurjan, Claudia Paul, Shreeya Sharma, Lorenzo Ramos-Mucci, Chinemerem T. Ikwanusi, Ali Cenk Aksu, Tracy Boakye Serebour, Marina Nikolic, Kevin Rue-Albrecht, Christopher Gibbons, Duncan Whitwell, Tom Cosker, Steven Gwilym, Ather Siddiqi, Raja Bhaskara Rajasekaran, Harriet Branford-White, Adam P. Cribbs, Philippa A. Hulley, David Sims, Mathew J. Baldwin, Sarah J. B. Snelling\n\n\n My role: Contributed to the analysis of single-nuclei and spatial RNA-seq data.\n\n\n Read preprint\n\n\n\n\n\n8 September 2025\n\n\nNew preprint published on Research Square\n\nThe transcriptional repressor AEBP2 is indispensable for the epigenetic control of mimetic thymic epithelial cell differentiation and central self-tolerance induction\n\n\nWei Wu, Kevin Rue-Albrecht, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu Zang, Stephen Sansom, Yiyan Zheng, Georg Hollander\n\n\n My role: Contributed to the analysis of bulk and single-cell RNA-seq data.\n\n\n Read preprint"
+    "objectID": "software.html#isee-ecosystem",
+    "href": "software.html#isee-ecosystem",
+    "title": "Software",
+    "section": "iSEE Ecosystem",
+    "text": "iSEE Ecosystem\nThe iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.\nI have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.\n\n\niSEE\nCore framework for interactive visualisation of genomics data.\n\n   \n \n\n\n\niSEEindex\nPortal for multiple data sets in a single interface.\n\n \n\n\n\n\niSEEde\nDifferential expression visualisation panels.\n\n \n\n\n\n\niSEEpathways\nPathway analysis visualisation panels.\n\n \n\n\n\n\niSEEhex\nPanels specialised in hexagonal binning.\n\n \n\n\n\n\niSEEhub\nPortal for the Bioconductor ExperimentHub data resources.\n\n \n\n\n\n\niSEEu\nThe “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.\n\n \n\n\n\n\n\n For more information and links to third-party extensions, please visit the iSEE website."
   },
   {
-    "objectID": "news.html#save-the-date",
-    "href": "news.html#save-the-date",
-    "title": "Latest news",
-    "section": "Save the Date",
-    "text": "Save the Date\n\n\n31 January & 1 February 2026\n\n\n\nFree and Open Source Developers’ European Meeting (FOSDEM) 2026\n\n\n ULB Solbosch Campus, Brussels, Belgium\n My role: Interested in outcome of Bioinformatics & Computational Biology developers.\n\n\n\n\n\n5 February 2026\n\n\n\nEVERSE Community Engagement Event\n\n\n CERN, Geneva, Switzerland + Online (Zoom)\n My role: Interested in engaging with the community.\n\n\n\n\n\n23-26 March 2026\n\n\n\nELIXIR Spring F2F Platform Meetings\n\n\n Helsinki, Finland\n My role: Interested in outcomes from the Data Platform, Tools Platform, and Compute Platform.\n\n\n\n\n\n28-30 April 2026\n\n\n\nCollaborations Workshop 2026 (CW26)\n\n\n ICC Belfast, UK\n Organiser: Software Sustainability Institute\n My role: Interested in attending\n\n\n\n\n\n3-5 June 2026\n\n\n\nEuropean Bioconductor Conference 2026\n\n\n Turku, Finland\n Meet the volunteers\n My role: On the organising committee\n\n\n\n\n\n22-24 June 2026\n\n\n\nGalaxy Community Conference (GCC2026)\n\n\n Université Clermont Auvergne (UCA), France\n My role: Interested in attending\n\n\n\n\n\n8-9 July 2026\n\n\n\nUKRN Conference\n\n\n Manchester, UK\n My role: Interested in attending\n\n\n\n\n\n10-12 August 2026\n\n\n\nNorth American Bioconductor Conference 2026\n\n\n Fred Hutch Cancer Center, Seattle, WA\n Meet the volunteers\n My role: Interested in attending\n\n\n\n\n\n31 August 2026 -\n4 September 2026\n\n\n\nEuropean Conference on Computational Biology (ECCB) 2026\n\n\n Geneva, witzerland\n My role: Interested in attending\n\n\n\n\n\nExpected October 2026\n\n\n\nELIXIR-UK All Hands 2026\n\n\n Edition 2025\n My role: Interested in attending\n\n\n\n\n\nExpected November 2026\n\n\n\nBiocHackathon Europe 2026\n\n\n Barcelona, Spain\n Edition 2025\n My role: Interested in attending"
+    "objectID": "software.html#other-bioconductor-packages",
+    "href": "software.html#other-bioconductor-packages",
+    "title": "Software",
+    "section": "Other Bioconductor Packages",
+    "text": "Other Bioconductor Packages\nOther software packages I have developed and maintain in the Bioconductor project include:\n\n\nvelociraptor\nA tool for the analysis of RNA velocity in single-cell RNA-seq data.\n\n \n\n\n\n\nTVTB\nThe VCF Tool Box for genetic variation data.\n\n \n\n\n\n\nGOexpress\nGene expression patterns with GO annotations."
+  },
+  {
+    "objectID": "software.html#bioconductor-contributions",
+    "href": "software.html#bioconductor-contributions",
+    "title": "Software",
+    "section": "Bioconductor Contributions",
+    "text": "Bioconductor Contributions\nBioconductor packages to which I have contributed code, documentation, or other improvements.\n\n\nBiocCheck\nA package for checking Bioconductor package compliance."
+  },
+  {
+    "objectID": "software.html#other-contributions",
+    "href": "software.html#other-contributions",
+    "title": "Software",
+    "section": "Other Contributions",
+    "text": "Other Contributions\nSoftware to which I have contributed code, documentation, or other improvements.\n\n\nPanpipes\nMulti-modal single cell analysis pipelines.\nComprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics"
+  },
+  {
+    "objectID": "software.html#pet-projects",
+    "href": "software.html#pet-projects",
+    "title": "Software",
+    "section": "Pet Projects",
+    "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\nBiocPkgBrowser\nInteractive app showcasing BiocPkgToolsPlus functionality.\n\n\n\n\n\n\nBiocPkgToolsPlus\nExtends BiocPkgTools functionality to study the Bioconductor ecosystem.\n\n\n\n\n\n\nbiocwallpaper\nR package to automate the production of Bioconductor-themed sticker walls.\n\n\n\n\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
   },
   {
     "objectID": "teaching.html",
@@ -166,61 +222,5 @@
     "title": "Teaching",
     "section": "2020",
     "text": "2020\n\n\n\nSep 2020-\nOct 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nSixteen (of thirty) days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants).\n\n\n\n\nJul 2020\n\n\nInteractive visualization of SummarizedExperiment objects with iSEE\n\n\nBioconductor Conference 2020 (Online)\n\n\nCo-organised and delivered a 55min online workshop covering interactive visualisation of omics data using the iSEE package.\n Workshop materials    YouTube recording\n\n\n\n\nJun 2020\n\n\niSEE: Interactive visualization of SummarizedExperiment objects\n\n\nSIB Days (Online)\n\n\nCo-organised and delivered a 2h30 online workshop covering interactive visualisation of omics data using the iSEE package.\n Workshop materials\n\n\n\n\nApr 2020-\nJun 2020\n\n\nOxford Biomedical Data Science (OBDS) Training Programme\n\n\nOxford Biomedical Data Science (OBDS) Training Programme (Oxford, UK)\n\n\nThirty days of hands-on training covering Linux, Python, and R programming for genomic and single-cell data analysis (8 participants)."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "Kevin Rue-Albrecht\n\n\n         \n\n\n\n\nI am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Kevin Rue-Albrecht",
-    "section": "",
-    "text": "I am a computational biologist and biomedical data science trainer at the University of Oxford, with a focus on functional genomics and single-cell sequencing.\nI actively collaborate on a range of research projects, predominantly applying single-cell analysis to diverse biological questions.\nInspiration from these collaborations drives my development of research software, with a particular emphasis on interactive data visualisation.\nI am also an active contributor to the Bioconductor project, where I develop and maintain R packages together with the community."
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "My research and development work has resulted in various software packages, primarily focused on bioinformatics and data visualisation."
-  },
-  {
-    "objectID": "software.html#isee-ecosystem",
-    "href": "software.html#isee-ecosystem",
-    "title": "Software",
-    "section": "iSEE Ecosystem",
-    "text": "iSEE Ecosystem\nThe iSEE (Interactive SummarizedExperiment Explorer) ecosystem provides a framework for interactive visualisation of genomics data.\nI have collaboratively developed and maintain the core iSEE package along with several extension packages in the Bioconductor project.\n\n\niSEE\nCore framework for interactive visualisation of genomics data.\n\n   \n \n\n\n\niSEEindex\nPortal for multiple data sets in a single interface.\n\n \n\n\n\n\niSEEde\nDifferential expression visualisation panels.\n\n \n\n\n\n\niSEEpathways\nPathway analysis visualisation panels.\n\n \n\n\n\n\niSEEhex\nPanels specialised in hexagonal binning.\n\n \n\n\n\n\niSEEhub\nPortal for the Bioconductor ExperimentHub data resources.\n\n \n\n\n\n\niSEEu\nThe “iSEE universe”. Goal: a wrapper for all iSEE extensions, like the tidyverse. For now, a collection of miscellaneous panels and “modes”.\n\n \n\n\n\n\n\n For more information and links to third-party extensions, please visit the iSEE website."
-  },
-  {
-    "objectID": "software.html#other-bioconductor-packages",
-    "href": "software.html#other-bioconductor-packages",
-    "title": "Software",
-    "section": "Other Bioconductor Packages",
-    "text": "Other Bioconductor Packages\nOther software packages I have developed and maintain in the Bioconductor project include:\n\n\nvelociraptor\nA tool for the analysis of RNA velocity in single-cell RNA-seq data.\n\n \n\n\n\n\nTVTB\nThe VCF Tool Box for genetic variation data.\n\n \n\n\n\n\nGOexpress\nGene expression patterns with GO annotations."
-  },
-  {
-    "objectID": "software.html#bioconductor-contributions",
-    "href": "software.html#bioconductor-contributions",
-    "title": "Software",
-    "section": "Bioconductor Contributions",
-    "text": "Bioconductor Contributions\nBioconductor packages to which I have contributed code, documentation, or other improvements.\n\n\nBiocCheck\nA package for checking Bioconductor package compliance."
-  },
-  {
-    "objectID": "software.html#other-contributions",
-    "href": "software.html#other-contributions",
-    "title": "Software",
-    "section": "Other Contributions",
-    "text": "Other Contributions\nSoftware to which I have contributed code, documentation, or other improvements.\n\n\nPanpipes\nMulti-modal single cell analysis pipelines.\nComprehensive workflows for scRNA-seq, CITE-seq, scV(D)J-seq, scATAC-seq, and spatial transcriptomics"
-  },
-  {
-    "objectID": "software.html#pet-projects",
-    "href": "software.html#pet-projects",
-    "title": "Software",
-    "section": "Pet Projects",
-    "text": "Pet Projects\nPersonal software experiments and tools available on GitHub.\n\n\nBiocPkgBrowser\nInteractive app showcasing BiocPkgToolsPlus functionality.\n\n\n\n\n\n\nBiocPkgToolsPlus\nExtends BiocPkgTools functionality to study the Bioconductor ecosystem.\n\n\n\n\n\n\nbiocwallpaper\nR package to automate the production of Bioconductor-themed sticker walls.\n\n\n\n\n\n\ndeeperTools\nR package to process files produced by deepTools.\n\n\n\n\n\n\nsqlighter\nR package providing wrapper functions around the RSQLite package.\n\n\n\n\n\n\nhancock\nR package for learning and applying gene signatures associated with cellular phenotypes and identities.\n\n\n\n\n\n\nunisets\nR package providing S4 classes to store relationships between elements and sets, with a particular emphasis on gene sets."
   }
 ]
