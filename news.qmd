@@ -175,6 +175,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+8-10 June 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[ELIXIR All Hands 2026](https://elixir-europe.org/events/all-hands)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Lyon, France](https://maps.app.goo.gl/UVrrungJauZZqLMx5)  
+{{< fa user-circle >}} **My role:** Interested in attending
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 22-24 June 2026
 :::
 
