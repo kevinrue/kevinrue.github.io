@@ -58,6 +58,28 @@ Lycée Jean Rostand, Strasbourg (France)
 :::
 
 ::: {.cv-section}
+## {{< fa award >}} Fellowships & Awards
+
+::: {.cv-entry}
+::: {.cv-dates}
+2026 - 2027
+:::
+::: {.cv-title}
+Software Sustainability Institute Research Software Fellowship
+:::
+::: {.cv-location}
+Software Sustainability Institute
+:::
+::: {.cv-description}
+The [Fellowship Programme](https://www.software.ac.uk/programmes/fellowship-programme) supports ambassador for good practice in research software.
+
+For more details, please refer to the [Blog post](https://www.software.ac.uk/news/introducing-2026-fellowship-cohort-insights-and-celebrations) and my [SSI profile](https://www.software.ac.uk/fellowship-programme/kevin-rue-albrecht).
+:::
+:::
+
+:::
+
+::: {.cv-section}
 ## {{< fa microscope >}} Research Experience
 
 ::: {.cv-entry}

@@ -8,6 +8,33 @@ On this page, I list [recent updates](#recent-updates) regarding my research act
 
 ::: {.news-card}
 ::: {.news-date}
+11 December 2025
+:::
+
+::: {.news-content}
+**Fellowship application outcome**
+
+::: {.news-title}
+Software Sustainability Institute Research Software Fellowship: successful applicant announced
+:::
+
+::: {.news-authors}
+[Software Sustainability Institute](https://www.software.ac.uk/)
+:::
+
+::: {.news-role}
+{{< fa user-circle >}} **My role:** Successful applicant!
+:::
+
+::: {.news-links}
+[{{< fa file-text >}} Read blog post](https://www.software.ac.uk/news/introducing-2026-fellowship-cohort-insights-and-celebrations)
+[{{< fa user >}} My SSI profile](https://www.software.ac.uk/fellowship-programme/kevin-rue-albrecht)
+:::
+:::
+:::
+
+::: {.news-card}
+::: {.news-date}
 31 October 2025
 :::
 
