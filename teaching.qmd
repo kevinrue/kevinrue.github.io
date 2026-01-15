@@ -7,6 +7,22 @@ For a summary, please see the [Teaching Experience](cv.qmd#fa-chalkboard-user-te
 
 ## 2025
 
+::: {.cv-entry}
+::: {.cv-dates}
+Nov 2025 -\
+Dec 2025
+:::
+::: {.cv-title}
+Spatial Transcriptomics data analysis using R
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
+:::
+:::
+
 ::: {.cv-section}
 ::: {.cv-entry}
 ::: {.cv-dates}
