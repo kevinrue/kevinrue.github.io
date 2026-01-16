@@ -164,7 +164,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 :::
 :::
 
-::: {.event-card}
+::: {.event-card .confirmed}
 ::: {.event-date}
 28-30 April 2026
 :::
@@ -177,7 +177,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [ICC Belfast, UK](https://maps.app.goo.gl/j1r3oYTqBvLQUep78)  
 {{< fa users >}} Organiser: [Software Sustainability Institute](https://www.software.ac.uk/)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Attending as a 2026 Software Sustainability Institute Research Software Fellow.
 :::
 :::
 :::

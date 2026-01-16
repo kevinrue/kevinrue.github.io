@@ -607,6 +607,37 @@ h2:first-of-type {
   gap: 1.5rem;
 }
 
+/* Confirmed Events - Green accent */
+.event-card.confirmed {
+  border-left-color: #28a745;
+  background-color: #f8fcf9;
+}
+
+.event-card.confirmed .event-date {
+  color: #28a745;
+}
+
+.event-card.confirmed .event-details .fa-map-marker-alt,
+.event-card.confirmed .event-details .fa-users,
+.event-card.confirmed .event-details .fa-clock,
+.event-card.confirmed .event-details .fa-user-circle {
+  color: #28a745;
+}
+
+/* Add a confirmed badge */
+.event-card.confirmed .event-title::after {
+  content: "✓ Confirmed";
+  display: inline-block;
+  margin-left: 0.75rem;
+  padding: 0.2rem 0.6rem;
+  background-color: #28a745;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 12px;
+  vertical-align: middle;
+}
+
 .event-date {
   font-weight: 700;
   color: #98a6ad;
