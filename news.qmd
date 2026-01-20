@@ -281,8 +281,10 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 :::
 
 ::: {.event-details}
-{{< fa map-marker-alt >}} [Geneva, witzerland](https://maps.app.goo.gl/x3Zu6yhaPuCdju8s6)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa map-marker-alt >}} [Geneva, Switzerland](https://maps.app.goo.gl/x3Zu6yhaPuCdju8s6)  
+{{< fa user-circle >}} **My role:** Interested in:
+
+- A session shared between the [ELIXIR Single Cell Omics Community](https://elixir-europe.org/communities/single-cell-omics) and the [scFAIR network](https://sc-fair.org/).
 :::
 :::
 :::
@@ -321,14 +323,3 @@ BiocHackathon Europe 2026
 :::
 :::
 :::
-
-
-<!--
-## Upcoming Events
-
-### 04 December 2025
-
-I will be hosting Wolfgang Huber as part of the WIMM Seminar Series on 4th December 2025. 
-
-More details will be made available soon on the [WIMM Seminars page](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-molecular-haematology-unit/seminars).
--->
