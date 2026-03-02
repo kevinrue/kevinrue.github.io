@@ -5,6 +5,54 @@ title: "Teaching"
 This page details my teaching experience.
 For a summary, please see the [Teaching Experience](cv.qmd#fa-chalkboard-user-teaching-experience) section of my CV.
 
+## 2026
+
+::: {.cv-entry}
+::: {.cv-dates}
+Feb 2026
+:::
+::: {.cv-title}
+Building Genomics pipelines with Ruffus / CGATcore
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+One-day lesson of hands-on training covering the use and design of computational workflows (7 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Feb 2026
+:::
+::: {.cv-title}
+Building Genomics pipelines with Snakemake
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+One-day lesson of hands-on training covering the use and design of computational workflows (7 participants).
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
+Jan 2026 -\
+Feb 2026
+:::
+::: {.cv-title}
+Spatial transcriptomics data analysis using Python
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+Four days of hands-on training covering spatial transcriptomics data analysis (12 participants).
+:::
+:::
+
 ## 2025
 
 ::: {.cv-entry}
