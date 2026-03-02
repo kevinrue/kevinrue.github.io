@@ -739,6 +739,21 @@ Dublin, Ireland
 
 ::: {.cv-entry}
 ::: {.cv-dates}
+Mar 2026
+:::
+::: {.cv-title}
+Introduction to Machine Learning for Genomics
+:::
+::: {.cv-location}
+[Oxford Biomedical Data Science (OBDS) Training Programme][obds-training] (Oxford, UK)
+:::
+::: {.cv-description}
+Four-day intensive course introducing machine learning and deep learning methods for genomics, covering classification and regression, evaluation metrics, single-cell RNA-seq analysis, multi-omics integration, CNNs, and transformer-based models.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-dates}
 Jul 2017 -\
 Sep 2017
 :::

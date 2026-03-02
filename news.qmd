@@ -219,6 +219,23 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-card}
 ::: {.event-date}
+19 June 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[R Dev Day @ Rencontres R 2026](https://pretix.eu/r-contributors/r-dev-day-rr2026/)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Nantes, France / Online](https://maps.app.goo.gl/WpYwKanrk7U5bdpPA)  
+{{< fa user-circle >}} **My role:** Interested in participating remotely
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
 22-24 June 2026
 :::
 
