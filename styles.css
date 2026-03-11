@@ -674,7 +674,8 @@ h2:first-of-type {
 .event-details .fa-map-marker-alt,
 .event-details .fa-users,
 .event-details .fa-clock,
-.event-details .fa-user-circle {
+.event-details .fa-user-circle,
+.event-details .fa-calendar {
   color: #98a6ad;
   margin-right: 0.3rem;
   width: 1rem;

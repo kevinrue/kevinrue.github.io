@@ -195,7 +195,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Turku, Finland](https://maps.app.goo.gl/VAhXdCYVnxyt5ZP18)  
 {{< fa users >}} [Meet the volunteers](https://eurobioc2026.bioconductor.org/pages/organizers.html)  
-{{< fa user-circle >}} **My role:** On the organising committee
+{{< fa user-circle >}} **My role:** On the organising committee; unable to attend in person.
 :::
 :::
 :::
@@ -207,12 +207,14 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-content}
 ::: {.event-title}
-[ELIXIR All Hands 2026](https://elixir-europe.org/events/all-hands)
+[ELIXIR All Hands 2026](https://elixir-europe.org/events/elixir-all-hands-2026)
 :::
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Lyon, France](https://maps.app.goo.gl/UVrrungJauZZqLMx5)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
+
+Opportunity to review ELIXIR’s recent achievements, share ongoing activities and discuss plans for the future
 :::
 :::
 :::
@@ -229,12 +231,12 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Nantes, France / Online](https://maps.app.goo.gl/WpYwKanrk7U5bdpPA)  
-{{< fa user-circle >}} **My role:** Interested in participating remotely
+{{< fa user-circle >}} **My role:** Interested in participating remotely.
 :::
 :::
 :::
 
-::: {.event-card}
+::: {.event-card .confirmed}
 ::: {.event-date}
 22-24 June 2026
 :::
@@ -246,7 +248,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Université Clermont Auvergne (UCA), France](https://maps.app.goo.gl/3t3s3fvDJUWxN8fC6)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Attending.
 :::
 :::
 :::
@@ -263,7 +265,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Manchester, UK](https://maps.app.goo.gl/5fkZsixDzka23yjdA)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
 :::
 :::
 :::
@@ -281,7 +283,7 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Fred Hutch Cancer Center, Seattle, WA](https://maps.app.goo.gl/fJ9qiQBucd5PEKaD6)  
 {{< fa users >}} [Meet the volunteers](https://bioc2026.bioconductor.org/organizers/)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
 :::
 :::
 :::
@@ -299,9 +301,9 @@ Wei Wu, **Kevin Rue-Albrecht**, Qian Cheng, Fatima Dhalla, Mary Deadman, Rongyu 
 
 ::: {.event-details}
 {{< fa map-marker-alt >}} [Geneva, Switzerland](https://maps.app.goo.gl/x3Zu6yhaPuCdju8s6)  
-{{< fa user-circle >}} **My role:** Interested in:
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
 
-- A session shared between the [ELIXIR Single Cell Omics Community](https://elixir-europe.org/communities/single-cell-omics) and the [scFAIR network](https://sc-fair.org/).
+Special interest in a session shared between the [ELIXIR Single Cell Omics Community](https://elixir-europe.org/communities/single-cell-omics) and the [scFAIR network](https://sc-fair.org/).
 :::
 :::
 :::
@@ -318,25 +320,46 @@ ELIXIR-UK All Hands 2026
 
 ::: {.event-details}
 {{< fa clock >}} [Edition 2025](https://elixiruknode.org/event/elixir-uk-all-hands-2025/)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
 :::
 :::
 :::
 
 ::: {.event-card}
 ::: {.event-date}
-Expected November 2026
+9-13 November 2026
 :::
 
 ::: {.event-content}
 ::: {.event-title}
-BiocHackathon Europe 2026
+[BiocHackathon Europe 2026](https://biohackathon-europe.org/)
 :::
 
 ::: {.event-details}
-{{< fa map-marker-alt >}} [Barcelona, Spain](https://maps.app.goo.gl/vyGxh7xCbmGizSzKA)  
-{{< fa clock >}} [Edition 2025](https://biohackathon-europe.org/)  
-{{< fa user-circle >}} **My role:** Interested in attending
+{{< fa map-marker-alt >}} [Campus Belloch, Barcelona, Barcelona, Spain](https://maps.app.goo.gl/EVgy4zvr56o8CX116)  
+{{< fa user-circle >}} **My role:** Interested in participating remotely.  
+{{< fa calendar >}} **Key date:** Registration will open in June 2026.
+
+Focus on areas that support the work of ELIXIR Platforms, Communities and Focus Groups, including FAIR principles, identifiers, metadata standards, ontologies and metadata catalogues. 
+:::
+:::
+:::
+
+::: {.event-card}
+::: {.event-date}
+7-11 December 2026
+:::
+
+::: {.event-content}
+::: {.event-title}
+[5th BioHackathon Germany](https://www.denbi.de/de-nbi-events/2051-5th-biohackathon-germany)
+:::
+
+::: {.event-details}
+{{< fa map-marker-alt >}} [Göttingen, Germany](https://maps.app.goo.gl/CAfaLuN6TwwJGQPj8)  
+{{< fa user-circle >}} **My role:** Interested; unable to attend in person.
+
+Interest in areas such as FAIR, identifiers, metadata standards, ontologies and metadata catalogues
 :::
 :::
 :::
