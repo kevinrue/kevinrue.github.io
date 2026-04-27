@@ -30,6 +30,12 @@ On small screens, biography is pushed to another row below the photo.
 :::
 :::
 
+::: {style="margin-top: 1rem; text-align: center;"}
+<a href="https://algora.io/profile/kevinrue" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <img src="https://algora.io/og/user/kevinrue" alt="Algora Profile" style="max-width: 90%; border-radius: 8px; border: 1px solid #ddd;" />
+</a>
+:::
+
 ::: {.profile-bio}
 ## Biography
 
